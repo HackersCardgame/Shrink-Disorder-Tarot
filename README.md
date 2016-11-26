@@ -46,7 +46,7 @@ May this repository be under Creative Commons by-nc-sa stehen and may these be b
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-Dann hinweis an die Patent Leute, ich schaue dass ich auch für die Dinge die ich für die Karten verwende z.B. Freie Schriften nehme und für das Bildmaterial Creative Commons Lizenziertes Material wenn es geht, falls ich irgenwo was übertreten hätte bitte kurz ne Meldung unter der Registerkarte "Issues" dann korrigiere ich es falls etwas nicht rechtens ist.
+For the Patent-Trolls, i try to use Images, Fonts... that are Creative Commons or free, if something went wrong and i unfortunately took something that is illegal, please tell me in "issues" so i can remove it...
 
 Das Projekt ist für den Moment mal auf http://psychiatrie-leaks.ch/Shrink-Disorder-Tarot zuhause...
 

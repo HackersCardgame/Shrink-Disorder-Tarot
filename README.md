@@ -42,7 +42,7 @@ Ausdrucken geht am besten auf A6 Halbkarton Karten (z.B. aus der Migros Papeteri
 
 Rückseite ist im Ordner: Back
 
-May this repository be under Creative Commons by-nc-sa stehen and may these be broken in case kids and jounger people can be protected by changing the License
+May this repository be under Creative Commons by-nc-sa and may these be broken, in case kids and jounger people can be protected by changing the License
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 

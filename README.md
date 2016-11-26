@@ -30,7 +30,7 @@ MKULTRA: ~1950 ⇔ DSM: explosion of the number of Mental Diseases ~1970 / Donal
 
 
 #### Examples:
-Spinal Cord Implant that was enhanced with all nerves **beats** the Stimoceiver or the WO2005055579A1 Patent, since the spinal Spinal Cord Implant would have more influence to the body than the oder Technologies.
+Spinal Cord Implant that was enhanced with all nerves **beats** the Stimoceiver or the WO2005055579A1 Patent, since the Spinal Cord Implant would have more influence to the body than the oder Technologies.
 
 <img src="http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t6.png" width=200> <img src="http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t1.png" width=200> <img src="http://psychiatrie-leaks.ch/Shrink-Disorder-Game/t3.png" width=200>
 

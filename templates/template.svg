@@ -44,10 +44,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0000001"
-     inkscape:cx="35.794429"
+     inkscape:cx="49.044428"
      inkscape:cy="166.78111"
      inkscape:document-units="px"
-     inkscape:current-layer="layer18"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
@@ -268,7 +268,7 @@
     </text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="static-text German"
      id="g7819"
      inkscape:groupmode="layer">
@@ -368,7 +368,7 @@
      inkscape:groupmode="layer"
      id="g7801"
      inkscape:label="static-text-shrink German"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="default"
        id="text7803"
@@ -455,8 +455,8 @@
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><flowRegion
          id="flowRegion25114"><rect
            id="rect25116"
-           width="207.85315"
-           height="156.61092"
+           width="204.85315"
+           height="126.6109"
            x="38"
            y="208"
            style="text-align:justify;text-anchor:start"
@@ -472,7 +472,7 @@
          style="text-align:end;text-anchor:end;fill:#ff0000"
          y="205"
          x="245"
-         sodipodi:role="line">~1890</tspan></text>
+         sodipodi:role="line">~xxxx</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
@@ -484,11 +484,11 @@
          x="85"
          y="205"
          style="text-align:start;text-anchor:start;fill:#ff0000"
-         id="tspan24717-3">James Alfred Ewing</tspan></text>
+         id="tspan24717-3">xxxx</tspan></text>
   </g>
   <g
      transform="translate(0,0.00278321)"
-     style="display:inline"
+     style="display:none"
      inkscape:label="text German"
      id="g7653"
      inkscape:groupmode="layer">
@@ -525,8 +525,8 @@
            style="text-align:justify;text-anchor:start"
            y="208"
            x="38"
-           height="156.61092"
-           width="207.85315"
+           height="130.6109"
+           width="204.85315"
            id="rect7671" /></flowRegion><flowPara
          id="flowPara7673">Hier am Beispiel der Verteilung der Intelligenz in der Gesellschaft, aber man könnte auch die Grösse von Menschen nehmen, oder z.B. die Anzahl von Haushalten mit Küchen-Mixer... aber da müsste man dann rausfinden, ob es wirklich normalverteilt ist</flowPara></flowRoot>    <text
        xml:space="preserve"
@@ -539,7 +539,7 @@
          x="245"
          y="205"
          style="text-align:end;text-anchor:end;fill:#ff0000"
-         id="tspan7677">~1890</tspan></text>
+         id="tspan7677">~xxxx</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7679"
@@ -551,7 +551,7 @@
          style="text-align:start;text-anchor:start;fill:#ff0000"
          y="205"
          x="85"
-         sodipodi:role="line">James Alfred Ewing</tspan></text>
+         sodipodi:role="line">xxxx</tspan></text>
   </g>
   <g
      transform="translate(0,0.00278321)"
@@ -709,7 +709,7 @@
      inkscape:groupmode="layer"
      id="g7683"
      inkscape:label="text-shrink German"
-     style="display:none"
+     style="display:inline"
      transform="translate(0,0.00278321)">
     <text
        sodipodi:linespacing="125%"

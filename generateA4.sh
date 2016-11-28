@@ -105,7 +105,7 @@ counter=0
      sleep 1
      xdotool type "$file"
      sleep 1.5
-  exit 0
+#  exit 0
      xdotool key KP_Enter
      sleep 1.5
      xdotool key Alt+F4

@@ -33,6 +33,8 @@ counter=0
      inkscape ./assembled/A4/templateA4.svg &
      file=$(basename $i .svg)
      sleep 3
+   else
+     file=$file-$(basename $i .svg)
    fi
  
    /usr/bin/inkscape $i &
@@ -53,7 +55,6 @@ counter=0
 
    if (( $counter % 8 == 0 ))
    then 
-     file=$file-$(basename $i .svg)
      sleep 0.5
      xdotool key Ctrl+Alt+a
 
@@ -88,21 +89,20 @@ counter=0
      xdotool key Ctrl+g
      sleep 0.2
      xdotool key Shift+Ctrl+a
-     sleep 0.2
+     sleep 0.5
      xdotool key Tab Tab Tab Tab Tab
      sleep 0.5
-     xdotool key space
+     xdotool key KP_Enter
      sleep 0.5
-     xdotool key Tab Tab Tab Tab 
+     xdotool key Tab Tab Tab Tab Tab Tab
      sleep 0.5
-     xdotool key space
+     xdotool key KP_Enter
 
-exit 0
-
-    xdotool key Ctrl+Shift+s
+     xdotool key Ctrl+Shift+s
      sleep 0.2
      xdotool type $file
      sleep 0.5
+  exit 0
      xdotool key KP_Enter
      sleep 1.5
      xdotool key Alt+F4

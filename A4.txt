@@ -1,2 +1,15 @@
+./cards/algorithms/a1.svg
+./cards/algorithms/a3.svg
+./cards/algorithms/a5.svg
+./cards/algorithms/a2.svg
+./cards/algorithms/a4.svg
 ./cards/psychiatrists/p1.svg
 ./cards/psychiatrists/p2.svg
+./cards/archetypes/ja5.svg
+./cards/archetypes/ja4.svg
+./cards/archetypes/g1.svg
+./cards/archetypes/ja6.svg
+./cards/archetypes/ja2.svg
+./cards/archetypes/ja3.svg
+./cards/archetypes/g2.svg
+./cards/archetypes/ja1.svg

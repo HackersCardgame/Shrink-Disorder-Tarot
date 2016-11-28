@@ -42,10 +42,11 @@ counter=0
   do
    let counter=counter+1
    if (( $counter % 2 == 1 ))
-   then inkscape ./assembled/A6/templateA6.svg &
+   then 
+     inkscape ./assembled/A6/templateA6.svg &
+     file=$(basename $i .svg)
    fi
  
-
    /usr/bin/inkscape $i &
    sleep 6
    xdotool key Ctrl+Alt+a
@@ -65,33 +66,17 @@ counter=0
 
    if (( $counter % 2 == 0 ))
    then 
+     file=$file-$(basename $i .svg)
+
      xdotool key Ctrl+Alt+a
      sleep 0.2
      xdotool key Shift+Ctrl+a
      sleep 0.2
-     xdotool key Tab
-     sleep 0.5
-     xdotool key Tab
-     sleep 0.5
-     xdotool key Tab
-     sleep 0.5
-     xdotool key Tab
-     sleep 0.5
-     xdotool key Tab
+     xdotool key Tab Tab Tab Tab Tab
      sleep 0.5
      xdotool key space
      sleep 0.5
-     xdotool key Tab
-     sleep 0.5
-     xdotool key Tab
-     sleep 0.5
-     xdotool key Tab
-     sleep 0.5
-     xdotool key Tab
-     sleep 0.5
-     xdotool key Tab
-     sleep 0.5
-     xdotool key Tab
+     xdotool key Tab Tab Tab Tab Tab Tab
      sleep 0.5
      xdotool key space
      sleep 0.5
@@ -99,7 +84,7 @@ counter=0
 
     xdotool key Ctrl+Shift+s
      sleep 0.2
-     xdotool type 'temp'
+     xdotool type $file
    fi
 
 

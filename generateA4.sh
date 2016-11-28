@@ -36,7 +36,8 @@ counter=0
    else
      file=$file-$(basename $i .svg)
    fi
- 
+   echo $i
+   echo $file 
    /usr/bin/inkscape $i &
    sleep 6
    xdotool key Ctrl+Alt+a
@@ -100,8 +101,10 @@ counter=0
 
      xdotool key Ctrl+Shift+s
      sleep 0.2
-     xdotool type $file
-     sleep 0.5
+     echo filename $file .svg
+     sleep 1
+     xdotool type "$file"
+     sleep 1.5
   exit 0
      xdotool key KP_Enter
      sleep 1.5

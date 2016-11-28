@@ -1,7 +1,10 @@
 #!/bin/bash
 
-#xdg-open ./PrinterSettings.png
+echo "
 
+
+"
+echo "You need to install the fonts (./fonts/install.sh), to close all instances of inkscape, and you maybe have to remove the clipit package temporarly"
 echo -n "Press [ENTER] if you changed the settings."
 read answer
 
@@ -24,15 +27,6 @@ echo "
 
 "
 
-echo -e "\e[34m"
-
-figlet -f banner WARNING!!!
-echo -e "\e[31mmy printer-firmware seems to hate this cards, even it has no route to the internet. eg if you printed 10 Cards the printer is electrostatically loaded, so the cards stick together you the printer takes 2-5 cards at the same time, so in this case it's the easiest to remove all paper from all trays and put the cards single into the printer
-
-\e[0mplease press [enter] to continue
-"
-read answer
-
 
 find ./cards -name "*.svg" >./A6.txt
 
@@ -45,10 +39,11 @@ counter=0
    then 
      inkscape ./assembled/A6/templateA6.svg &
      file=$(basename $i .svg)
+     sleep 3
    fi
  
    /usr/bin/inkscape $i &
-   sleep 6
+   sleep 3
    xdotool key Ctrl+Alt+a
    sleep 2
    xdotool key Ctrl+c
@@ -85,10 +80,7 @@ counter=0
     xdotool key Ctrl+Shift+s
      sleep 0.2
      xdotool type $file
+     sleep 0.5
    fi
-
-
-   echo printed $i
-
   done
 

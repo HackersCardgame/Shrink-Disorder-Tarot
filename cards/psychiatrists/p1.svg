@@ -44,14 +44,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="196.94255"
-     inkscape:cy="188.34462"
+     inkscape:cx="26.233465"
+     inkscape:cy="218.68323"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g12531"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -23755,12 +23755,12 @@
     <rect
        ry="14"
        rx="14"
-       y="15.425932"
-       x="13.538071"
-       height="342.4819"
-       width="252.92386"
+       y="17.422916"
+       x="15.01285"
+       height="338.48795"
+       width="249.9743"
        id="rect16534"
-       style="opacity:0.71929824;fill:#ffffff;fill-opacity:1;stroke:#000100;stroke-width:0.51700002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="opacity:0.71929824;fill:#ffffff;fill-opacity:1;stroke:#000100;stroke-width:0.51097083;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="font-size:8.39781952px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -23818,5 +23818,20 @@
          y="317.06909"
          x="140.31573"
          sodipodi:role="line">Addon Cards</tspan></text>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="size"
+     id="g12531"
+     inkscape:groupmode="layer">
+    <rect
+       style="opacity:0.71929823999999998;fill:none;fill-opacity:1;stroke:#000100;stroke-width:0.51097082999999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect12533"
+       width="249.9743"
+       height="338.48795"
+       x="15.01285"
+       y="17.422916"
+       rx="14"
+       ry="14" />
   </g>
 </svg>

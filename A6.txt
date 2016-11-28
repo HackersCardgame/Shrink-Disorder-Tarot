@@ -1,0 +1,2 @@
+./cards/psychiatrists/p1.svg
+./cards/psychiatrists/p2.svg

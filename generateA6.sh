@@ -43,7 +43,7 @@ counter=0
    fi
  
    /usr/bin/inkscape $i &
-   sleep 3
+   sleep 6
    xdotool key Ctrl+Alt+a
    sleep 2
    xdotool key Ctrl+c
@@ -81,6 +81,7 @@ counter=0
      sleep 0.2
      xdotool type $file
      sleep 0.5
+     xdotool key KP_Enter
    fi
   done
 

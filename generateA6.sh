@@ -9,8 +9,6 @@ echo -e "\e[31m* You need to install the fonts (./fonts/install.sh),
 echo -n "Press [ENTER] if you changed the settings."
 read answer
 
-#unfortunately inkscape -p has a bug in debian jessie => Workarround
-
 echo
 
 echo -n "install/remove required/unrequired debian jessie packages (y/n)? "

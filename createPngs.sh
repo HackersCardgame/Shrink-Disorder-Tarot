@@ -19,11 +19,7 @@ echo "
 
 "
 
-find ./algorithms -name "*-*.svg" >./print.txt
-find ./archetypes -name "*-*.svg" >>./print.txt
-find ./methods -name "*-*.svg" >>./print.txt
-find ./psychiatrists -name "*-*.svg" >>./print.txt
-find ./technolgies -name "*-*.svg" >>./print.txt
+find ./cards -name "*.svg" >./print.txt
 
 
 echo put $(cat ./print.txt |wc -l) A6 Cards into your printer

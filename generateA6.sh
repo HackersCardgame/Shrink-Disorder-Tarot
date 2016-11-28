@@ -2,9 +2,10 @@
 
 clear
 
-echo -e "\e[31m* You need to install the fonts (./fonts/install.sh),
-* to close all instances of inkscape
-* and you maybe have to remove the clipit package (sudo apt-get remove clipit) temporarly\e[0m
+echo -e "\e[31m * You need to install the fonts (./fonts/install.sh),
+ * to close all instances of inkscape
+ * and you maybe have to remove the clipit package (sudo apt-get remove clipit) temporarly\e[0m
+ * for the moment it runs only on GNOME
 "
 echo -n "Press [ENTER] if you changed the settings."
 read answer

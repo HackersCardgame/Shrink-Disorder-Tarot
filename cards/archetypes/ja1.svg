@@ -43,9 +43,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="-17.705569"
-     inkscape:cy="186.78111"
+     inkscape:zoom="4.0000002"
+     inkscape:cx="103.60619"
+     inkscape:cy="180.58251"
      inkscape:document-units="px"
      inkscape:current-layer="g7683"
      showgrid="false"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -838,7 +838,7 @@
          style="text-align:end;text-anchor:end;fill:#ff0000"
          y="205"
          x="245"
-         sodipodi:role="line">1856</tspan></text>
+         sodipodi:role="line"> v.Chr.</tspan></text>
     <flowRoot
        transform="translate(0,-0.00278321)"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -1058,7 +1058,7 @@
          style="fill:#ffffff;fill-opacity:1;stroke:none" />
       <path
          transform="matrix(1.0506767,0,0,1.0506767,-257.8691,677.2723)"
-         d="m 293.8086,46.528439 a 6.4594831,6.4594831 0 1 1 -12.91896,0 6.4594831,6.4594831 0 1 1 12.91896,0 z"
+         d="m 293.8086,46.528439 c 0,3.567474 -2.892,6.459483 -6.45948,6.459483 -3.56747,0 -6.45948,-2.892009 -6.45948,-6.459483 0,-3.567474 2.89201,-6.459484 6.45948,-6.459484 3.56748,0 6.45948,2.89201 6.45948,6.459484 z"
          sodipodi:ry="6.4594831"
          sodipodi:rx="6.4594831"
          sodipodi:cy="46.528439"

@@ -43,11 +43,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284272"
-     inkscape:cx="72.494924"
-     inkscape:cy="171.09828"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-19.78567"
+     inkscape:cy="244.91316"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
@@ -113,7 +113,7 @@
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="picture-other"
-     style="display:inline">
+     style="display:none">
     <image
        style="display:inline;enable-background:new"
        y="52.634453"
@@ -127,7 +127,7 @@
        inkscape:export-ydpi="375.67999" />
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="picture-shrink"
      id="g15969"
      inkscape:groupmode="layer">
@@ -193,7 +193,7 @@
      inkscape:groupmode="layer"
      id="layer16"
      inkscape:label="header-blue"
-     style="display:inline">
+     style="display:none">
     <rect
        ry="12.155893"
        style="fill:#00aa88;stroke:#000000;stroke-width:2.96659541;stroke-miterlimit:4;stroke-dasharray:none"
@@ -211,7 +211,7 @@
      inkscape:label="header-red"
      id="g8129"
      inkscape:groupmode="layer"
-     style="display:none">
+     style="display:inline">
     <rect
        inkscape:export-ydpi="375.67999"
        inkscape:export-xdpi="375.67999"
@@ -229,7 +229,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="static-text English"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="default"
        id="text7285"
@@ -240,7 +240,7 @@
          y="308"
          x="34"
          id="tspan7287"
-         sodipodi:role="line">Anwendungsfälle:</tspan>
+         sodipodi:role="line">Use Cases</tspan>
     </text>
     <text
        xml:space="default"
@@ -252,7 +252,7 @@
          id="tspan7279"
          sodipodi:role="line"
          x="34"
-         y="205">Erfinder:</tspan>
+         y="205">Inventor</tspan>
     </text>
     <text
        x="192"
@@ -264,11 +264,11 @@
          x="192"
          sodipodi:role="line"
          id="tspan7283"
-         y="205">Jahr:</tspan>
+         y="205">Year</tspan>
     </text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="static-text German"
      id="g7819"
      inkscape:groupmode="layer">
@@ -282,7 +282,7 @@
          id="tspan7823"
          x="34"
          y="308"
-         style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold">Anwendungsfälle:</tspan>
+         style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold">Anwendungsfälle</tspan>
     </text>
     <text
        x="34"
@@ -294,7 +294,7 @@
          x="34"
          sodipodi:role="line"
          id="tspan7827"
-         style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold">Erfinder:</tspan>
+         style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold">Erfinder</tspan>
     </text>
     <text
        y="205"
@@ -306,11 +306,11 @@
          id="tspan7831"
          sodipodi:role="line"
          x="192"
-         style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold">Jahr:</tspan>
+         style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold">Jahr</tspan>
     </text>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="static-text-shrink English"
      id="g12086"
      inkscape:groupmode="layer">
@@ -324,7 +324,7 @@
          id="tspan12090"
          x="32"
          y="264"
-         style="font-size:8px;font-weight:bold;-inkscape-font-specification:Sans Bold">Wichtigste Errungenschaft(en):</tspan>
+         style="font-size:8px;font-weight:bold;-inkscape-font-specification:Sans Bold">Main Achievements</tspan>
     </text>
     <text
        xml:space="default"
@@ -336,7 +336,7 @@
          y="284"
          x="32"
          id="tspan7670"
-         sodipodi:role="line">Kurzprofil:</tspan>
+         sodipodi:role="line">Brief Profile</tspan>
     </text>
     <text
        x="32"
@@ -361,7 +361,7 @@
          id="tspan12098"
          sodipodi:role="line"
          x="220"
-         style="font-size:10px;font-weight:bold;text-align:end;text-anchor:end;-inkscape-font-specification:Sans Bold">BauJahr:</tspan>
+         style="font-size:10px;font-weight:bold;text-align:end;text-anchor:end;-inkscape-font-specification:Sans Bold">Year</tspan>
     </text>
   </g>
   <g
@@ -423,7 +423,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="text English"
-     style="display:inline"
+     style="display:none"
      transform="translate(0,0.00278321)">
     <text
        sodipodi:linespacing="125%"
@@ -449,7 +449,7 @@
            x="38"
            y="309" /></flowRegion><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara7573">Statistik, Plausibilitäten von z.B. Aussagen abschätzen</flowPara></flowRoot>    <flowRoot
+         id="flowPara7573">Statistics, check plausibilities of statements or other data</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="abstract"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><flowRegion
@@ -461,7 +461,7 @@
            y="208"
            style="text-align:justify;text-anchor:start"
            ry="0" /></flowRegion><flowPara
-         id="flowPara7589">Hier am Beispiel der Verteilung der Intelligenz in der Gesellschaft, aber man könnte auch die Grösse von Menschen nehmen, oder z.B. die Anzahl von Haushalten mit Küchen-Mixer... aber da müsste man dann rausfinden, ob es wirklich normalverteilt ist</flowPara></flowRoot>    <text
+         id="flowPara7589">For example the distribution of intelligence in society, but you could also take the size of men, the number of households with kitchen mixer ... but you would have to find out whether it is really normal distribution, even paranormal distribution or just random or conicidence</flowPara></flowRoot>    <text
        sodipodi:linespacing="125%"
        id="yearValue"
        y="205"
@@ -488,7 +488,7 @@
   </g>
   <g
      transform="translate(0,0.00278321)"
-     style="display:inline"
+     style="display:none"
      inkscape:label="text German"
      id="g7653"
      inkscape:groupmode="layer">
@@ -555,7 +555,7 @@
   </g>
   <g
      transform="translate(0,0.00278321)"
-     style="display:none"
+     style="display:inline"
      inkscape:label="text-shrink English"
      id="g7411"
      inkscape:groupmode="layer">
@@ -572,37 +572,37 @@
          y="47.25"
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:GNUTypewriter;-inkscape-font-specification:GNUTypewriter Bold">Siegmund Freud</tspan></text>
     <flowRoot
-       style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="BigFive"
        xml:space="preserve"><flowRegion
          id="flowRegion7427"><rect
            ry="0"
-           style="text-align:justify;text-anchor:start"
+           style="text-align:start;text-anchor:start"
            y="208"
            x="33"
            height="139.05989"
            width="215.34056"
            id="rect7429" /></flowRegion><flowPara
          id="flowPara7431"
-         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
-   style="font-size:7.30000019px;font-weight:bold;-inkscape-font-specification:Monospace Bold"
-   id="flowSpan7656">N</flowSpan> Neurotizismus:     ruhig, gelassen</flowPara><flowPara
+         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
+   style="font-size:7.30000019px;font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Monospace Bold"
+   id="flowSpan7656">N</flowSpan>euroticism:       calm</flowPara><flowPara
          id="flowPara7433"
-         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
-   style="font-size:7.30000019px;font-weight:bold;-inkscape-font-specification:Monospace Bold"
-   id="flowSpan7658">E</flowSpan> Extraversion:      unterschwellig</flowPara><flowPara
+         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
+   style="font-size:7.30000019px;font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Monospace Bold"
+   id="flowSpan7658">E</flowSpan>xtraversion:      subliminal</flowPara><flowPara
          id="flowPara7435"
-         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
-   style="font-size:7.30000019px;font-weight:bold;-inkscape-font-specification:Monospace Bold"
-   id="flowSpan7660">O</flowSpan> Offenheit:         konservativ</flowPara><flowPara
+         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
+   style="font-size:7.30000019px;font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Monospace Bold"
+   id="flowSpan7660">O</flowSpan>penness:          conservative</flowPara><flowPara
          id="flowPara7437"
-         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
-   style="font-size:7.30000019px;font-weight:bold;-inkscape-font-specification:Monospace Bold"
-   id="flowSpan7662">C</flowSpan> Gewissenhaftigkeit:nachlässig aber hartnäckig</flowPara><flowPara
+         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
+   style="font-size:7.30000019px;font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Monospace Bold"
+   id="flowSpan7662">C</flowSpan>onscientiousness: Negligent but stubborn</flowPara><flowPara
          id="flowPara7457"
-         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
-   style="font-size:7.30000019px;font-weight:bold;-inkscape-font-specification:Monospace Bold"
-   id="flowSpan7664">A</flowSpan> Verträglichkeit:   überhaupt nicht,zu imperativ</flowPara></flowRoot>    <flowRoot
+         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
+   style="font-size:7.30000019px;font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Monospace Bold"
+   id="flowSpan7664">A</flowSpan>greeableness:     Not at all, too imperative</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="Errungenschaften"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><flowRegion
@@ -627,15 +627,7 @@
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="flowPara8138" /><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara8140">Ödipus-Komplex, &quot;Untersuchungen&quot; mit Kokain</flowPara><flowPara
-         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara8081" /><flowPara
-         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara7833" /><flowPara
-         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara7835" /><flowPara
-         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara7837" /></flowRoot>    <flowRoot
+         id="flowPara7837">Oedipus complex, &quot;research&quot; with cocaine</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="KurzProfil"
        xml:space="preserve"><flowRegion
@@ -648,27 +640,27 @@
            width="215.34056"
            id="rect7843" /></flowRegion><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara7871">Humanismus:                          <flowSpan
+         id="flowPara7871">Humanism:                            <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
    id="flowSpan7873">★☆☆☆☆  (1/5)</flowSpan></flowPara><flowPara
          id="flowPara7875"
-         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace">Technischer Background:              <flowSpan
+         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace">Technical background:                <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
    id="flowSpan7877">★☆☆☆☆  (1/5)</flowSpan></flowPara><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara7879">Grössenwahn:                         <flowSpan
+         id="flowPara7743">delusions of grandeur:               <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
    id="flowSpan7881">★★★★☆  (4/5)</flowSpan></flowPara><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara7883">Militärischer Hintergrund:           <flowSpan
+         id="flowPara7883">Military background:                 <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
    id="flowSpan7885">★★★★★  (5/5)</flowSpan></flowPara><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara7887">Problem auf Patienten projizieren:   <flowSpan
+         id="flowPara7887">project own problems to Patients:    <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
    id="flowSpan7889">★★★★★  (5/5)</flowSpan></flowPara><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara7891">Selbstwertgefühl:                    <flowSpan
+         id="flowPara7891">self-esteem:                         <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
    id="flowSpan7893">★★☆☆☆  (2/5)</flowSpan></flowPara><flowPara
          id="flowPara7895"
@@ -787,7 +779,7 @@
          id="flowPara7731"
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace" /><flowPara
          id="flowPara7733"
-         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace">Ödipus-Komplex, &quot;Untersuchungen&quot; mit Kokain</flowPara><flowPara
+         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace">ÖdipusKomplex, &quot;Untersuchungen&quot; mit Kokain</flowPara><flowPara
          id="flowPara7735"
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace" /><flowPara
          id="flowPara7737"
@@ -911,7 +903,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="algorithm"
-     style="display:inline"
+     style="display:none"
      transform="translate(0,0.00278321)">
     <g
        style="display:inline;enable-background:new"
@@ -1017,7 +1009,7 @@
            sodipodi:cy="46.528439"
            sodipodi:rx="6.4594831"
            sodipodi:ry="6.4594831"
-           d="m 293.8086,46.528439 c 0,3.567474 -2.892,6.459483 -6.45948,6.459483 -3.56747,0 -6.45948,-2.892009 -6.45948,-6.459483 0,-3.567474 2.89201,-6.459484 6.45948,-6.459484 3.56748,0 6.45948,2.89201 6.45948,6.459484 z"
+           d="m 293.8086,46.528439 a 6.4594831,6.4594831 0 1 1 -12.91896,0 6.4594831,6.4594831 0 1 1 12.91896,0 z"
            transform="matrix(1.0506767,0,0,1.0506767,-612.02934,451.68683)" />
         <path
            style="fill:none;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -1034,7 +1026,7 @@
            sodipodi:cy="46.528439"
            sodipodi:rx="6.4594831"
            sodipodi:ry="6.4594831"
-           d="m 293.8086,46.528439 c 0,3.567474 -2.892,6.459483 -6.45948,6.459483 -3.56747,0 -6.45948,-2.892009 -6.45948,-6.459483 0,-3.567474 2.89201,-6.459484 6.45948,-6.459484 3.56748,0 6.45948,2.89201 6.45948,6.459484 z"
+           d="m 293.8086,46.528439 a 6.4594831,6.4594831 0 1 1 -12.91896,0 6.4594831,6.4594831 0 1 1 12.91896,0 z"
            transform="matrix(0.20437109,0,0,0.20437109,-370.98299,488.90526)" />
         <path
            sodipodi:type="arc"
@@ -1044,7 +1036,7 @@
            sodipodi:cy="46.528439"
            sodipodi:rx="6.4594831"
            sodipodi:ry="6.4594831"
-           d="m 293.8086,46.528439 c 0,3.567474 -2.892,6.459483 -6.45948,6.459483 -3.56747,0 -6.45948,-2.892009 -6.45948,-6.459483 0,-3.567474 2.89201,-6.459484 6.45948,-6.459484 3.56748,0 6.45948,2.89201 6.45948,6.459484 z"
+           d="m 293.8086,46.528439 a 6.4594831,6.4594831 0 1 1 -12.91896,0 6.4594831,6.4594831 0 1 1 12.91896,0 z"
            transform="matrix(0.20437109,0,0,0.20437109,-366.58893,488.91528)" />
       </g>
     </g>
@@ -1069,7 +1061,7 @@
          style="fill:#ffffff;fill-opacity:1;stroke:none" />
       <path
          transform="matrix(1.0506767,0,0,1.0506767,-257.8691,677.2723)"
-         d="m 293.8086,46.528439 c 0,3.567474 -2.892,6.459483 -6.45948,6.459483 -3.56747,0 -6.45948,-2.892009 -6.45948,-6.459483 0,-3.567474 2.89201,-6.459484 6.45948,-6.459484 3.56748,0 6.45948,2.89201 6.45948,6.459484 z"
+         d="m 293.8086,46.528439 a 6.4594831,6.4594831 0 1 1 -12.91896,0 6.4594831,6.4594831 0 1 1 12.91896,0 z"
          sodipodi:ry="6.4594831"
          sodipodi:rx="6.4594831"
          sodipodi:cy="46.528439"
@@ -2114,7 +2106,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="psychiatrist"
-     style="display:none"
+     style="display:inline"
      transform="translate(0,0.00278321)">
     <g
        style="display:inline;enable-background:new"
@@ -22308,7 +22300,7 @@
                sodipodi:role="line" /></text>
           <path
              transform="matrix(1.0506767,0,0,1.0506767,-612.02934,451.68683)"
-             d="m 293.8086,46.528439 c 0,3.567474 -2.892,6.459483 -6.45948,6.459483 -3.56747,0 -6.45948,-2.892009 -6.45948,-6.459483 0,-3.567474 2.89201,-6.459484 6.45948,-6.459484 3.56748,0 6.45948,2.89201 6.45948,6.459484 z"
+             d="m 293.8086,46.528439 a 6.4594831,6.4594831 0 1 1 -12.91896,0 6.4594831,6.4594831 0 1 1 12.91896,0 z"
              sodipodi:ry="6.4594831"
              sodipodi:rx="6.4594831"
              sodipodi:cy="46.528439"
@@ -22325,7 +22317,7 @@
              style="fill:none;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
           <path
              transform="matrix(0.20437109,0,0,0.20437109,-370.98299,488.90526)"
-             d="m 293.8086,46.528439 c 0,3.567474 -2.892,6.459483 -6.45948,6.459483 -3.56747,0 -6.45948,-2.892009 -6.45948,-6.459483 0,-3.567474 2.89201,-6.459484 6.45948,-6.459484 3.56748,0 6.45948,2.89201 6.45948,6.459484 z"
+             d="m 293.8086,46.528439 a 6.4594831,6.4594831 0 1 1 -12.91896,0 6.4594831,6.4594831 0 1 1 12.91896,0 z"
              sodipodi:ry="6.4594831"
              sodipodi:rx="6.4594831"
              sodipodi:cy="46.528439"
@@ -22335,7 +22327,7 @@
              sodipodi:type="arc" />
           <path
              transform="matrix(0.20437109,0,0,0.20437109,-366.58893,488.91528)"
-             d="m 293.8086,46.528439 c 0,3.567474 -2.892,6.459483 -6.45948,6.459483 -3.56747,0 -6.45948,-2.892009 -6.45948,-6.459483 0,-3.567474 2.89201,-6.459484 6.45948,-6.459484 3.56748,0 6.45948,2.89201 6.45948,6.459484 z"
+             d="m 293.8086,46.528439 a 6.4594831,6.4594831 0 1 1 -12.91896,0 6.4594831,6.4594831 0 1 1 12.91896,0 z"
              sodipodi:ry="6.4594831"
              sodipodi:rx="6.4594831"
              sodipodi:cy="46.528439"
@@ -22383,7 +22375,7 @@
            sodipodi:cy="46.528439"
            sodipodi:rx="6.4594831"
            sodipodi:ry="6.4594831"
-           d="m 293.8086,46.528439 c 0,3.567474 -2.892,6.459483 -6.45948,6.459483 -3.56747,0 -6.45948,-2.892009 -6.45948,-6.459483 0,-3.567474 2.89201,-6.459484 6.45948,-6.459484 3.56748,0 6.45948,2.89201 6.45948,6.459484 z"
+           d="m 293.8086,46.528439 a 6.4594831,6.4594831 0 1 1 -12.91896,0 6.4594831,6.4594831 0 1 1 12.91896,0 z"
            transform="matrix(1.0506767,0,0,1.0506767,-257.8691,677.2723)" />
         <path
            style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"

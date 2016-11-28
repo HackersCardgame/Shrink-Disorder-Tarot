@@ -69,15 +69,15 @@ counter=0
      sleep 0.2
      xdotool key Tab Tab Tab
      sleep 0.2
-     xdotool type '4'
+     #xdotool type '4'
      sleep 0.2
      xdotool key Tab Tab Tab Tab
      sleep 0.2
-     xdotool type '5'
+     xdotool type '0'
      sleep 0.2
      xdotool key Tab
      sleep 0.2
-     xdotool type '5'
+     xdotool type '0'
      sleep 0.2
      xdotool key Tab
      sleep 0.1
@@ -93,7 +93,7 @@ counter=0
      sleep 0.5
      xdotool key space
      sleep 0.5
-     xdotool key Tab Tab Tab Tab Tab Tab
+     xdotool key Tab Tab Tab Tab 
      sleep 0.5
      xdotool key space
 

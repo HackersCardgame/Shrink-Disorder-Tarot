@@ -43,11 +43,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="26.233465"
-     inkscape:cy="218.68323"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="35.794429"
+     inkscape:cy="166.78111"
      inkscape:document-units="px"
-     inkscape:current-layer="g12531"
+     inkscape:current-layer="layer18"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
@@ -113,7 +113,7 @@
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="picture-other"
-     style="display:none">
+     style="display:inline">
     <image
        style="display:inline;enable-background:new"
        y="52.634453"
@@ -127,7 +127,7 @@
        inkscape:export-ydpi="375.67999" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="picture-shrink"
      id="g15969"
      inkscape:groupmode="layer">
@@ -268,7 +268,7 @@
     </text>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="static-text German"
      id="g7819"
      inkscape:groupmode="layer">
@@ -310,7 +310,7 @@
     </text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="static-text-shrink English"
      id="g12086"
      inkscape:groupmode="layer">
@@ -488,7 +488,7 @@
   </g>
   <g
      transform="translate(0,0.00278321)"
-     style="display:none"
+     style="display:inline"
      inkscape:label="text German"
      id="g7653"
      inkscape:groupmode="layer">
@@ -555,7 +555,7 @@
   </g>
   <g
      transform="translate(0,0.00278321)"
-     style="display:inline"
+     style="display:none"
      inkscape:label="text-shrink English"
      id="g7411"
      inkscape:groupmode="layer">
@@ -903,7 +903,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="algorithm"
-     style="display:none"
+     style="display:inline"
      transform="translate(0,0.00278321)">
     <g
        style="display:inline;enable-background:new"
@@ -2106,7 +2106,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="psychiatrist"
-     style="display:inline"
+     style="display:none"
      transform="translate(0,0.00278321)">
     <g
        style="display:inline;enable-background:new"
@@ -23764,12 +23764,12 @@
     <text
        xml:space="preserve"
        style="font-size:8.39781952px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="140.31573"
+       x="139.51794"
        y="328.45673"
        id="text11041"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="143.20808"
+         x="142.41029"
          y="328.45673"
          style="font-size:7.71292114px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;font-family:Ricasso;-inkscape-font-specification:Ricasso"
          id="tspan16647">for generic upstream Tarots </tspan></text>
@@ -23809,15 +23809,27 @@
     <text
        sodipodi:linespacing="125%"
        id="text16685"
-       y="317.06909"
-       x="140.31573"
+       y="315.06909"
+       x="140.1579"
        style="font-size:8.39781952px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        xml:space="preserve"><tspan
          id="tspan16689"
          style="font-size:27.42371941px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#214478;font-family:Rubik One;-inkscape-font-specification:Rubik One Bold"
-         y="317.06909"
-         x="140.31573"
+         y="315.06909"
+         x="140.1579"
          sodipodi:role="line">Addon Cards</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="139.75098"
+       y="337.73019"
+       id="text11137"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan11139"
+         x="139.75098"
+         y="337.73019"
+         style="font-size:7.5px;font-weight:normal;-inkscape-font-specification:Sans">https://github.com/braindef/Shrink-Disorder-Tarot</tspan></text>
   </g>
   <g
      style="display:inline"
@@ -23825,7 +23837,7 @@
      id="g12531"
      inkscape:groupmode="layer">
     <rect
-       style="opacity:0.71929823999999998;fill:none;fill-opacity:1;stroke:#000100;stroke-width:0.51097082999999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="opacity:0.71929824;fill:none;stroke:#000100;stroke-width:0.51097083;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect12533"
        width="249.9743"
        height="338.48795"

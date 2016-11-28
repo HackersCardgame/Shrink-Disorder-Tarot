@@ -44,7 +44,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="-13.887295"
+     inkscape:cx="80.511458"
      inkscape:cy="198.70102"
      inkscape:document-units="px"
      inkscape:current-layer="g7683"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -497,7 +497,7 @@
          x="220"
          sodipodi:role="line"
          id="tspan7817"
-         y="205">Geburtsjahr</tspan>
+         y="205">BauJahr:</tspan>
     </text>
   </g>
   <g
@@ -848,25 +848,25 @@
            width="215.34056"
            id="rect7719" /></flowRegion><flowPara
          id="flowPara7741"
-         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace" /><flowPara
+         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"></flowPara><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara31945" /><flowPara
+         id="flowPara31945"></flowPara><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara31947" /><flowPara
+         id="flowPara31947"></flowPara><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara31949" /><flowPara
+         id="flowPara31949"></flowPara><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara31951" /><flowPara
+         id="flowPara31951"></flowPara><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara31953" /><flowPara
+         id="flowPara31953"></flowPara><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="flowPara31955">Orgon-&quot;Akkumulator&quot;</flowPara><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara31957" /><flowPara
+         id="flowPara31957"></flowPara><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara31959" /><flowPara
+         id="flowPara31959"></flowPara><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara31961" /><flowPara
+         id="flowPara31961"></flowPara><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="flowPara31963" /></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -893,7 +893,7 @@
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="flowPara32066">Selbstwertgefühl:                    ★★★☆☆  (3/5)</flowPara><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara32068" /><flowPara
+         id="flowPara32068"></flowPara><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="flowPara32070" /></flowRoot>    <text
        sodipodi:linespacing="125%"
@@ -906,7 +906,7 @@
          style="text-align:end;text-anchor:end;fill:#ff0000"
          y="205"
          x="245"
-         sodipodi:role="line">1897</tspan></text>
+         sodipodi:role="line">1856</tspan></text>
     <flowRoot
        transform="translate(0,-0.00278321)"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"

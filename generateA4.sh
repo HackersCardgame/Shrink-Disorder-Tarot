@@ -1,112 +1,111 @@
 #!/bin/bash
-#neues a4 inkscape dokument
 
-#open file 1
-#alt ! (alle layer auswählen die nicht locked)
-#ctrl g (group)
-#ctrl c
-#zum anderen inkscape dokument
-#einfügen
+clear
 
-#loop total 9x
-sleep 5
+echo -e "\e[31m* You need to install the fonts (./fonts/install.sh),
+* to close all instances of inkscape
+* and you maybe have to remove the clipit package (sudo apt-get remove clipit) temporarly\e[0m
+"
+echo -n "Press [ENTER] if you changed the settings."
+read answer
 
+echo
 
-xdotool key ctrl+a
-sleep 0.2
-xdotool key alt+o
-sleep 0.2
-xdotool key alt+o
-sleep 0.2
-xdotool key Page_Down
-sleep 0.2
-xdotool key KP_Enter
-sleep 0.2
-xdotool key Tab
-sleep 0.2
-xdotool key Tab
-sleep 0.2
-xdotool key Tab
-sleep 0.1
-xdotool key Tab
-sleep 0.1
-xdotool key Tab
-sleep 0.1
-xdotool key Tab
-sleep 0.1
-xdotool key Tab
-sleep 0.1
-xdotool key Tab
-sleep 0.1
-xdotool type '10'
-sleep 0.1
-xdotool key Tab
-sleep 0.1
-xdotool type '1'
-sleep 0.1
-xdotool key Tab
-sleep 0.1
-xdotool key KP_Enter
-sleep 0.1
+echo -n "install/remove required/unrequired debian jessie packages (y/n)? "
+read answer
+if echo "$answer" | grep -iq "^y" ;then
+sudo apt-get install xdotool figlet
+sudo apt-get remove clipit
+else
+    echo not installing packages
+fi
 
 
+find ./cards -name "*.svg" >./A4.txt
 
-xdotool key shift+ctrl+a
-sleep 0.5
-xdotool key Tab
-sleep 0.2
-xdotool key KP_Down
-sleep 0.2
-xdotool key KP_Down
-sleep 0.2
-xdotool key KP_Down
-sleep 0.2
-xdotool key KP_Down
-sleep 0.2
-xdotool key KP_Down
-sleep 0.2
-xdotool key KP_Down
-sleep 0.2
-xdotool key KP_Down
-sleep 0.2
-xdotool key KP_Down
-sleep 0.2
-xdotool key KP_Down
-sleep 0.2
-xdotool key KP_Up
-sleep 0.2
-xdotool key KP_Up
-sleep 0.2
+counter=0
 
-xdotool key ctrl+a
-sleep 0.2
-xdotool key ctrl+g
-sleep 0.2
+ for i in $(cat ./A4.txt)
+  do
+   let counter=counter+1
+   if (( $counter % 8 == 1 ))
+   then 
+     inkscape ./assembled/A4/templateA4.svg &
+     file=$(basename $i .svg)
+     sleep 3
+   fi
+ 
+   /usr/bin/inkscape $i &
+   sleep 6
+   xdotool key Ctrl+Alt+a
+   sleep 2
+   xdotool key Ctrl+c
+   sleep 0.2
+   xdotool key Alt+Escape
+   sleep 0.4
+   xdotool key Ctrl+v
+   sleep 0.5
+   xdotool key Ctrl+g
+   sleep 0.2
+   xdotool key Alt+Escape
+   sleep 0.2
+   xdotool key Alt+F4
 
-xdotool key Tab
-sleep 0.2
-xdotool key Tab
-sleep 0.2
-xdotool key Tab
-sleep 0.2
-xdotool key Tab
-sleep 1
-xdotool key KP_Enter
-sleep 0.2
-xdotool key Tab
-sleep 0.2
-xdotool key Tab
-sleep 0.2
-xdotool key Tab
-sleep 0.2
-xdotool key Tab
-sleep 0.2
-xdotool key Tab
-sleep 0.2
-xdotool key Tab
-sleep 0.2
-xdotool key KP_Enter
-sleep 0.2
-xdotool key 5
+   if (( $counter % 8 == 0 ))
+   then 
+     file=$file-$(basename $i .svg)
+     sleep 0.5
+     xdotool key Ctrl+Alt+a
 
+     sleep 0.5
+     xdotool key Alt+o
+
+     sleep 0.5
+     xdotool key End KP_Enter
+     sleep 0.5
+     xdotool key Tab
+     sleep 0.2
+     xdotool type '2'
+     sleep 0.2
+     xdotool key Tab Tab Tab
+     sleep 0.2
+     xdotool type '4'
+     sleep 0.2
+     xdotool key Tab Tab Tab Tab
+     sleep 0.2
+     xdotool type '5'
+     sleep 0.2
+     xdotool key Tab
+     sleep 0.2
+     xdotool type '5'
+     sleep 0.2
+     xdotool key Tab
+     sleep 0.1
+     xdotool key KP_Enter
+     sleep 1
+     xdotool key Ctrl+Alt+a
+     sleep 0.2
+     xdotool key Ctrl+g
+     sleep 0.2
+     xdotool key Shift+Ctrl+a
+     sleep 0.2
+     xdotool key Tab Tab Tab Tab Tab
+     sleep 0.5
+     xdotool key space
+     sleep 0.5
+     xdotool key Tab Tab Tab Tab Tab Tab
+     sleep 0.5
+     xdotool key space
+
+exit 0
+
+    xdotool key Ctrl+Shift+s
+     sleep 0.2
+     xdotool type $file
+     sleep 0.5
+     xdotool key KP_Enter
+     sleep 1.5
+     xdotool key Alt+F4
+   fi
+  done
 

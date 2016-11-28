@@ -1,0 +1,8 @@
+./cards/algorithms3/a1.svg
+./cards/algorithms3/a2.svg
+./cards/algorithms/a1.svg
+./cards/algorithms/a2.svg
+./cards/algorithms2/a1.svg
+./cards/algorithms2/a2.svg
+./cards/psychiatrists/p1.svg
+./cards/psychiatrists/p2.svg

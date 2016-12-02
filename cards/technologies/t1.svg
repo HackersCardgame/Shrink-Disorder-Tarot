@@ -44,8 +44,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.4783424"
-     inkscape:cx="178.39969"
-     inkscape:cy="163.29923"
+     inkscape:cx="179.20668"
+     inkscape:cy="98.73995"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
      showgrid="false"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -486,12 +486,12 @@
        y="49.7878"
        id="text7655"
        sodipodi:linespacing="125%"><tspan
-         dy="-1.5"
          sodipodi:role="line"
          id="tspan7657"
          x="150.33174"
          y="49.7878"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:MineCrafter 3;-inkscape-font-specification:MineCrafter 3">Normal-verteilung</tspan></text>
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:GNUTypewriter;-inkscape-font-specification:GNUTypewriter"
+         dy="-2">Stimoceiver</tspan></text>
     <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7659"
@@ -503,7 +503,7 @@
            width="204.68648"
            id="rect7663" /></flowRegion><flowPara
          id="flowPara7665"
-         style="text-align:justify;text-anchor:start">Lügendetektor, Gedanken &amp; Emotionen auslesen, Fernsteuerung, Gefühle beeinflussen, Menschen automatisieren (Display wie Google Maps 3D)</flowPara></flowRoot>    <flowRoot
+         style="text-align:justify;text-anchor:start">Lügendetektor, Gedanken &amp; Emotionen auslesen, Fernsteuerung, Gefühle beeinflussen, Menschen automatisieren (Darstellung wie Google Maps 3D)</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion
@@ -519,7 +519,7 @@
    style="font-weight:bold;-inkscape-font-specification:Sans Bold"
    id="flowSpan7802">EEG</flowSpan>) Daten auslesen, als auch schreibend gewisse Funktionen im Gehirn auslösen, z.B. in der Amygdala eine &quot;fight-or-flight&quot; Reaktion auszulösen. Aktive Community im Netz wäre z.B. die OpenBCI Community welche versucht da mit Satan mitzuhalten. Dinge wie direkt &quot;eingebaute&quot; <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Sans Bold"
-   id="flowSpan7806">Augmented Reality</flowSpan> (Wie PokemonGO) sind auch denkbar mit Moderneren Technologien wie WO2005055579A1)</flowPara></flowRoot>    <text
+   id="flowSpan7806">Augmented Reality</flowSpan> (Wie PokemonGO) sind auch denkbar mit moderneren Technologien wie WO2005055579A1)</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"

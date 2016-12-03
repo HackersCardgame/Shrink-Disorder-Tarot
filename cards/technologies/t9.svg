@@ -43,9 +43,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.5049054"
-     inkscape:cx="102.11196"
-     inkscape:cy="118.95072"
+     inkscape:zoom="1.7524527"
+     inkscape:cx="18.384156"
+     inkscape:cy="173.99125"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
      showgrid="false"
@@ -160,18 +160,18 @@
          inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/t9.png"
          sodipodi:linespacing="125%"
          id="text3106-7-6"
-         y="68.186432"
+         y="67.33049"
          x="34.283981"
          style="font-size:8px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans"
          xml:space="preserve"><tspan
            id="tspan3110-6-7"
            style="font-size:8px;font-weight:bold;text-align:start;text-anchor:start;fill:#000000;-inkscape-font-specification:Sans Bold"
-           y="68.186432"
+           y="67.33049"
            x="34.283981"
            sodipodi:role="line">Endlos-Band</tspan><tspan
            id="tspan7863"
            style="font-size:8px;font-weight:bold;text-align:start;text-anchor:start;fill:#4d4d4d;-inkscape-font-specification:Sans Bold"
-           y="78.186432"
+           y="77.33049"
            x="34.283981"
            sodipodi:role="line">mit Suggestionen</tspan></text>
     </g>
@@ -183,11 +183,11 @@
          ry="3"
          rx="3"
          y="133.76936"
-         x="29.959759"
-         height="14.07593"
-         width="94.929031"
+         x="27.677244"
+         height="14.075912"
+         width="97.211548"
          id="rect7835-3-5"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:0.92362076000000004;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:0.92362076;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <text
          inkscape:export-ydpi="375.63586"
          inkscape:export-xdpi="375.63586"
@@ -195,20 +195,20 @@
          sodipodi:linespacing="125%"
          id="text3106-7-6-3"
          y="143.42232"
-         x="34.542133"
+         x="31.115562"
          style="font-size:8px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans"
          xml:space="preserve"><tspan
            id="tspan7863-6"
            style="font-size:8px;font-weight:bold;text-align:start;text-anchor:start;fill:#000000;-inkscape-font-specification:Sans Bold"
            y="143.42232"
-           x="34.542133"
-           sodipodi:role="line">AktivierungsZeiten</tspan></text>
+           x="31.115562"
+           sodipodi:role="line">Aktivierungs-Zeiten</tspan></text>
     </g>
     <text
        xml:space="preserve"
-       style="font-size:19.24518203999999955px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;display:inline;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:19.24518204px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.80000001;stroke-miterlimit:4;stroke-dasharray:none;display:inline;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans"
        x="234.21747"
-       y="157.95844"
+       y="159.95844"
        id="text3106-5-1-9-2"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/t9.png"
@@ -216,8 +216,8 @@
        inkscape:export-ydpi="375.63586"><tspan
          sodipodi:role="line"
          x="234.21747"
-         y="157.95844"
-         style="font-size:28.86777495999999843px;font-weight:bold;text-align:end;text-anchor:end;fill:#ffffff;stroke:#0000ff;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:Sans Bold"
+         y="159.95844"
+         style="font-size:28.86777496px;font-weight:bold;text-align:end;text-anchor:end;fill:#ffffff;stroke:#0000ff;stroke-width:0.80000001;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:Sans Bold"
          id="tspan3110-5-2-4-9">⇦</tspan></text>
   </g>
   <g
@@ -394,12 +394,12 @@
        y="205"
        xml:space="default"
        id="text7829"
-       x="192">
+       x="196">
       <tspan
          y="205"
          id="tspan7831"
          sodipodi:role="line"
-         x="192"
+         x="196"
          style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold">Jahr</tspan>
     </text>
   </g>
@@ -592,7 +592,10 @@
        x="150.33174"
        y="49.7878"
        id="text7655"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/dezember/Shrink-Disorder-Tarot/png/German/t9.png"
+       inkscape:export-xdpi="436.73999"
+       inkscape:export-ydpi="436.73999"><tspan
          sodipodi:role="line"
          id="tspan7657"
          x="150.33174"
@@ -605,7 +608,10 @@
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7659"
        xml:space="preserve"
-       transform="translate(0,2)"><flowRegion
+       transform="translate(0,2)"
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/dezember/Shrink-Disorder-Tarot/png/German/t9.png"
+       inkscape:export-xdpi="436.73999"
+       inkscape:export-ydpi="436.73999"><flowRegion
          id="flowRegion7661"><rect
            y="309"
            x="38"
@@ -613,10 +619,13 @@
            width="204.68648"
            id="rect7663" /></flowRegion><flowPara
          id="flowPara7665"
-         style="font-size:7px;text-align:justify;text-anchor:start">Nachts während des Schlafens Fremdsprachen Lernen bis MindControl: Verhaltensmuster oder ganze Weltbilder in die Psyche einer Person einbrennen...</flowPara></flowRoot>    <flowRoot
+         style="font-size:7px;text-align:justify;text-anchor:start">Nachts während des Schlafens Fremdsprachen lernen oder unfreiwillig Verhaltensmuster oder ganze Weltbilder in die Psyche eines Opfers einbrennen...</flowPara></flowRoot>    <flowRoot
        style="font-size:4px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
-       xml:space="preserve"><flowRegion
+       xml:space="preserve"
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/dezember/Shrink-Disorder-Tarot/png/German/t9.png"
+       inkscape:export-xdpi="436.73999"
+       inkscape:export-ydpi="436.73999"><flowRegion
          id="flowRegion7669"><rect
            ry="0"
            style="font-size:4px;text-align:justify;text-anchor:start"
@@ -628,15 +637,18 @@
          style="font-size:8px"
          id="flowPara8749">Ein analoges <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Sans Bold"
-   id="flowSpan8743">Endlos-Tonband</flowSpan>, auf welches Suggestionen wie z.B. 2+2=5 aufgezeichnet werden, welches dann <flowSpan
+   id="flowSpan8743">Endlos-Tonband</flowSpan>, auf welches Suggestionen wie z.B. 2+2=5 aufgezeichnet werden, <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Sans Bold"
-   id="flowSpan8745">zu bestimten Zeiten automatisch aktivert wird</flowSpan>. Nach 5 Minuten schaltet es automatisch wieder aus. Mit der Digitalisierung / Computer / Handy kann man massiv komplexere Systeme realisieren und auch z.B. Kinder miteinander verknüpfen und leider so auch vorsätzlich gegeneinander ausspielen.</flowPara></flowRoot>    <text
+   id="flowSpan8770">welches zu bestimten Zeiten automatisch aktivert wird</flowSpan>. Nach 5 Minuten schaltet das Band automatisch wieder aus. Mit der Digitalisierung / Computer / Handy kann man massiv komplexere Systeme realisieren und auch z.B. Kinder miteinander verknüpfen, leider auch vorsätzlich gegeneinander ausspielen.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"
        y="205"
        id="text7675"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/dezember/Shrink-Disorder-Tarot/png/German/t9.png"
+       inkscape:export-xdpi="436.73999"
+       inkscape:export-ydpi="436.73999"><tspan
          sodipodi:role="line"
          x="245"
          y="205"
@@ -646,13 +658,16 @@
        sodipodi:linespacing="125%"
        id="text7679"
        y="205"
-       x="85"
+       x="83"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/dezember/Shrink-Disorder-Tarot/png/German/t9.png"
+       inkscape:export-xdpi="436.73999"
+       inkscape:export-ydpi="436.73999"><tspan
          id="tspan7681"
          style="text-align:start;text-anchor:start;fill:#ff0000"
          y="205"
-         x="85"
+         x="83"
          sodipodi:role="line">Petron Corporation (1933)</tspan></text>
   </g>
   <g

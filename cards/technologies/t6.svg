@@ -44,7 +44,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7524527"
-     inkscape:cx="95.132506"
+     inkscape:cx="96.273764"
      inkscape:cy="146.66294"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -531,9 +531,11 @@
            height="130.6109"
            width="204.85315"
            id="rect7671" /></flowRegion><flowPara
-         id="flowPara7926">Ursprünglich ein Impantat im Rückenmark (Medulla Spinalis) mit dem bei Ratten ein Orgasmus ausgelöst werden konnte, Heute <flowSpan
+         id="flowPara7926">Ursprünglich ein Impantat im Rückenmark (Medulla Spinalis) mit dem bei Ratten ein Orgasmus ausgelöst werden konnte, patentiert erst 1999 unter <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Sans Bold"
-   id="flowSpan22134">um fast alle Nervenbahnen des Rückenmarks werweitert </flowSpan>und mit einem 3D Model der Person im Computer in einer 3D Umgebung (wie in Computer-Spielen) als Roboter / Soldat / Killer oder Sex-Sklave &quot;benutzbar&quot;</flowPara></flowRoot>    <text
+   id="flowSpan7748">US6169924</flowSpan>. Heute <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan22134">um fast alle Nervenbahnen des Rückenmarks werweitert </flowSpan>und mit einem 3D Model der Person im Computer in einer 3D Umgebung (wie in Computer-Spielen) ist das Kind als Roboter / Soldat / Killer oder Sex-Sklave &quot;benutzbar&quot;</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"
@@ -557,11 +559,6 @@
          y="205"
          x="85"
          sodipodi:role="line">Stuart Meloy</tspan></text>
-    <path
-       style="fill:#ffff00;stroke:#0000ff;stroke-width:1.63480829999999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 191.3788,208.4194 54.06123,0"
-       id="path22157"
-       inkscape:connector-curvature="0" />
   </g>
   <g
      transform="translate(0,0.00278321)"

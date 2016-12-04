@@ -29,8 +29,8 @@ you need for example a GNU Debian Linux Jessie, you can also boot it from a USB3
 Short Video to show how to create a card, about 5 Minutes: 
 https://www.youtube.com/watch?v=K0uYfV4gpes
 
-(how to get the repository you can see in the Video "QuickStart",
-the "git clone https://github.com/braindef/Shrink-Disorder-Tarot/" thing)
+(how to get the complete repository you can see in the Video "QuickStart")
+* "git clone https://github.com/braindef/Shrink-Disorder-Tarot/"
 
 
 ### Gameing Idea:

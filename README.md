@@ -24,6 +24,9 @@ you need for example a GNU Debian Linux Jessie, you can also boot it from a USB3
 
 <a href="http://psychiatrie-leaks.ch/Shrink-Disorder-Game/HOWTO/HOWTO.png"><img src="http://psychiatrie-leaks.ch/Shrink-Disorder-Game/HOWTO/HOWTO.png" width=400></a>
 
+Short Video to show how to create a card, about 5 Minutes: 
+https://www.youtube.com/watch?v=K0uYfV4gpes
+(how to get the repository you can see in the Video above, the "git clone https://github.com/braindef/Shrink-Disorder-Tarot/" thing)
 
 
 ### Gameing Idea:

@@ -44,7 +44,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7524527"
-     inkscape:cx="140"
+     inkscape:cx="141.14126"
      inkscape:cy="186.02499"
      inkscape:document-units="px"
      inkscape:current-layer="g7683"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -742,7 +742,9 @@
          y="47.25"
          x="150.33174"
          id="tspan7687"
-         sodipodi:role="line">Siegmund Freud</tspan></text>
+         sodipodi:role="line"><tspan
+   style="fill:#e6e6e6"
+   id="tspan41268">Sieg</tspan>mund Freud</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot7689"

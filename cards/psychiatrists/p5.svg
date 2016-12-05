@@ -43,9 +43,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.9566847"
-     inkscape:cx="133.56553"
-     inkscape:cy="93.104027"
+     inkscape:zoom="2.4783424"
+     inkscape:cx="58.166603"
+     inkscape:cy="143.32452"
      inkscape:document-units="px"
      inkscape:current-layer="g7411"
      showgrid="false"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -617,19 +617,19 @@
            ry="0" /></flowRegion><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="flowPara7831" /><flowPara
-         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         style="font-size:7.30000019000000044px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace;fill:#ff0000"
          id="flowPara8130" /><flowPara
-         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         style="font-size:7.30000019000000044px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace;fill:#ff0000"
          id="flowPara8132" /><flowPara
-         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         style="font-size:7.30000019000000044px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace;fill:#ff0000"
          id="flowPara8134" /><flowPara
-         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         style="font-size:7.30000019000000044px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace;fill:#ff0000"
          id="flowPara8136" /><flowPara
-         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         style="font-size:7.30000019000000044px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace;fill:#ff0000"
          id="flowPara8138" /><flowPara
-         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         style="font-size:7.30000019000000044px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace;fill:#ff0000"
          id="flowPara7837"><flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
+   style="font-weight:bold;-inkscape-font-specification:Monospace Bold;fill:#ff0000"
    id="flowSpan13998">SkinnerBOX</flowSpan>, Ratten etc. misshandeln und ermorden</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="KurzProfil"
@@ -668,7 +668,7 @@
          x="245"
          y="205"
          style="text-align:end;text-anchor:end;fill:#ff0000"
-         id="tspan7461">1856</tspan></text>
+         id="tspan7461">1904</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot7622"

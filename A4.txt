@@ -1,4 +1,3 @@
-./cards/methods/mTemp1.svg
 ./cards/methods/m27.svg
 ./cards/methods/m4.svg
 ./cards/methods/m6.svg
@@ -8,6 +7,7 @@
 ./cards/methods/m3.svg
 ./cards/methods/m26.svg
 ./cards/methods/m5.svg
+./cards/methods/m30.svg
 ./cards/methods/m20.svg
 ./cards/methods/m2.svg
 ./cards/methods/m13.svg
@@ -21,11 +21,11 @@
 ./cards/methods/m24.svg
 ./cards/methods/m17.svg
 ./cards/methods/m1.svg
+./cards/methods/m29.svg
 ./cards/methods/m8.svg
 ./cards/methods/m15.svg
 ./cards/methods/m9.svg
 ./cards/methods/m16.svg
-./cards/methods/mTemp2.svg
 ./cards/methods/m28.svg
 ./cards/chemicals/c1.svg
 ./cards/chemicals/c2.svg

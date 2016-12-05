@@ -48,7 +48,7 @@ counter=0
    xdotool key Alt+Escape
    sleep 0.4
    xdotool key Ctrl+v
-   sleep 0.5
+   sleep 0.8
    xdotool key Ctrl+g
    sleep 0.2
    xdotool key Alt+Escape

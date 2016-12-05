@@ -45,9 +45,9 @@ counter=0
    xdotool key Alt+Escape
    sleep 0.4
    xdotool key Ctrl+v
-   sleep 0.5
+   sleep 1
    xdotool key Ctrl+g
-   sleep 0.2
+   sleep 1
    xdotool key Alt+Escape
    sleep 0.2
    xdotool key Alt+F4
@@ -55,9 +55,9 @@ counter=0
    if (( $counter % 2 == 0 ))
    then 
      file=$file-$(basename $i .svg)
-     sleep 0.5
+     sleep 1
      xdotool key Ctrl+Alt+a
-     sleep 0.2
+     sleep 1
      xdotool key Shift+Ctrl+a
      sleep 0.2
      xdotool key Tab Tab Tab Tab Tab
@@ -71,7 +71,7 @@ counter=0
      xdotool key Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab space
 
     xdotool key Ctrl+Shift+s
-     sleep 0.2
+     sleep 0.8
      xdotool type $file
      sleep 0.5
      xdotool key KP_Enter

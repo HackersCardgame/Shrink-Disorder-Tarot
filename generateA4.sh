@@ -89,7 +89,7 @@ counter=0
      xdotool key Ctrl+Alt+a
      sleep 0.2
      xdotool key Ctrl+g
-     sleep 0.2
+     sleep 0.8
      xdotool key Shift+Ctrl+a
      sleep 0.5
      xdotool key Tab Tab Tab Tab Tab

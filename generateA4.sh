@@ -50,14 +50,14 @@ counter=0
    xdotool key Ctrl+v
    sleep 0.8
    xdotool key Ctrl+g
-   sleep 0.2
+   sleep 1
    xdotool key Alt+Escape
    sleep 0.2
    xdotool key Alt+F4
 
    if (( $counter % 8 == 0 ))
    then 
-     sleep 0.5
+     sleep 1
      xdotool key Ctrl+Alt+a
 
      sleep 0.5

@@ -52,14 +52,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.4783424"
-     inkscape:cx="151.13581"
-     inkscape:cy="85.50183"
+     inkscape:cx="161.82844"
+     inkscape:cy="133.92129"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -75,7 +75,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -234,15 +234,15 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="static-text English"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="default"
        id="text7285"
-       y="308"
+       y="298"
        x="34">
       <tspan
          style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         y="308"
+         y="298"
          x="34"
          id="tspan7287"
          sodipodi:role="line">Use Cases</tspan>
@@ -273,7 +273,7 @@
     </text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="static-text German"
      id="g7819"
      inkscape:groupmode="layer">
@@ -595,21 +595,21 @@
          x="150.33174"
          y="49.7878"
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter Bold"
-         dy="-3">Leiche im Keller</tspan></text>
+         dy="-3">corpse in cellar</tspan></text>
     <flowRoot
        style="font-size:7px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7659"
        xml:space="preserve"
-       transform="translate(0,2)"><flowRegion
+       transform="translate(-2,-8)"><flowRegion
          id="flowRegion7661"><rect
            y="309"
            x="38"
-           height="33.614613"
-           width="206.70395"
+           height="47.333462"
+           width="210.73891"
            id="rect7663"
            style="font-size:7px" /></flowRegion><flowPara
          id="flowPara7665"
-         style="font-size:7px;text-align:justify;text-anchor:start">Als globaler Geheimdienst kann man über diese Leichen im Keller ganze Städte unterwerfen ⇨ Folge: Tarot Karte &quot;The Tower&quot; </flowPara></flowRoot>    <flowRoot
+         style="font-size:7px;text-align:justify;text-anchor:start">A global intelligence service can subdue whole cities with this &quot;trick&quot;  ⇨ consequences: Tarot Card &quot;The Tower&quot; or many of them; Revision 2015 - PC Demo - Secret Society https://www.youtube.com/watch?v=viU3qbXoIzw&amp;t=2m45s</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion
@@ -622,7 +622,7 @@
            width="204.85315"
            id="rect7671" /></flowRegion><flowPara
          style="font-size:7.3000021px"
-         id="flowPara116879">Ein Stadtrat öfters mal einen Zigener-Friedhof im Keller hat oder das Bundesland für den Tod von vielen Verdingkinder mittelbar oder unmittelbar Verantwortlich ist. So können ganze Jurisdiktionen mit &quot;Wir werden euch verpetzen&quot; unterwandert werden. Oftmals Ereignisse und Taten die nicht korrigiert oder gesühnt werden können also z.B. Mord etc... oder z.B. eine Vergewaltigung an einem Kind unter Rohypnol würde das Kind ev. in den &quot;Selbst&quot;mord treiben würde man es beichten.</flowPara></flowRoot>    <text
+         id="flowPara116879">A city council often has a Gypsy cemetery in the cellar or the state is responsible for the death of many peddlers indirectly or directly. Thus the whole jurisdictions can be infiltrated with &quot;We know what you did last summer&quot;. Often events and deeds which can not be corrected or expiated, e.g. Murder or rape  under Rohypnol where the victim then died, run Suicide or Amok...</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"

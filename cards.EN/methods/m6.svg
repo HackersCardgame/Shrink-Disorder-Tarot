@@ -44,10 +44,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7524527"
-     inkscape:cx="219.80277"
+     inkscape:cx="142.48256"
      inkscape:cy="204.43959"
      inkscape:document-units="px"
-     inkscape:current-layer="g7653"
+     inkscape:current-layer="layer15"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
@@ -165,7 +165,7 @@
          id="tspan3135"
          x="-110.90396"
          y="154.59448"
-         style="font-size:10.76603699px;font-weight:bold;fill:#ff0000;stroke:#0000ff;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:Sans Bold">Nicht der hier</tspan></text>
+         style="font-size:10.76603699px;font-weight:bold;fill:#ff0000;stroke:#0000ff;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:Sans Bold">Not this one</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16.18980217px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
@@ -285,7 +285,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="static-text English"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="default"
        id="text7285"
@@ -324,7 +324,7 @@
     </text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="static-text German"
      id="g7819"
      inkscape:groupmode="layer">
@@ -646,19 +646,20 @@
          x="150.33174"
          y="49.7878"
          style="font-size:15px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter Bold"
-         dy="-3"> degree of doctor (דוקטורט)</tspan></text>
+         dy="-3"> doctor's dignity (דוקטורט)</tspan></text>
     <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7659"
-       xml:space="preserve"><flowRegion
+       xml:space="preserve"
+       transform="translate(0,2)"><flowRegion
          id="flowRegion7661"><rect
            y="309"
            x="38"
            height="29.983154"
            width="204.68648"
            id="rect7663" /></flowRegion><flowPara
-         id="flowPara7665"
-         style="font-size:7px;text-align:justify;text-anchor:start">Gut funktionierende Zombis die dem &quot;Papst&quot; dien(t)en, die jeweils auf der rechtern Seite des Auditoriums sitzen, haben scheinbar die bessere Chancen auf einen Titel...</flowPara></flowRoot>    <flowRoot
+         style="font-size:7px;text-align:justify;text-anchor:start"
+         id="flowPara7729">Well-functioning RUST ™ BOTs / Zombis serving the &quot;pope&quot; who are sitting on the right side of the audience seem to have better chances for a title ...</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion
@@ -670,8 +671,8 @@
            height="130.6109"
            width="204.85315"
            id="rect7671" /></flowRegion><flowPara
-         style="font-size:7.40000032px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara26841">Nach dem klassischen Weg durch die Kantonsschule (n &gt; 5 Jahre) und ca 10 Jahren an einer &quot;Zufalls&quot;-Universität, wird einem der Master Titel oder die Doktor-Würde verliehen, allenfalls benötigt es zusätzlich in Battlefield Bad Company II mindesens Rang 50 und allenfalls irgend eine random Doktorarbeit im Kontext des Studengangs, aber da sind wir uns noch nicht ganz zu 100% sicher...</flowPara></flowRoot>    <text
+         style="font-size:7.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara26841">After the classic course through the gymnasium (n &gt; 5 years) and about 10 years at a random university, one gets maybe the master's degree or the doctor's dignity, Requirements seems to be at least some random doctoral thesis in the the field of study, and maybe Rank 50 in Battlefield BC2 but we are still not completely 100% sure about this part of the thesis...</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"
@@ -694,7 +695,7 @@
          style="text-align:start;text-anchor:start;fill:#ff0000"
          y="205"
          x="85"
-         sodipodi:role="line">Satan / Papst Honorius III</tspan></text>
+         sodipodi:role="line">Satan / Pope Honorius III</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot46053"

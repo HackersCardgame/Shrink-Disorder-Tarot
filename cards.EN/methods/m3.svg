@@ -44,14 +44,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.4783424"
-     inkscape:cx="228.83782"
-     inkscape:cy="161.5163"
+     inkscape:cx="197.36517"
+     inkscape:cy="226.07558"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -226,7 +226,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="static-text English"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="default"
        id="text7285"
@@ -265,7 +265,7 @@
     </text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="static-text German"
      id="g7819"
      inkscape:groupmode="layer">
@@ -586,8 +586,8 @@
          id="tspan7657"
          x="150.33174"
          y="49.7878"
-         style="font-size:15px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter Bold"
-         dy="-3">Töpfern / Bastelarbeiten</tspan></text>
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter Bold"
+         dy="-2">Pottery / Crafts</tspan></text>
     <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7659"
@@ -600,7 +600,7 @@
            width="207.91444"
            id="rect7663" /></flowRegion><flowPara
          style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara7994">Zusätzlich konnten die fehlbare El(s)tern™ noch ein bisschen ihr Opfer runterkanzeln, (MSBP?) und es für seine Kindheit verantwortlich machen.</flowPara></flowRoot>    <flowRoot
+         id="flowPara7994">In addition, the fallible P(aren't)s™ could still kick a bit of their victim down (MSBP?) and blame it for his childhood.</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
        xml:space="preserve"
@@ -614,15 +614,15 @@
            width="210.09859"
            id="rect7671" /></flowRegion><flowPara
          id="flowPara7673"
-         style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace">unverschuldet zum Studum rausgeworfen worden, hat man z.B. Marc in nen Ton-Bastel-Kurs gesteckt, der als <flowSpan
+         style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace">Guiltless been thrown out of the University, then they put MarcJr in a Pottery course, which was sold as a <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
-   id="flowSpan7982">&quot;gute&quot; Lektion Demut</flowSpan> verkauft wurde, de facto war's psychologische Kriegsführung um Marc mit sinnlosen Arbeiten zu brechen: <flowSpan
+   id="flowSpan7737">&quot;good&quot; lesson humility</flowSpan>, de facto it was psychological warfare to break Marc Jr with pointless works: &quot;<flowSpan
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
-   id="flowSpan7984">&quot;los, tu ein  bisschen Basteln du Versager&quot;</flowSpan>=<flowSpan
+   id="flowSpan7745">go, do a bit of crafting you looser</flowSpan>&quot; = <flowSpan
    style="fill:#ff0000"
-   id="flowSpan7986">reVictimizing</flowSpan> einer Kindheit als Missbrauchs / Misshandlungsopfer. Motiv: Marc Jr hat <flowSpan
+   id="flowSpan7743">reVictimizing</flowSpan> of childhood as an victim of abuse. Motif: Marc Jr &quot;twaddle&quot; <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
-   id="flowSpan7988">14 Jahre vor Snowden</flowSpan> schon von EDV-Infiltration &quot;geschwafelt&quot;, was dann Snowden im Juni 2013 unwiederlegbar beweisen hat, TNX.</flowPara></flowRoot>    <text
+   id="flowSpan7741">14 years before Snowdens Leaks</flowSpan> already of infiltration of Swiss Company Networks, which then was prooven by Snowden in June 2013 irrevocably, TNX Ed.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"

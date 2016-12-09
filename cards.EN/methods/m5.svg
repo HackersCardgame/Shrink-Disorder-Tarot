@@ -44,14 +44,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7524527"
-     inkscape:cx="140"
-     inkscape:cy="186.02499"
+     inkscape:cx="111.87909"
+     inkscape:cy="184.99792"
      inkscape:document-units="px"
-     inkscape:current-layer="layer15"
+     inkscape:current-layer="g7653"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -128,8 +128,8 @@
     <text
        xml:space="preserve"
        style="font-size:27.34107208px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       x="161.59354"
-       y="174.12874"
+       x="194.48351"
+       y="174.03384"
        id="text3155"
        sodipodi:linespacing="125%"
        transform="matrix(0.99916247,-0.040919,0.040919,0.99916247,0,0)"
@@ -137,10 +137,10 @@
        inkscape:export-xdpi="375.67999"
        inkscape:export-ydpi="375.67999"><tspan
          sodipodi:role="line"
-         id="tspan3157"
-         x="161.59354"
-         y="174.12874"
-         style="font-size:6.83526802px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans Bold">Schleichwerbung</tspan></text>
+         x="194.48351"
+         y="174.03384"
+         style="font-size:6.83526802px;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Sans"
+         id="tspan7840">surreptitious ad</tspan></text>
   </g>
   <g
      style="display:none"
@@ -245,15 +245,15 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="static-text English"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="default"
        id="text7285"
-       y="308"
+       y="306"
        x="34">
       <tspan
          style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         y="308"
+         y="306"
          x="34"
          id="tspan7287"
          sodipodi:role="line">Use Cases</tspan>
@@ -284,7 +284,7 @@
     </text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="static-text German"
      id="g7819"
      inkscape:groupmode="layer">
@@ -605,8 +605,10 @@
          id="tspan7657"
          x="150.33174"
          y="49.7878"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter Bold"
-         dy="-4">Studenten-Würde (Sündenbock)</tspan></text>
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter Bold"
+         dy="-3">Student Dignity <tspan
+   style="font-weight:normal;-inkscape-font-specification:Bitstream Charter"
+   id="tspan7836">(scapegoat)</tspan></tspan></text>
     <flowRoot
        style="font-size:7px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7659"
@@ -619,7 +621,7 @@
            id="rect7663"
            style="font-size:7px" /></flowRegion><flowPara
          id="flowPara7665"
-         style="font-size:6.8px;text-align:justify;text-anchor:start">Die Meisten Use-Cases, auch PutzFrau / PutzMann oder z.B. Brandsanierer, das geniesst den zwar der Student nicht so, aber Satan oder ein Vater mit low self-esteem maximal...</flowPara></flowRoot>    <flowRoot
+         style="font-size:6.80000019px;text-align:justify;text-anchor:start">Most Use Cases: Cleaning (wo)man, firefighter or for restoration after a fire, all people with low self esteem seem to enjoy braking students...</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion
@@ -631,16 +633,16 @@
            height="130.6109"
            width="204.85315"
            id="rect7671" /></flowRegion><flowPara
-         id="flowPara7673"
-         style="font-size:7.3000001px">v. lat.: <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Sans Bold;font-size:7.3000001px"
-   id="flowSpan41164">studens „strebend (nach)</flowSpan>, sich interessierend (für), sich bemühend um“, im Plural Saufgelage</flowPara><flowPara
-         id="flowPara41162"
-         style="font-size:7.3000001px"><flowSpan
-   style="fill:#ff0000;font-size:7.3000001px"
-   id="flowSpan41166"><flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Sans Bold;font-size:7.3000001px"
-   id="flowSpan41168">Sokrates</flowSpan> (468 - 399 v.Chr) Wer glaubt, etwas zu sein, hat aufgehört, etwas zu werden</flowSpan> / tiefer Selbstwert wegen Rabenel(s)tern™ =&gt; viel Gratis-Arbeit, erfindet er etwas Tolles, wird er enteignet, Satan krallt sich die Erfindungen und hetzt dem Studenten als Dank irgendwelche nicht-Studenten oder Studenten-Hasser auf den Hals...</flowPara></flowRoot>    <text
+         style="font-size:7.30000019px"
+         id="flowPara7822">v. lat .: <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan7838">studens &quot;striving (after)</flowSpan>, interested (for), striving for&quot;, in the plural booze-up </flowPara><flowPara
+         style="font-size:7.30000019px"
+         id="flowPara7826"><flowSpan
+   style="fill:#ff0000"
+   id="flowSpan7828"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan7830">Socrates</flowSpan> (468 - 399 BC) &quot;Once you start believing you are, you've stopped becoming.&quot;</flowSpan> / low self-worth because of Parents that abused their power against their kids =&gt; has often to work for free, if he invents something great, he is expropriated, Satan claws the inventions and as &quot;thanks&quot; they intimidated him with non-students or student haters...</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"
@@ -663,7 +665,7 @@
          style="text-align:start;text-anchor:start;fill:#ff0000"
          y="205"
          x="85"
-         sodipodi:role="line">Gott / Satan</tspan></text>
+         sodipodi:role="line">God / Satan</tspan></text>
   </g>
   <g
      transform="translate(0,0.00278321)"

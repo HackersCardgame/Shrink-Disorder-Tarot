@@ -15,7 +15,7 @@
    id="svg3050"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="m10.svg"
+   sodipodi:docname="m6.svg"
    style="enable-background:new">
   <defs
      id="defs3052">
@@ -44,14 +44,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7524527"
-     inkscape:cx="218.66151"
+     inkscape:cx="219.80277"
      inkscape:cy="204.43959"
      inkscape:document-units="px"
-     inkscape:current-layer="layer15"
+     inkscape:current-layer="g7653"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -645,8 +645,8 @@
          id="tspan7657"
          x="150.33174"
          y="49.7878"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter Bold"
-         dy="-3">Doktor-Würde (דוקטורט)</tspan></text>
+         style="font-size:15px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter Bold"
+         dy="-3"> degree of doctor (דוקטורט)</tspan></text>
     <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7659"
@@ -705,7 +705,7 @@
            height="90.159355"
            x="-61.627911"
            y="98.148155" /></flowRegion><flowPara
-         id="flowPara46059"></flowPara></flowRoot>  </g>
+         id="flowPara46059" /></flowRoot>  </g>
   <g
      transform="translate(0,0.00278321)"
      style="display:none"

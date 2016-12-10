@@ -44,8 +44,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.4783424"
-     inkscape:cx="179.20668"
-     inkscape:cy="246.07557"
+     inkscape:cx="180.01367"
+     inkscape:cy="84.677371"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
      showgrid="false"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -501,7 +501,7 @@
            width="204.68648"
            id="rect7663" /></flowRegion><flowPara
          id="flowPara7665"
-         style="text-align:justify;text-anchor:start">Medikation aber leider auch zur &quot;Cyber&quot;-Geiselnahme von Personen mit z.B. giftigen Stoffen</flowPara></flowRoot>    <flowRoot
+         style="text-align:justify;text-anchor:start">Medication but unfortunately also to the &quot;cyber&quot; -carriage of persons with e.g. Toxic substances</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion
@@ -513,9 +513,7 @@
            height="130.6109"
            width="204.85315"
            id="rect7671" /></flowRegion><flowPara
-         id="flowPara7673">Implantate die <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
-   id="flowSpan22092">chemische Substanzen</flowSpan> / Medikamente freisetzen über Fernzündung und im Fall von z.B. Adrenalin Metabolismus anstossenden Substanzen dann z.B. einen Aggressionsschub, im Fall des Melatonin Metabolismus z.B. Müdigkeit erzeugen können, das heisst damit kann man z.B. einem Opfer die Aufmerksamkeit rauben oder es in den Suizid oder Amok triggern :(</flowPara></flowRoot>    <text
+         id="flowPara7673">Implants which release chemical substances / drugs via remote ignition and in the case of e.g. Adrenaline metabolism-promoting substances, e.g. An aggression thrust, in the case of melatonin metabolism e.g. Fatigue, that is to say, one can, for example, A victim's attention or rob it into the suicide or amok triggern</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"

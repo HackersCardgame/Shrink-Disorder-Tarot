@@ -44,8 +44,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284273"
-     inkscape:cx="96.851471"
-     inkscape:cy="86.490772"
+     inkscape:cx="97.558578"
+     inkscape:cy="143.05931"
      inkscape:document-units="px"
      inkscape:current-layer="g7683"
      showgrid="false"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -846,13 +846,11 @@
            style="text-align:justify;text-anchor:start"
            ry="0" /></flowRegion><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara7711">LeChuck ist die Rolle des Bösewichts im Lucas Arts Spiel <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
-   id="flowSpan12765">Monkey Island™</flowSpan></flowPara><flowPara
+         id="flowPara12656">LeChuck is the role of the bad guy in the Lucas Arts game Monkey Island ™</flowPara><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara12652">Dieser Archetyp fehlt z.B. bei C.G. Jung: &quot;Grosser böse Bruder&quot;-Archetyp, bzw. etwas wie ein Vater- oder ein Krieger-Archetyp der seine kleinen Geschwister misshandelt.</flowPara><flowPara
+         id="flowPara7735">This type of arch is missing e.g. By C.G. Jung: &quot;Big Bad Brother&quot; archetype, or something like a father or warrior archetype who mistreated his little siblings.</flowPara><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara12656">Allenfalls auch z.B. als Alkoholiker Vater-Arhetypus der seine Kinder misshandelt verwendbar</flowPara></flowRoot>    <flowRoot
+         id="flowPara7737">At most also e.g. As an alcoholic father-arthypus of his children</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot7743"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><flowRegion
@@ -864,14 +862,10 @@
            y="285"
            style="text-align:justify;text-anchor:start"
            ry="0" /></flowRegion><flowPara
-         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara12751" /><flowPara
-         style="font-size:7.30000019000000044px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace Bold;fill:#ff0000"
-         id="flowPara12755">Wed Aug 7 2013:</flowPara><flowPara
-         style="font-size:7.30000019000000044px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace;fill:#ff0000"
-         id="flowPara12759">[l] Was die Amis können, können wir schon lange! Schaut mal, ein dreiköpfiger Terroristen-Affe!1!! <flowSpan
-   style="font-style:italic;-inkscape-font-specification:Monospace Italic"
-   id="flowSpan12769">(ungehört: aber ignoriert den bärtiegen LeChuck mal)</flowSpan></flowPara></flowRoot>    <text
+         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara12759">Wed Aug 7 2013:</flowPara><flowPara
+         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara7744">[L] What the Americans can do, we can have a long time! Look, a three-headed terrorist monkey! (Unheard: but ignored the bearded LeChuck times)</flowPara></flowRoot>    <text
        sodipodi:linespacing="125%"
        id="text7781"
        y="205"

@@ -43,9 +43,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.9566847"
-     inkscape:cx="142.08933"
-     inkscape:cy="310.85762"
+     inkscape:zoom="1.7524527"
+     inkscape:cx="140"
+     inkscape:cy="186.02499"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
      showgrid="false"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -542,7 +542,7 @@
            width="204.68648"
            id="rect7663" /></flowRegion><flowPara
          id="flowPara7665"
-         style="text-align:justify;text-anchor:start">Steuert das Hormonsystem des meschlichen Körpers, kann sowohl mit chemischen Stoffen, als auch mit z.B. Stimulis manipuliert werden</flowPara></flowRoot>    <flowRoot
+         style="text-align:justify;text-anchor:start">Controls the hormonal system of the human body, can be used both with chemical substances, as well as with e.g. Stimulant</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion
@@ -554,7 +554,7 @@
            height="130.6109"
            width="204.85315"
            id="rect7671" /></flowRegion><flowPara
-         id="flowPara7673">Die Hypophyse (gr. ὑπόφυσις hypóphysis „das unten anhängende Gewächs“) ist eine Hormondrüse, der eine zentrale übergeordnete Rolle bei der Regulation des Hormonsystems im Körper zukommt. Sie ist eine Art Schnittstelle, mit der das Gehirn über die Freisetzung von Hormonen Vorgänge wie Wachstum, Fortpflanzung und Stoffwechsel reguliert </flowPara></flowRoot>    <text
+         id="flowPara7673">The hypophysis (gr. Ὑπόφυσις hypóphysis &quot;the below adherent growth&quot;) is a hormonal gland, which plays a central role in the regulation of the hormone system in the body. It is a kind of interface with which the brain regulates the release of hormonal processes such as growth, reproduction and metabolism</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"

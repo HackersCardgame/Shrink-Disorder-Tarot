@@ -44,8 +44,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0000001"
-     inkscape:cx="169.04442"
-     inkscape:cy="122.18649"
+     inkscape:cx="170.04442"
+     inkscape:cy="42.186494"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
      showgrid="false"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -676,12 +676,10 @@
            height="29.983154"
            width="204.68648"
            id="rect7663" /></flowRegion><flowPara
-         id="flowPara7665"
-         style="text-align:justify;text-anchor:start">Games,Firmen,Militär,Subkulturen,TerrorNetzwerke</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara12690">Autopoiese, Institutionell, dazu auch <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
-   id="flowSpan12692">Institutionelle Diskriminierung</flowSpan></flowPara></flowRoot>    <flowRoot
+         id="flowPara12690">Games, companies, military, subcultures, terror networks</flowPara><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara7767">Autopoiesis, Institutional, as well as Institutional Discrimination</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion
@@ -693,7 +691,7 @@
            height="130.6109"
            width="204.85315"
            id="rect7671" /></flowRegion><flowPara
-         id="flowPara7673">Menschen tendieren dazu andere Menschen zu unterjochen und &quot;nutzbar&quot; zu machen so kann man von Institutioneller Diskrimierung bis Sklaverei alls mit einem Militärischen Grad rechtfertigen =&gt; GOTO Milgram Experiment.</flowPara></flowRoot>    <text
+         id="flowPara7673">People tend to subjugate other people and make them &quot;usable&quot; so you can justify from institutional discrimination to slavery with a military grade =&gt; GOTO Milgram Experiment.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"

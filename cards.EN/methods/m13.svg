@@ -52,14 +52,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.4783424"
-     inkscape:cx="156.81457"
-     inkscape:cy="82.56892"
+     inkscape:cx="119.08774"
+     inkscape:cy="130.98838"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -75,7 +75,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -237,7 +237,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="static-text English"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="default"
        id="text7285"
@@ -276,7 +276,7 @@
     </text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="static-text German"
      id="g7819"
      inkscape:groupmode="layer">
@@ -624,8 +624,8 @@
            height="130.6109"
            width="204.85315"
            id="rect7671" /></flowRegion><flowPara
-         style="font-size:7.50000219px"
-         id="flowPara60545">z.B. George W. Bush der damals nach dem die CIA vermutlich die Twin-Towers selber gesprengt hat das Besatzungsland medienwirksam zum Terroristen deklariert hat (die Islamischen Gebiete sind die Ölreichen Gebiete; Quelle Prof. Daniele Ganser @Unibasel) Bush in den Medien: &quot;The War AGAINST Terror is only begining&quot; und viele von uns haben es ihm leider gelaubt, de facto war es Imperalismus unteranderem gefördert von der US Waffenindustrie</flowPara></flowRoot>    <text
+         style="font-size:7.50000238px"
+         id="flowPara60545">After the CIA most likely blew up the Twin Towers itself, George W. Bush declared these countries media-effective to Terrorist-Countries (but the Islamic areas are the oil-rich areas; source Prof. Dr. Daniele Ganser @Unibasel) in Media quite suggestive: &quot;The War AGAINST Terror is only begining&quot; and many of us unfortunately believed the lie, de facto it was imperialism &quot;promoted&quot; by the US weapons industry, all lost, except those who sold Surveillance &amp; Arms</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"

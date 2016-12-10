@@ -44,7 +44,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.4783424"
-     inkscape:cx="172.95369"
+     inkscape:cx="173.76068"
      inkscape:cy="108.15864"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -601,7 +601,7 @@
            width="204.68648"
            id="rect7663" /></flowRegion><flowPara
          id="flowPara7665"
-         style="font-size:8px;text-align:justify;text-anchor:start">&quot;Lügendetektor&quot; bzw. von der Befragung ablenken, der Versuch private Gedanken und Emotionen auszulesen...</flowPara></flowRoot>    <flowRoot
+         style="font-size:8px;text-align:justify;text-anchor:start">&quot;Lie detector&quot; or distract from the survey, the attempt to read private thoughts and emotions ...</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion
@@ -613,7 +613,7 @@
            height="130.6109"
            width="204.85315"
            id="rect7671" /></flowRegion><flowPara
-         id="flowPara7673">Es wird als &quot;Phantasieprüfung mit  formlosen Klecksen bei Schulkindern,  normalen Erwachsenen und Geisteskranken“ verkauft, in wirklichkeit lenkt es aber den Befragten davon ab, welche Fragen gestellt werden</flowPara></flowRoot>    <text
+         id="flowPara7673">It is sold as a &quot;phantasy test with formless blobs in schoolchildren, normal adults and mentally ill&quot;, but in reality it distracts the respondents from what questions are asked</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"

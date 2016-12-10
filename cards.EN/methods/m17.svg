@@ -51,9 +51,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.4783424"
-     inkscape:cx="151.13581"
-     inkscape:cy="34.804966"
+     inkscape:zoom="1.7524527"
+     inkscape:cx="140"
+     inkscape:cy="186.02499"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
      showgrid="false"
@@ -75,7 +75,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -609,7 +609,7 @@
            id="rect7663"
            style="font-size:7px" /></flowRegion><flowPara
          id="flowPara7665"
-         style="font-size:7px;text-align:justify;text-anchor:start">Einem Soziopathen sind Kinder egal, Hauptsache er kann so mehr Ramsch verticken und er würde das Kind vermutllich auch schänden, wenn er damit unbehelligt Profit machen könnte.</flowPara></flowRoot>    <flowRoot
+         style="font-size:7px;text-align:justify;text-anchor:start">Children do not care for a sociopath, he can raise more junk, and he would probably sully the child if he could make a profit with it.</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion
@@ -622,7 +622,7 @@
            width="204.85315"
            id="rect7671" /></flowRegion><flowPara
          style="font-size:8px"
-         id="flowPara116879">Wie beim Limbic System Vulnerability Hack ist unser Gehirn anfällig auf das schnussige Aussehen von Kindern. Dies wird sowohl von der Werbung als auch in Sozio-Systemen missbraucht, Wissenschaftlich gesprochen Handelt es sich dabei um Wahrnehmungspsychologie z.B. von der Kopfform, die uns auch ein bisschen an die damaligen Spielgefährten von uns erinnert</flowPara></flowRoot>    <text
+         id="flowPara116879">As with the Limbic System Vulnerability Hack, our brain is prone to the snooty appearance of children. This is abused by advertising as well as by socio-systems, scientifically speaking. It is about perception psychology, e.g. From the Kopfform, which also reminds us a bit of the players of that time from us</flowPara></flowRoot>    <text
        sodipodi:linespacing="125%"
        id="text7679"
        y="205"
@@ -634,6 +634,18 @@
          y="205"
          x="85"
          sodipodi:role="line">Satan / Kapitalismus / Werbenindustrie</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="232.0099"
+       y="190.07352"
+       id="text7773"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-0.00278321)"><tspan
+         sodipodi:role="line"
+         id="tspan7775"
+         x="232.0099"
+         y="190.07352">5</tspan></text>
   </g>
   <g
      transform="translate(0,0.00278321)"

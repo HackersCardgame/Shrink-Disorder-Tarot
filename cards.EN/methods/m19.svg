@@ -52,14 +52,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.5049054"
-     inkscape:cx="148.23589"
-     inkscape:cy="37.495501"
+     inkscape:cx="121.55899"
+     inkscape:cy="60.320653"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -75,7 +75,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -237,7 +237,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="static-text English"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="default"
        id="text7285"
@@ -262,21 +262,9 @@
          x="34"
          y="205">Inventor</tspan>
     </text>
-    <text
-       x="192"
-       id="text7281"
-       xml:space="default"
-       y="205">
-      <tspan
-         style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         x="192"
-         sodipodi:role="line"
-         id="tspan7283"
-         y="205">Year</tspan>
-    </text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="static-text German"
      id="g7819"
      inkscape:groupmode="layer">
@@ -303,6 +291,19 @@
          sodipodi:role="line"
          id="tspan7827"
          style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold">Erfinder</tspan>
+    </text>
+    <text
+       style="enable-background:new;display:inline"
+       x="192"
+       id="text7281"
+       xml:space="default"
+       y="205">
+      <tspan
+         style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         x="192"
+         sodipodi:role="line"
+         id="tspan7283"
+         y="205">Year</tspan>
     </text>
   </g>
   <g
@@ -586,7 +587,7 @@
          x="150.33174"
          y="49.7878"
          style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter Bold"
-         dy="-2">Psychiatrie</tspan></text>
+         dy="-2">Mental Institution</tspan></text>
     <flowRoot
        style="font-size:7px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7659"
@@ -599,14 +600,8 @@
            width="204.68648"
            id="rect7663"
            style="font-size:7px" /></flowRegion><flowPara
-         id="flowPara7665"
-         style="font-size:6.5999999px;text-align:justify;text-anchor:start">Um Straftaten der Wirtschaft zu vertuschen, bekanntestes Beispiel der Fall #Mollath (HoneyPot) Deutschland.</flowPara><flowPara
          style="font-size:6.5999999px;text-align:justify;text-anchor:start"
-         id="flowPara116710">CIA <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
-   id="flowSpan116712">MKULTRA</flowSpan> Projekt ⇔ <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
-   id="flowSpan116714">DSM</flowSpan> zeitliche Parallelen ab 1970 </flowPara></flowRoot>    <flowRoot
+         id="flowPara7781">To gloss over Economic crimes, best known example case #Mollath (HoneyPot) Germany. CIA MKULTRA Project ⇔ DSM temporal paralleles since 1970</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion
@@ -619,7 +614,7 @@
            width="204.85315"
            id="rect7671" /></flowRegion><flowPara
          style="font-size:8px"
-         id="flowPara64071">Konzepte meist so mittelalterlich wie zu Zeiten der Inquisistion, moderne Häcksenverbrennung, also eigentlich Folter an den Opfern udn Zeugen, aber die Täterschaft spricht von Behavioural &quot;Sciences&quot;, Elektrosckocks, Insulinshocks, agressive Medikamente bis hin zu lethalen Medikamenten wie #Zxprexa (was erst durch das @torproject ♡ aufgedeckt werden konnte) sind leider nicht selten.</flowPara></flowRoot>    <text
+         id="flowPara64071">Concepts usually as medieval as in the times of the Inquisistion, some sort of modern witch burning, actually torture of victims and principal witness, but the offender often talks about behavioural &quot;Sciences&quot; or &quot;Therapy&quot;, Elektrosckocks, Insulinshocks, aggressive medication, even lethalen medicines like #Zxprexa (exposte by The @torproject ♡ ) are unfortunately not seldom.</flowPara></flowRoot>    <text
        sodipodi:linespacing="125%"
        id="text7679"
        y="205"
@@ -640,7 +635,9 @@
        sodipodi:linespacing="125%"
        transform="translate(0,-0.00278321)"><tspan
          sodipodi:role="line"
-         id="tspan64078"></tspan></text>
+         id="tspan64078"
+         x="-75.857155"
+         y="72.252831" /></text>
   </g>
   <g
      transform="translate(0,0.00278321)"

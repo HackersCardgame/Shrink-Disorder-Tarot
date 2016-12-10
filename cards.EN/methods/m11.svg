@@ -52,8 +52,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.4783424"
-     inkscape:cx="108.73666"
-     inkscape:cy="144.01618"
+     inkscape:cx="109.54365"
+     inkscape:cy="208.57546"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
      showgrid="false"
@@ -75,7 +75,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1069,7 +1069,7 @@
            width="204.68648"
            id="rect7663" /></flowRegion><flowPara
          id="flowPara7665"
-         style="font-size:7px;text-align:justify;text-anchor:start">Idiotischen Nachbarn zu erläutern, dass es erzieherisch wenig Sinn macht, mit Gewalt seinen Willen den Jüngeren aufzuzwingen; Eine Herleitung wäre pädagogisch besser</flowPara></flowRoot>    <flowRoot
+         style="font-size:7px;text-align:justify;text-anchor:start">To explain to idiotic neighbors that it makes little sense educationally to impose his will on the younger; A derivation would be pedagogically better</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion
@@ -1081,10 +1081,8 @@
            height="130.6109"
            width="204.85315"
            id="rect7671" /></flowRegion><flowPara
-         style="font-size:6.4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara26841">Entwickungspsychologisches Model für Kindern, Formalen Operationen sagen z.B. dass sich ein Kind überlegt &quot;was passiert, wenn ich einen Stein die Rutschbahn runterwerfe&quot; (Hypothese), hat es die Hypothese aufgestellt macht es Sinn diese auch zu testen, wo dann meist auch schon der geistig eher weniger begabte rumkommandierende Hauswart kommt, um seinen Unmut am Kind auszulassen und es anbellt, Macht / Zwang ausdüben (Dopamin-Ausschüttung), besser wäre zu erklären, dass das schlecht für das Material der Rutschbahn ist, <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
-   id="flowSpan61120">sinnvolle Deduktion</flowSpan>.</flowPara></flowRoot>    <text
+         style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara26841">Developmental psychological model for children, formal operations say e.g. (Hypothesis), it has the hypothesis made makes it sense to test this also, where then usually also the mentally rather gifted rumkommandierende housekeeper comes to his own. If a child thinks &quot;what happens when I throw a stone down the slide&quot; (hypothesis) To let go of the child's displeasure and to exert power / coercion (dopamine distribution), it would be better to explain that this is bad for the material of the slide, meaningful deduction.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"
@@ -1118,7 +1116,7 @@
            height="90.159355"
            x="-61.627911"
            y="98.148155" /></flowRegion><flowPara
-         id="flowPara46059"></flowPara></flowRoot>  </g>
+         id="flowPara46059" /></flowRoot>  </g>
   <g
      transform="translate(0,0.00278321)"
      style="display:none"

@@ -44,7 +44,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7524527"
-     inkscape:cx="63.821054"
+     inkscape:cx="-13.49915"
      inkscape:cy="186.02499"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
@@ -238,15 +238,15 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="static-text English"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="default"
        id="text7285"
-       y="308"
+       y="306"
        x="34">
       <tspan
          style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         y="308"
+         y="306"
          x="34"
          id="tspan7287"
          sodipodi:role="line">Use Cases</tspan>
@@ -277,7 +277,7 @@
     </text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="static-text German"
      id="g7819"
      inkscape:groupmode="layer">
@@ -615,7 +615,7 @@
            width="204.68648"
            id="rect7663" /></flowRegion><flowPara
          id="flowPara7665"
-         style="font-size:8px;text-align:justify;text-anchor:start">Multifunktional: anderen Leuten anwerfen, Kopfkissen, Alternativplan statt Aufmerksamkeit der El(s)tern™, ...</flowPara></flowRoot>    <flowRoot
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace">Multifunctional: to throw at other people, as pillow, alternative plan instead of attention of the P(aren't)s™, ...</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion
@@ -628,7 +628,7 @@
            width="204.85315"
            id="rect7671" /></flowRegion><flowPara
          id="flowPara7673"
-         style="font-size:9px">zum knuddeln, ausserdem z.B. bei Kinder die Misshandlungs- / Missbrauchs-Opfer oder Pädophilie  Opfer sind, um zu erkennen (Objektfixierung auf das Plüschtier / Coping Strategie, &quot;Klammern&quot;) wann das Opfer mit  der Befragung überfordert ist =&gt; pausieren!</flowPara></flowRoot>    <text
+         style="font-size:9px">To hug, to cuddle, clinical use e.g. in the case of children that have been abused or pedophilia victims to recognize (object fixation on the plush / coping strategy, &quot;clinging to the plush&quot;) when the victim is overstrained with the examination =&gt; pause!</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"

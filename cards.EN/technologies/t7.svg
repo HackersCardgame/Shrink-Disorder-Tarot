@@ -44,8 +44,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.4783424"
-     inkscape:cx="43.6796"
-     inkscape:cy="161.21538"
+     inkscape:cx="44.486591"
+     inkscape:cy="290.33394"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
      showgrid="false"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -505,7 +505,7 @@
            dy="-4">3D Game-Engine</tspan><tspan
            style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
            id="tspan12578"
-           dy="0 -1"> (zB. CryEngine)</tspan></tspan></text>
+           dy="0 -1"> (eg. CryEngine)</tspan></tspan></text>
     <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7659"
@@ -517,8 +517,8 @@
            height="29.983154"
            width="204.68648"
            id="rect7663" /></flowRegion><flowPara
-         id="flowPara7665"
-         style="font-size:7px;text-align:justify;text-anchor:start">Spiel, Spass, PsychologischesProfil ermitteln, für Therapie oder &quot;Therapie&quot;, Kinder zu Verbrechen anzustiften (z.B. GTA) danach zu verklagen und es &quot;legitim&quot; zu verskaven</flowPara></flowRoot>    <flowRoot
+         style="font-size:7px;text-align:justify;text-anchor:start"
+         id="flowPara7768">Game, fun, psychological profile, for therapy or &quot;therapy&quot; to incite children to crimes (e.g., GTA) and squeal it &quot;legitimately&quot;</flowPara></flowRoot>    <flowRoot
        style="font-size:4px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion
@@ -530,18 +530,12 @@
            height="130.6109"
            width="204.85315"
            id="rect7671" /></flowRegion><flowPara
-         id="flowPara12566"
-         style="font-size:3px"><flowSpan
-           id="flowSpan12599"
-           style="font-size:8px;font-weight:bold;-inkscape-font-specification:Sans Bold">Castle Wolfenstein</flowSpan><flowSpan
-           id="flowSpan12602"
-           style="font-size:8px;font-weight:normal;-inkscape-font-specification:Sans"> (Muse Software)</flowSpan></flowPara><flowPara
-         style="font-size:3px"
-         id="flowPara12604"> </flowPara><flowPara
          id="flowPara12588"
-         style="font-size:8px">Wie eine <flowSpan
-   style="font-size:8px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-   id="flowSpan12584">SkinnerBOX,</flowSpan> aber scheinheilig verpackt z.B. als  Kinderspielzeug invasive und non-invasive Technologien: zB. modulare NeuroNexus Bluetooth Interface, Uplink zur Quadrophonie oder z.B. zum  Küglschrank, ähnlich wie ein NetzwerkMonitoring mit Plug-Ins, welche dem Benutzer teilweise vorenthalten werden</flowPara></flowRoot>    <text
+         style="font-size:8px">Castle Wolfenstein (Muse Software)</flowPara><flowPara
+         style="font-size:8px"
+         id="flowPara7759"></flowPara><flowPara
+         style="font-size:8px"
+         id="flowPara7762">Like a SkinnerBOX, but hypothetically wrapped e.g. As children's toys invasive and non-invasive technologies: eg. Modular NeuroNexus Bluetooth interface, uplink to quadrophony, or e.g. To the cabinet, similar to a network monitoring with plug-ins, which are partially withheld from the user</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"

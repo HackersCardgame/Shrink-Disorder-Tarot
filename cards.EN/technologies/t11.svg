@@ -44,8 +44,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.5049054"
-     inkscape:cx="120.0491"
-     inkscape:cy="129.28832"
+     inkscape:cx="120.61973"
+     inkscape:cy="346.12727"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
      showgrid="false"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -507,7 +507,7 @@
          x="150.33174"
          y="49.7878"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans Bold"
-         dy="-4">Klassische Konditionierung</tspan></text>
+         dy="-4">Classical conditioning</tspan></text>
     <flowRoot
        style="font-size:7px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7659"
@@ -521,7 +521,7 @@
            id="rect7663"
            style="font-size:7px" /></flowRegion><flowPara
          id="flowPara7665"
-         style="font-size:7.5px;text-align:justify;text-anchor:start">Menschen &amp; Tiere, abzurichten um sowohl für Gutes als auch für weniger Tolles bis hin zum, Gewalttäter (Kampf&quot;hund&quot;) Amokläufer oder Terroristen</flowPara></flowRoot>    <flowRoot
+         style="font-size:7.5px;text-align:justify;text-anchor:start">People &amp; animals, both for good and for less terrible to the &quot;violent&quot; (fight &quot;dog&quot;) amok runner or terrorist</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion
@@ -1137,9 +1137,7 @@
          y="297.26755"
          x="35.154644"
          id="tspan5467"
-         sodipodi:role="line">auch visuelle z.B. <tspan
-   id="tspan5471"
-   style="font-weight:bold;-inkscape-font-specification:Sans Bold">Strassenverkehr: </tspan>Ampeln / Farben</tspan></text>
+         sodipodi:role="line">Also visual. Traffic: traffic lights / colors</tspan></text>
     <g
        style="display:inline;enable-background:new"
        id="g13145-3"

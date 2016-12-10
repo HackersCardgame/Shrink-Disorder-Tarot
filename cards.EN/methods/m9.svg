@@ -44,7 +44,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7524527"
-     inkscape:cx="140"
+     inkscape:cx="141.14126"
      inkscape:cy="186.02499"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -599,11 +599,11 @@
          id="tspan7657"
          x="150.33174"
          y="49.7878"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter Bold"
-         dy="-3">DU bist <tspan
-   style="fill:#b3b3b3"
-   id="tspan60534">SCHIZOPHREN</tspan><tspan
-   style="fill:#666666"
+         style="font-size:15px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter Bold"
+         dy="-3">YOU are <tspan
+   style="font-size:15px;fill:#b3b3b3"
+   id="tspan60534">SCHIZOPHRENIC</tspan><tspan
+   style="font-size:15px;fill:#666666"
    id="tspan60551">!</tspan></tspan></text>
     <flowRoot
        style="font-size:7px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -617,7 +617,7 @@
            id="rect7663"
            style="font-size:7px" /></flowRegion><flowPara
          id="flowPara7665"
-         style="font-size:6.19999981px;text-align:justify;text-anchor:start">Wenn man z.B. im Alter von 20 über NSA/CIA stolperte, was vom US Imperialismus &quot;faselte&quot;, als First Strike der Täterschaft (Einschüchgern / Diskreditieren / Stigmatisieren / Isolieren)</flowPara></flowRoot>    <flowRoot
+         style="font-size:6.19999981px;text-align:justify;text-anchor:start">If, for example, At the age of 20, stumbled across NSA / CIA, which was &quot;fueled&quot; by US imperialism, as a first strike of perpetrators (discriminate / discredit / stigmatize / isolate)</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion
@@ -629,14 +629,10 @@
            height="130.6109"
            width="204.85315"
            id="rect7671" /></flowRegion><flowPara
-         id="flowPara41162"
-         style="font-size:7.00000191px">n. lat.: morbus <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
-   id="flowSpan60547">dissidentiae</flowSpan> phreneticae, im Plural Saufgelage, selterner auch Morbus Bleuler genannt</flowPara><flowPara
          style="font-size:7.00000191px"
-         id="flowPara60545"><flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
-   id="flowSpan60549">Differential Diagnosen</flowSpan>: Autismus, Entwicklungs-störungen, Dissoziative Identitätsstörung (im Passiv), wahnhafte (klagend?) Depression, Verletzungen, Tumoren im Gehirn, Verschiedene Formen der Demenz (euphemismus für Pädophilie), Verwirrtheit,  Desorientierung, den psychosenahen Zuständen bei der Borderline-Persönlichkeitsstörung,Persönlichkeitsstörung, Zwangsgedanken, Perniziöse Anämie</flowPara></flowRoot>    <text
+         id="flowPara60545">N. Lat .: morbus dissidentiae phreneticae, in the plural Saufgelage, selterner also known as Bleuler's disease</flowPara><flowPara
+         style="font-size:7.00000191px"
+         id="flowPara7785">Differential diagnoses: autism, developmental disorders, dissociative identity disorder (in passive), delirious (complaining?) Depression, injuries, tumors in the brain, various forms of dementia (euphemism for pedophilia), confusion, disorientation, psychotic states in the borderline- Personality disorder, personality disorder, compulsive thoughts, pernicious anemia</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"

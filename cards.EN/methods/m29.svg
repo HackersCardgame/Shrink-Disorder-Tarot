@@ -44,7 +44,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7524527"
-     inkscape:cx="141.14126"
+     inkscape:cx="140"
      inkscape:cy="186.02499"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -609,7 +609,7 @@
     <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
-       x="150.33174"
+       x="146.33174"
        y="49.7878"
        id="text7655"
        sodipodi:linespacing="125%"
@@ -618,7 +618,7 @@
        inkscape:export-ydpi="375.67999"><tspan
          sodipodi:role="line"
          id="tspan7657"
-         x="150.33174"
+         x="146.33174"
          y="49.7878"
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter Bold"
          dy="-2">Submissive Pet</tspan></text>

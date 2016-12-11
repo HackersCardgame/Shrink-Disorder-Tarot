@@ -43,15 +43,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.4783424"
-     inkscape:cx="173.76068"
-     inkscape:cy="108.15864"
+     inkscape:zoom="1.7524527"
+     inkscape:cx="140"
+     inkscape:cy="186.02499"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -228,15 +228,15 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="static-text English"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="default"
        id="text7285"
-       y="308"
+       y="306"
        x="34">
       <tspan
          style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         y="308"
+         y="306"
          x="34"
          id="tspan7287"
          sodipodi:role="line">Use Cases</tspan>
@@ -267,7 +267,7 @@
     </text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="static-text German"
      id="g7819"
      inkscape:groupmode="layer">
@@ -588,8 +588,12 @@
          id="tspan7657"
          x="150.33174"
          y="49.7878"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter Bold"
-         dy="-4">Rorschachtest/Objektfixierung</tspan></text>
+         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter Bold"><tspan
+           style="font-size:12px"
+           id="tspan7719"
+           dy="-4">Ink blot test / Fixation </tspan><tspan
+           style="font-size:9px"
+           id="tspan7717">(psychology)</tspan></tspan></text>
     <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7659"
@@ -601,7 +605,7 @@
            width="204.68648"
            id="rect7663" /></flowRegion><flowPara
          id="flowPara7665"
-         style="font-size:8px;text-align:justify;text-anchor:start">&quot;Lie detector&quot; or distract from the survey, the attempt to read private thoughts and emotions ...</flowPara></flowRoot>    <flowRoot
+         style="font-size:8px;text-align:justify;text-anchor:start">As a &quot;Lie detector&quot; but mostly to distract from the survey and the attempt to read out private thoughts and emotions ...</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion
@@ -613,7 +617,9 @@
            height="130.6109"
            width="204.85315"
            id="rect7671" /></flowRegion><flowPara
-         id="flowPara7673">It is sold as a &quot;phantasy test with formless blobs in schoolchildren, normal adults and mentally ill&quot;, but in reality it distracts the respondents from what questions are asked</flowPara></flowRoot>    <text
+         id="flowPara7673">Sold as a &quot;phantasy test with formless blobs for children, normal adults and for mentally ill&quot;, <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan7721">in fact it distracts the questioned</flowSpan> (fixation 1), with a simple RFID or LC circuit stuck on the backside of the paper it's also possible to activate small Active Denial Systems, Hum Noises or treble Sounds arround 15'000Hz below the conscious perception threshold (fixation 2...)</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"

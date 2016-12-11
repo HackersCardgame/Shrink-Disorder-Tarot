@@ -52,14 +52,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7524527"
-     inkscape:cx="140"
+     inkscape:cx="63.821054"
      inkscape:cy="186.02499"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -246,15 +246,15 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="static-text English"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="default"
        id="text7285"
-       y="308"
+       y="296"
        x="34">
       <tspan
          style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         y="308"
+         y="296"
          x="34"
          id="tspan7287"
          sodipodi:role="line">Use Cases</tspan>
@@ -271,21 +271,9 @@
          x="34"
          y="205">Inventor</tspan>
     </text>
-    <text
-       x="192"
-       id="text7281"
-       xml:space="default"
-       y="205">
-      <tspan
-         style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         x="192"
-         sodipodi:role="line"
-         id="tspan7283"
-         y="205">Year</tspan>
-    </text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="static-text German"
      id="g7819"
      inkscape:groupmode="layer">
@@ -312,6 +300,19 @@
          sodipodi:role="line"
          id="tspan7827"
          style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold">Erfinder</tspan>
+    </text>
+    <text
+       style="enable-background:new;display:inline"
+       x="192"
+       id="text7281"
+       xml:space="default"
+       y="205">
+      <tspan
+         style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         x="192"
+         sodipodi:role="line"
+         id="tspan7283"
+         y="205">Year</tspan>
     </text>
   </g>
   <g
@@ -594,22 +595,22 @@
          id="tspan7657"
          x="150.33174"
          y="49.7878"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter Bold"
-         dy="-2">Kindchen-Schema</tspan></text>
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter Bold"
+         dy="-4.5"> Scheme of childlike characteristics</tspan></text>
     <flowRoot
        style="font-size:7px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7659"
        xml:space="preserve"
-       transform="translate(0,-4)"><flowRegion
+       transform="translate(0,-10)"><flowRegion
          id="flowRegion7661"><rect
            y="309"
            x="38"
-           height="36.035599"
-           width="207.91443"
+           height="42.312504"
+           width="204.49066"
            id="rect7663"
            style="font-size:7px" /></flowRegion><flowPara
          id="flowPara7665"
-         style="font-size:7px;text-align:justify;text-anchor:start">Children do not care for a sociopath, he can raise more junk, and he would probably sully the child if he could make a profit with it.</flowPara></flowRoot>    <flowRoot
+         style="font-size:8px;text-align:justify;text-anchor:start">Sociopaths Ignorantly don't care about childrens future, if they can sell more junk they would even roast a child (just with an active denial system of course) if they can make more profit...</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion
@@ -622,7 +623,13 @@
            width="204.85315"
            id="rect7671" /></flowRegion><flowPara
          style="font-size:8px"
-         id="flowPara116879">As with the Limbic System Vulnerability Hack, our brain is prone to the snooty appearance of children. This is abused by advertising as well as by socio-systems, scientifically speaking. It is about perception psychology, e.g. From the Kopfform, which also reminds us a bit of the players of that time from us</flowPara></flowRoot>    <text
+         id="flowPara116879">As with the Limbic System Vulnerability Hack, our brain is susceptible to the cute appearance of <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan7795">children</flowSpan>. This is &quot;used&quot; by advertising as well as by social systems. scientifically spoken: It is about &quot;<flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan7791">Wahrnehmungspsychologie</flowSpan>&quot;, the shape of the head, which also reminds us to <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan7789">Kind</flowSpan> classmate in our childhood</flowPara></flowRoot>    <text
        sodipodi:linespacing="125%"
        id="text7679"
        y="205"
@@ -633,19 +640,7 @@
          style="text-align:start;text-anchor:start;fill:#ff0000"
          y="205"
          x="85"
-         sodipodi:role="line">Satan / Kapitalismus / Werbenindustrie</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="232.0099"
-       y="190.07352"
-       id="text7773"
-       sodipodi:linespacing="125%"
-       transform="translate(0,-0.00278321)"><tspan
-         sodipodi:role="line"
-         id="tspan7775"
-         x="232.0099"
-         y="190.07352">5</tspan></text>
+         sodipodi:role="line">Satan/Communism/Advertising industry</tspan></text>
   </g>
   <g
      transform="translate(0,0.00278321)"

@@ -44,7 +44,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.92331"
-     inkscape:cx="141.03987"
+     inkscape:cx="71.628283"
      inkscape:cy="185.3831"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
@@ -239,15 +239,15 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="static-text English"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="default"
        id="text7285"
-       y="308"
+       y="304"
        x="34">
       <tspan
          style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         y="308"
+         y="304"
          x="34"
          id="tspan7287"
          sodipodi:role="line">Use Cases</tspan>
@@ -278,7 +278,7 @@
     </text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="static-text German"
      id="g7819"
      inkscape:groupmode="layer">
@@ -604,7 +604,8 @@
     <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7659"
-       xml:space="preserve"><flowRegion
+       xml:space="preserve"
+       transform="translate(0,-2)"><flowRegion
          id="flowRegion7661"><rect
            y="309"
            x="38"
@@ -612,7 +613,7 @@
            width="204.68648"
            id="rect7663" /></flowRegion><flowPara
          id="flowPara7665"
-         style="font-size:8px;text-align:justify;text-anchor:start">Can be used to understand the motivation of people but also to oppress people (which is unfortunately the normal Use case)</flowPara></flowRoot>    <flowRoot
+         style="font-size:8px;text-align:justify;text-anchor:start">Can be used to understand the motivation of people but also to oppress people (which is unfortunately the normal use case)</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion
@@ -624,7 +625,7 @@
            height="130.6109"
            width="204.85315"
            id="rect7671" /></flowRegion><flowPara
-         id="flowPara7673">Opress People over e.g. Finance and existence fear with a massive server infrastructure in the background the have access e.g. on almost all financial systems like SAP (owned by the NSA / CIA) or Navision, it is de facto a Weapon system and Americana War bookkeeping system; Also against their own citizens.</flowPara></flowRoot>    <text
+         id="flowPara7673">Opress People with finances and existence fear. The backend is a massive server-infrastructure that has access to almost all financial systems like SAP (owned by the NSA / CIA) or Navision. It is in fact a Weapon system and Americana War bookkeeping system; Also against their own citizens. Not even the highly praised Swiss Banks could secure their Systems.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"

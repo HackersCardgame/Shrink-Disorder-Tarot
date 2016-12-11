@@ -52,14 +52,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.4783424"
-     inkscape:cx="136.59994"
-     inkscape:cy="151.71925"
+     inkscape:cx="137.40693"
+     inkscape:cy="183.99889"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -75,7 +75,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -667,7 +667,7 @@
          x="245"
          y="205"
          style="text-align:end;text-anchor:end;fill:#ff0000"
-         id="tspan7677">???</tspan></text>
+         id="tspan7677">~1905</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7679"
@@ -679,7 +679,7 @@
          style="text-align:start;text-anchor:start;fill:#ff0000"
          y="205"
          x="85"
-         sodipodi:role="line">???</tspan></text>
+         sodipodi:role="line">Si(e)gmund Freud</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot46053"

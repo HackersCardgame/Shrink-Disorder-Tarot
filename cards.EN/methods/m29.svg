@@ -43,15 +43,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284273"
-     inkscape:cx="105.37725"
-     inkscape:cy="131.49677"
+     inkscape:zoom="1.7524527"
+     inkscape:cx="140"
+     inkscape:cy="186.02499"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -239,15 +239,15 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="static-text English"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="default"
        id="text7285"
-       y="308"
+       y="306"
        x="34">
       <tspan
          style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         y="308"
+         y="306"
          x="34"
          id="tspan7287"
          sodipodi:role="line">Use Cases</tspan>
@@ -278,7 +278,7 @@
     </text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="static-text German"
      id="g7819"
      inkscape:groupmode="layer">
@@ -600,7 +600,7 @@
          x="150.33174"
          y="49.7878"
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter Bold"
-         dy="-2">devotes Haustier</tspan></text>
+         dy="-2">Submissive Pet</tspan></text>
     <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7659"
@@ -612,7 +612,9 @@
            width="204.68648"
            id="rect7663" /></flowRegion><flowPara
          id="flowPara7665"
-         style="font-size:7px;text-align:justify;text-anchor:start">(Hopefully not Elmyra Duff), but unfortunately also by some to do violence (Anon⇨Dusty) where it would be expected that he &quot;learned&quot; violence from his father</flowPara></flowRoot>    <flowRoot
+         style="font-size:7px;text-align:justify;text-anchor:start">As an ally but unfortunately also by some to mistreat</flowPara><flowPara
+         style="font-size:7px;text-align:justify;text-anchor:start"
+         id="flowPara7774">(Anononymous ⇨ Case Dusty; where it would be expected, that he &quot;learned&quot; violence from his father)</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion
@@ -624,7 +626,10 @@
            height="130.6109"
            width="204.85315"
            id="rect7671" /></flowRegion><flowPara
-         id="flowPara7673">As the plush animal as a coping strategy, e.g. Give a frightened child a fearful cat, which then helps her to deal with the subject without having to refer to the probelm, which might lead to a thought blockade &amp; avoidance behavior and thus prevent the experienced.</flowPara></flowRoot>    <text
+         id="flowPara7673">Like a plush: to hug, pet and care for</flowPara><flowPara
+         id="flowPara7720"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan7722">Clinical use: </flowSpan>as a coping strategy, e.g. you can buy a shy cat for a scared child, which then helps the child to analyze his fears without focussing directly on his own fears, that then might would lead to a thought blockade &amp; avoidance behavior instead of the things that caused the fear and to analyze them objectively</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"
@@ -647,8 +652,20 @@
          style="text-align:start;text-anchor:start;fill:#ff0000"
          y="205"
          x="85"
-         sodipodi:role="line">Gott</tspan></text>
-  </g>
+         sodipodi:role="line">God</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7764"
+       style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="translate(-5.5130091,2.4166339)"><flowRegion
+         id="flowRegion7766"><rect
+           id="rect7768"
+           width="86.267021"
+           height="8.1317167"
+           x="97.580727"
+           y="297.09668" /></flowRegion><flowPara
+         id="flowPara7770"
+         style="font-size:6px">(Hopefully not Elmyra Duff)</flowPara></flowRoot>  </g>
   <g
      transform="translate(0,0.00278321)"
      style="display:none"

@@ -44,14 +44,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0000001"
-     inkscape:cx="170.04442"
-     inkscape:cy="42.186494"
+     inkscape:cx="63.294425"
+     inkscape:cy="142.18649"
      inkscape:document-units="px"
-     inkscape:current-layer="g7653"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -390,15 +390,15 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="static-text English"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="default"
        id="text7285"
-       y="308"
+       y="306"
        x="34">
       <tspan
          style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         y="308"
+         y="306"
          x="34"
          id="tspan7287"
          sodipodi:role="line">Use Cases</tspan>
@@ -429,7 +429,7 @@
     </text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="static-text German"
      id="g7819"
      inkscape:groupmode="layer">
@@ -664,8 +664,8 @@
          id="tspan7657"
          x="150.33174"
          y="49.7878"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:GNUTypewriter;-inkscape-font-specification:GNUTypewriter"
-         dy="-3">Militärischer Rang/Grad</tspan></text>
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:GNUTypewriter;-inkscape-font-specification:GNUTypewriter"
+         dy="-2">military rank</tspan></text>
     <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7659"
@@ -677,9 +677,7 @@
            width="204.68648"
            id="rect7663" /></flowRegion><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara12690">Games, companies, military, subcultures, terror networks</flowPara><flowPara
-         style="text-align:justify;text-anchor:start"
-         id="flowPara7767">Autopoiesis, Institutional, as well as Institutional Discrimination</flowPara></flowRoot>    <flowRoot
+         id="flowPara7767">In Games, companies, military, subcultures, terror-networks, Institutional Autopoiesis, as well as Institutional Discrimination</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion
@@ -691,7 +689,7 @@
            height="130.6109"
            width="204.85315"
            id="rect7671" /></flowRegion><flowPara
-         id="flowPara7673">People tend to subjugate other people and make them &quot;usable&quot; so you can justify from institutional discrimination to slavery with a military grade =&gt; GOTO Milgram Experiment.</flowPara></flowRoot>    <text
+         id="flowPara7673">People tend to subjugate other people and make them &quot;usable&quot; for profit. Some sort of institutional discrimination and to enslave those with a lower military rank =&gt; see Milgram Experiment</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"

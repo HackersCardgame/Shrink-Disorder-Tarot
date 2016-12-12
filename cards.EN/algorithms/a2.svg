@@ -44,14 +44,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7094477"
-     inkscape:cx="141.16997"
+     inkscape:cx="63.074571"
      inkscape:cy="186.02499"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -239,7 +239,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="static-text English"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="default"
        id="text7285"
@@ -278,7 +278,7 @@
     </text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="static-text German"
      id="g7819"
      inkscape:groupmode="layer">
@@ -513,12 +513,13 @@
          id="tspan7657"
          x="150.33174"
          y="49.7878"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:MineCrafter 3;-inkscape-font-specification:MineCrafter 3"
-         dy="-3.0899999">Hysterese / Remanenz</tspan></text>
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:MineCrafter 3;-inkscape-font-specification:MineCrafter 3"
+         dy="-3">Hysteresis / remanence</tspan></text>
     <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7659"
-       xml:space="preserve"><flowRegion
+       xml:space="preserve"
+       transform="translate(0,2)"><flowRegion
          id="flowRegion7661"><rect
            y="309"
            x="38"
@@ -535,10 +536,11 @@
            style="text-align:justify;text-anchor:start"
            y="208"
            x="38"
-           height="156.61092"
-           width="207.85315"
+           height="153.101"
+           width="204.34325"
            id="rect7671" /></flowRegion><flowPara
-         id="flowPara7673">Indicates the existence of an effect after the causative force ceases e.g. In (electro) magnetism reproducible e.g. Old tube televisions tended to become magnetic with time, which resulted in a bad image, so they were &quot;demagnetized&quot;</flowPara></flowRoot>    <text
+         id="flowPara7673">Describes the persistence of an effect after the causing force stopped e.g. In (electro-) magnetism reproducible </flowPara><flowPara
+         id="flowPara7744">Old tube televisions tended to become magnetic after a while, which resulted in a bad image, so they had to be &quot;degaussed&quot;</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"

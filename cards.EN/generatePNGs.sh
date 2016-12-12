@@ -41,7 +41,7 @@ counter=0
    sleep 1.2
 
   xdotool click 1
-  sleep 3
+  sleep 1
   xdotool key Ctrl+a
 #   xdotool key Tab  Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab
 #   sleep 2
@@ -52,7 +52,7 @@ counter=0
    sleep 1
    xdotool type '.png'
    echo png
-   sleep 3
+   sleep 1
    xdotool key KP_Enter
    echo enter
    sleep 1

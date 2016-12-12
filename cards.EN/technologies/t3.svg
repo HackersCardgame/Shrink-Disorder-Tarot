@@ -43,15 +43,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.4783424"
-     inkscape:cx="180.01367"
-     inkscape:cy="98.739951"
+     inkscape:zoom="3.5049054"
+     inkscape:cx="129.46903"
+     inkscape:cy="86.46101"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -225,7 +225,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="static-text English"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="default"
        id="text7285"
@@ -250,21 +250,9 @@
          x="34"
          y="205">Inventor</tspan>
     </text>
-    <text
-       x="192"
-       id="text7281"
-       xml:space="default"
-       y="205">
-      <tspan
-         style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         x="192"
-         sodipodi:role="line"
-         id="tspan7283"
-         y="205">Year</tspan>
-    </text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="static-text German"
      id="g7819"
      inkscape:groupmode="layer">
@@ -488,7 +476,7 @@
          x="150.33174"
          y="49.7878"
          style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:GNUTypewriter;-inkscape-font-specification:GNUTypewriter"
-         dy="-4">NeroNexus Implantate</tspan></text>
+         dy="-4">NeroNexus Implants</tspan></text>
     <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7659"
@@ -500,7 +488,7 @@
            width="204.68648"
            id="rect7663" /></flowRegion><flowPara
          id="flowPara7665"
-         style="text-align:justify;text-anchor:start">Lie detector, thoughts &amp; emotions, remote control, emotions influence, people automate (display like Google Maps 3D)</flowPara></flowRoot>    <flowRoot
+         style="font-size:7.3500001px;text-align:justify;text-anchor:start">Lie detector, read thoughts &amp; emotions, remote control, influence emotions, automate victims (possible visual representation eg. like Google Maps 3D)</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion
@@ -512,7 +500,9 @@
            height="130.6109"
            width="204.85315"
            id="rect7671" /></flowRegion><flowPara
-         id="flowPara17333">Originally developed by Delgado, has now been developed a hundredfold, and one hides behind Jur.Personen (companies) to be placed directly in the brain, as OpenBCI with downstream software for pattern recognition recognizes certain patterns of the brain currents, which are then, e.g. Events on the computer. How good the encryption is, all susceptible to side channels fc = λ / 2</flowPara></flowRoot>    <text
+         id="flowPara17333">Originally developed by Delgado, now been developed &quot;in secrecy&quot; since 60 Years, (by  companies that are not publicly know) placed directly in the brain, like OpenBCI with software for pattern recognition recognizes common patterns of the EEG, which can then be analysed. No matter how good the encryption is, all vulnerable to side channel attacks [f<flowSpan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="flowSpan7753">c</flowSpan> = λ / 2]</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"

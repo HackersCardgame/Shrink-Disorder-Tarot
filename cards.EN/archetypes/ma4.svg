@@ -44,14 +44,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.92331"
-     inkscape:cx="141.03987"
-     inkscape:cy="185.3831"
+     inkscape:cx="100.48479"
+     inkscape:cy="143.78814"
      inkscape:document-units="px"
      inkscape:current-layer="g7683"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -489,7 +489,7 @@
          id="tspan12620"
          sodipodi:role="line"
          x="32"
-         y="205">Rollenbild/Archetypus</tspan>
+         y="205">Role/Archetype</tspan>
     </text>
     <text
        style="text-align:end;text-anchor:end"
@@ -808,7 +808,9 @@
          y="47.25"
          x="150.33174"
          id="tspan7687"
-         sodipodi:role="line">Hostage (The Recruit)</tspan></text>
+         sodipodi:role="line">Captive <tspan
+   style="font-size:12px"
+   id="tspan7774">(The Recruit)</tspan></tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot7689"
@@ -821,12 +823,12 @@
            y="208"
            style="text-align:justify;text-anchor:start"
            ry="0" /></flowRegion><flowPara
-         style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara8358">Gifted, spectator, so he is held hostage to show the others not to show talent in this area, in this case, Colin James Farrell, who is presumably in psychology tests of the secret service as a man &quot;who will once make trouble&quot; For example In the test the parameter &quot;feels connected to the truth&quot; was maximally pronounced. Because the other recruits have to watch, they are more intimidated than if they were themselves the victim, which is supposed to be precisely the output of this scene and also of this film ...</flowPara><flowPara
-         style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara7786"><flowSpan
-   style="fill:#ff0000"
-   id="flowSpan7788">⚠ WARNING: Dangerous JOB and dangerou</flowSpan>s.</flowPara></flowRoot>    <text
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara7780">Gifted role, held in prison to make the others fear to show talent in the same special field, in this case, <flowSpan
+   style="font-size:8px;font-weight:bold;-inkscape-font-specification:Monospace Bold"
+   id="flowSpan7776">Colin James Farrell</flowSpan>, who presumably was identified in psychology tests as a man &quot;who will once make trouble&quot;. For example in this test the parameter &quot;feels responsible to reveal the truth&quot; was very pronounced. Psychological even more effective to see how mates are tortured than beeing self the tortured,  the intended effect of such a scene and maybe also of this movie ...</flowPara><flowPara
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara7786">WARNING: &quot;possibly&quot; dangerous JOB !!!!!</flowPara></flowRoot>    <text
        sodipodi:linespacing="125%"
        id="text7781"
        y="205"
@@ -837,7 +839,7 @@
          style="text-align:end;text-anchor:end;fill:#ff0000"
          y="205"
          x="245"
-         sodipodi:role="line">???</tspan></text>
+         sodipodi:role="line">2003</tspan></text>
     <flowRoot
        transform="translate(0,-0.00278321)"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"

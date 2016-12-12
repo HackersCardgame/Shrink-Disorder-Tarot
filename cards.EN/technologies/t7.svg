@@ -43,15 +43,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.4783424"
-     inkscape:cx="44.486591"
-     inkscape:cy="290.33394"
+     inkscape:zoom="1.7524527"
+     inkscape:cx="62.679795"
+     inkscape:cy="186.02499"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -225,15 +225,15 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="static-text English"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="default"
        id="text7285"
-       y="308"
+       y="304"
        x="34">
       <tspan
          style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         y="308"
+         y="304"
          x="34"
          id="tspan7287"
          sodipodi:role="line">Use Cases</tspan>
@@ -264,7 +264,7 @@
     </text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="static-text German"
      id="g7819"
      inkscape:groupmode="layer">
@@ -510,15 +510,15 @@
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7659"
        xml:space="preserve"
-       transform="translate(0,2)"><flowRegion
+       transform="translate(0,-2)"><flowRegion
          id="flowRegion7661"><rect
            y="309"
            x="38"
            height="29.983154"
            width="204.68648"
            id="rect7663" /></flowRegion><flowPara
-         style="font-size:7px;text-align:justify;text-anchor:start"
-         id="flowPara7768">Game, fun, psychological profile, for therapy or &quot;therapy&quot; to incite children to crimes (e.g., GTA) and squeal it &quot;legitimately&quot;</flowPara></flowRoot>    <flowRoot
+         style="font-size:7.2px;text-align:justify;text-anchor:start"
+         id="flowPara7768">Game, fun, for therapy or &quot;therapy&quot;, psychological profile ⇨ psychological WARfare ⇨ to incite children to crimes (e.g., GTA) and then sue them it &quot;legitimately&quot;</flowPara></flowRoot>    <flowRoot
        style="font-size:4px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion
@@ -533,9 +533,9 @@
          id="flowPara12588"
          style="font-size:8px">Castle Wolfenstein (Muse Software)</flowPara><flowPara
          style="font-size:8px"
-         id="flowPara7759"></flowPara><flowPara
+         id="flowPara7759" /><flowPara
          style="font-size:8px"
-         id="flowPara7762">Like a SkinnerBOX, but hypothetically wrapped e.g. As children's toys invasive and non-invasive technologies: eg. Modular NeuroNexus Bluetooth interface, uplink to quadrophony, or e.g. To the cabinet, similar to a network monitoring with plug-ins, which are partially withheld from the user</flowPara></flowRoot>    <text
+         id="flowPara7762">Like a SkinnerBOX, but &quot;inocently&quot; wrapped as children's toys, invasive and non-invasive technologies: eg. Modular NeuroNexus Bluetooth interface, uplink to quadrophony, similar to a network monitoring system with Plug-INs, which are partially not even accessable by the user.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"

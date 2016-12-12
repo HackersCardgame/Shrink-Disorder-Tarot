@@ -44,14 +44,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7524527"
-     inkscape:cx="97.415022"
-     inkscape:cy="146.66294"
+     inkscape:cx="140"
+     inkscape:cy="186.02499"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -225,7 +225,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="static-text English"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="default"
        id="text7285"
@@ -251,20 +251,20 @@
          y="205">Inventor</tspan>
     </text>
     <text
-       x="192"
+       x="190"
        id="text7281"
        xml:space="default"
        y="205">
       <tspan
          style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         x="192"
+         x="190"
          sodipodi:role="line"
          id="tspan7283"
          y="205">Year</tspan>
     </text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="static-text German"
      id="g7819"
      inkscape:groupmode="layer">
@@ -500,7 +500,7 @@
          x="150.33174"
          y="49.7878"
          style="font-size:17px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans Bold"
-         dy="-2">SpinalCord Impant</tspan></text>
+         dy="-2">Spinal Cord Implant</tspan></text>
     <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7659"
@@ -513,7 +513,7 @@
            width="204.68648"
            id="rect7663" /></flowRegion><flowPara
          id="flowPara7665"
-         style="text-align:justify;text-anchor:start;font-size:7px">(E.g. The mobile phone as UpLink to the mainframe (the US Army uses the Cry engine with PhysX) also. The RUST ™ engine would be conceivable</flowPara></flowRoot>    <flowRoot
+         style="font-size:7px;text-align:justify;text-anchor:start">Mobile phone as UpLink to the mainframe (the US Army uses the Cry-Engine with PhysX) The RUST™-Engine would would explain it better</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion
@@ -525,7 +525,7 @@
            height="130.6109"
            width="204.85315"
            id="rect7671" /></flowRegion><flowPara
-         id="flowPara7926">Originally an impantate in the spinal cord (medulla spinalis) with which rats an orgasm could be triggered, patented only 1999 under US6169924. Today, the child is &quot;usable&quot; as a robot / soldier / killer or sex slave with a 3D model of the person in the computer in a 3D environment (like in computer games)</flowPara></flowRoot>    <text
+         id="flowPara7746">Originally an implant in the spinal cord (medulla spinalis) that could force an orgasm, patented 40 Jears later 1999 under US6169924. Today encanced with more than just that &quot;wire&quot; (bad US Army researches in this field) Output; the kid can be &quot;used&quot; as a robot / soldier / killer or sex slave with a 3D model of the victim in a 3D environment (like games) they try to create a weapon much more powerful than a nuclear bomb :(</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"

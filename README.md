@@ -56,5 +56,5 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 For the Patent-Trolls, i try to use Images, Fonts... that are Creative Commons or free, if something went wrong and i unfortunately took something that is illegal, please tell me in "issues" so i can remove it...
 
-Das Projekt ist für den Moment mal auf http://psychiatrie-leaks.ch/Shrink-Disorder-Tarot zuhause...
-English Version on http://psychiatrie-leaks.ch/Shrink-Disorder-Tarot/index_EN.html (mirror: http://psychiatrie-leaks.ch/Shrink-Disorder-Tarot/index_EN.html)
+Das Projekt ist für den Moment mal auf http://psychiatrie-leaks.ch/Shrink-Disorder-Tarot zuhause (mirror: http://marclandolt.ch/Shrink-Disorder-Tarot)
+English Version on http://psychiatrie-leaks.ch/Shrink-Disorder-Tarot/index_EN.html (mirror: http://marclandolt.ch/Shrink-Disorder-Tarot/index_EN.html)

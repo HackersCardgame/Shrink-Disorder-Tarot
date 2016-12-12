@@ -44,14 +44,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284273"
-     inkscape:cx="97.558578"
-     inkscape:cy="143.05931"
+     inkscape:cx="102.48905"
+     inkscape:cy="144.90437"
      inkscape:document-units="px"
      inkscape:current-layer="g7683"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -513,7 +513,7 @@
          id="tspan12620"
          sodipodi:role="line"
          x="32"
-         y="205">Rollenbild/Archetypus</tspan>
+         y="205">Role/Archetype</tspan>
     </text>
     <text
        style="text-align:end;text-anchor:end"
@@ -526,7 +526,7 @@
          x="220"
          sodipodi:role="line"
          id="tspan12624"
-         y="205">BauJahr:</tspan>
+         y="205">Built:</tspan>
     </text>
   </g>
   <g
@@ -846,11 +846,11 @@
            style="text-align:justify;text-anchor:start"
            ry="0" /></flowRegion><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara12656">LeChuck is the role of the bad guy in the Lucas Arts game Monkey Island ™</flowPara><flowPara
+         id="flowPara12656">LeChuck has the role of the bad guy in the Lucas Arts Game <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
+   id="flowSpan7725">Monkey Island™</flowSpan></flowPara><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara7735">This type of arch is missing e.g. By C.G. Jung: &quot;Big Bad Brother&quot; archetype, or something like a father or warrior archetype who mistreated his little siblings.</flowPara><flowPara
-         style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara7737">At most also e.g. As an alcoholic father-arthypus of his children</flowPara></flowRoot>    <flowRoot
+         id="flowPara7737">This archetype is missing in C.G. Jungs Theory: &quot;The older bad sibling&quot;-Archetype, or something like a &quot;evil father&quot;-Archetype who often mistreat others. Or the role of an &quot;always drunken father&quot;-arthypus</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot7743"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><flowRegion
@@ -865,7 +865,9 @@
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="flowPara12759">Wed Aug 7 2013:</flowPara><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara7744">[L] What the Americans can do, we can have a long time! Look, a three-headed terrorist monkey! (Unheard: but ignored the bearded LeChuck times)</flowPara></flowRoot>    <text
+         id="flowPara7744">[L] [l] Was die Amis können, können wir schon lange! Schaut mal, ein dreiköpfiger Terroristen-Affe!1!! <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
+   id="flowSpan7733">three-headed terrorist monkey!</flowSpan> (Unheard: focus on the three-headed monkey!)</flowPara></flowRoot>    <text
        sodipodi:linespacing="125%"
        id="text7781"
        y="205"

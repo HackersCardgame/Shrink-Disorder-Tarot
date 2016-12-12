@@ -44,14 +44,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.92331"
-     inkscape:cx="141.03987"
+     inkscape:cx="90.346014"
      inkscape:cy="185.3831"
      inkscape:document-units="px"
      inkscape:current-layer="g7683"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -420,34 +420,10 @@
     </text>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="static-text-other English"
      id="g12590"
      inkscape:groupmode="layer">
-    <text
-       x="32"
-       y="264"
-       id="text12592"
-       xml:space="default">
-      <tspan
-         sodipodi:role="line"
-         id="tspan12594"
-         x="32"
-         y="264"
-         style="font-size:8px;font-weight:bold;-inkscape-font-specification:Sans Bold">Wichtigste Errungenschaft(en):</tspan>
-    </text>
-    <text
-       xml:space="default"
-       id="text12596"
-       y="284"
-       x="32">
-      <tspan
-         style="font-size:8px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         y="284"
-         x="32"
-         id="tspan12598"
-         sodipodi:role="line">Kurzprofil:</tspan>
-    </text>
     <text
        x="32"
        y="205"
@@ -458,27 +434,14 @@
          x="32"
          sodipodi:role="line"
          id="tspan12602"
-         style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold">The Big Five</tspan>
-    </text>
-    <text
-       y="205"
-       xml:space="default"
-       id="text12604"
-       x="220"
-       style="text-align:end;text-anchor:end">
-      <tspan
-         y="205"
-         id="tspan12606"
-         sodipodi:role="line"
-         x="220"
-         style="font-size:10px;font-weight:bold;text-align:end;text-anchor:end;-inkscape-font-specification:Sans Bold">BauJahr:</tspan>
+         style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold">Role / Archetype</tspan>
     </text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="g12608"
      inkscape:label="static-text-other German"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="default"
        id="text12618"
@@ -822,19 +785,9 @@
            style="text-align:justify;text-anchor:start"
            ry="0" /></flowRegion><flowPara
          style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara13226">The role of the respective judge in the system is one of the most powerful in the system, in many films as a knuddlicher fat umhm thick Wehinachtsmann represented. As a mastermind of a terrino network, I would hide exactly on such a post. In computer science one would speak of a single point of failure, perfect for a foreign aggressor, secret service and the whole system to submerge. I'm not sure if this is the case, but I'm not sure if it's true or not. &quot;(12:17) in the To protect and infect part of @ioerror, Designs.</flowPara></flowRoot>    <text
-       sodipodi:linespacing="125%"
-       id="text7781"
-       y="205"
-       x="245"
-       style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
-       xml:space="preserve"><tspan
-         id="tspan7783"
-         style="text-align:end;text-anchor:end;fill:#ff0000"
-         y="205"
-         x="245"
-         sodipodi:role="line">???</tspan></text>
-    <flowRoot
+         id="flowPara7716">The role of the judge is one of the most powerful in the system, in many movies shown as a fat &quot;cute&quot; Santa Claus. The role would be perfect for a mastermind of a terror-network to hide in such a role that is hardly ever shown as the evil killer in TV. In computer science one would speak of a <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
+   id="flowSpan7720">single point of failure</flowSpan>, so it would also be perfect for a foreign aggressor, secret service to subdue the whole system. In &quot;To protect and infect part 2&quot; (12:17) @ioerror says &quot;Is not clear to me, that a Judge would understand anything I just said&quot; -- but an evil mastermind would maybe avoid to hold an office and influence the system in &quot;secrecy&quot;</flowPara></flowRoot>    <flowRoot
        transform="translate(0,-0.00278321)"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7785"

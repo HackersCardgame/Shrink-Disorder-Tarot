@@ -44,14 +44,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7524527"
-     inkscape:cx="141.14126"
+     inkscape:cx="64.962314"
      inkscape:cy="186.02499"
      inkscape:document-units="px"
      inkscape:current-layer="g7683"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -744,7 +744,11 @@
          id="tspan7687"
          sodipodi:role="line"><tspan
    style="fill:#e6e6e6"
-   id="tspan41268">Sieg</tspan>mund Freud</tspan></text>
+   id="tspan41268">Si<tspan
+   style="-inkscape-font-specification:Monospace;font-family:Monospace;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan7748">(</tspan>e<tspan
+   style="-inkscape-font-specification:Monospace;font-family:Monospace;font-weight:normal"
+   id="tspan7740">)</tspan>g</tspan>mund Freud</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot7689"

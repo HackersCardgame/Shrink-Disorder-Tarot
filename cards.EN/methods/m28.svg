@@ -51,15 +51,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.4783424"
-     inkscape:cx="137.40693"
-     inkscape:cy="87.159964"
+     inkscape:zoom="1.7524527"
+     inkscape:cx="62.679795"
+     inkscape:cy="186.02499"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -236,7 +236,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="static-text English"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="default"
        id="text7285"
@@ -275,7 +275,7 @@
     </text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="static-text German"
      id="g7819"
      inkscape:groupmode="layer">
@@ -596,7 +596,8 @@
          id="tspan7657"
          x="150.33174"
          y="49.7878"
-         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter Bold">Conspirancy</tspan></text>
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter Bold"
+         dy="-2">Conspirancy</tspan></text>
     <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7659"
@@ -609,7 +610,7 @@
            width="204.68648"
            id="rect7663" /></flowRegion><flowPara
          id="flowPara7665"
-         style="font-size:8px;text-align:justify;text-anchor:start">To read, to be a genius writer and to live his masterpiece ...</flowPara></flowRoot>    <flowRoot
+         style="font-size:8px;text-align:justify;text-anchor:start">To read, may Terrys work life on...</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion
@@ -621,8 +622,10 @@
            height="130.6109"
            width="204.85315"
            id="rect7671" /></flowRegion><flowPara
-         style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara116929">The flat-earth theory is a parable for Terry Pratchet's discworld novels, which, in a discreet and understandable way, can be used by universities and, Whose main frames (KI = legal person). The mainframe would be the chained Octavo which contains 8 spells (access keys). Or e.g. The librarian (Google) who has been transformed into a monkey ... see Google-Query: Porn</flowPara></flowRoot>    <text
+         style="font-size:7.69999981px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara7738">Eg. the <flowSpan
+   style="font-size:7.69999981px;font-weight:bold;-inkscape-font-specification:Monospace Bold"
+   id="flowSpan7723">flat-earth theory </flowSpan>is a parable for Terry Pratchet's discworld novels, which tries to explain small and big kids in a understandable way, how a social system &quot;university&quot; works. How Mainframes (AI's) work, in this case the chained Octavo which contains 8 spells (access keys). Or e.g. The librarian (Google) who has been transformed into a monkey =&gt; see Google-Query: Porn</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"

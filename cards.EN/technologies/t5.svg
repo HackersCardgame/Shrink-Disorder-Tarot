@@ -43,15 +43,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.4783424"
-     inkscape:cx="180.01367"
-     inkscape:cy="84.677371"
+     inkscape:zoom="1.7524527"
+     inkscape:cx="140"
+     inkscape:cy="186.02499"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -226,15 +226,15 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="static-text English"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="default"
        id="text7285"
-       y="308"
+       y="306"
        x="34">
       <tspan
          style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         y="308"
+         y="306"
          x="34"
          id="tspan7287"
          sodipodi:role="line">Use Cases</tspan>
@@ -251,21 +251,9 @@
          x="34"
          y="205">Inventor</tspan>
     </text>
-    <text
-       x="192"
-       id="text7281"
-       xml:space="default"
-       y="205">
-      <tspan
-         style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         x="192"
-         sodipodi:role="line"
-         id="tspan7283"
-         y="205">Year</tspan>
-    </text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="static-text German"
      id="g7819"
      inkscape:groupmode="layer">
@@ -493,7 +481,8 @@
     <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7659"
-       xml:space="preserve"><flowRegion
+       xml:space="preserve"
+       transform="translate(0,-2)"><flowRegion
          id="flowRegion7661"><rect
            y="309"
            x="38"
@@ -501,7 +490,7 @@
            width="204.68648"
            id="rect7663" /></flowRegion><flowPara
          id="flowPara7665"
-         style="text-align:justify;text-anchor:start">Medication but unfortunately also to the &quot;cyber&quot; -carriage of persons with e.g. Toxic substances</flowPara></flowRoot>    <flowRoot
+         style="text-align:justify;text-anchor:start">Medication but unfortunately also to activate a person as an #MKULTRA Killer (&quot;cyberWAR&quot;) or kill the victim remotely with Toxic substances</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion
@@ -513,9 +502,9 @@
            height="130.6109"
            width="204.85315"
            id="rect7671" /></flowRegion><flowPara
-         id="flowPara7673">Implants which release chemical substances / drugs via remote ignition and in the case of e.g. Adrenaline metabolism-promoting substances, e.g. An aggression thrust, in the case of melatonin metabolism e.g. Fatigue, that is to say, one can, for example, A victim's attention or rob it into the suicide or amok triggern</flowPara></flowRoot>    <text
+         id="flowPara7673">Implants which release chemical substances / drugs that can be triggerd via remote and in the case of e.g. Adrenaline metabolism-promoting substances aggression, in the case of melatonin metabolism sleepiness. Can rob the victim's attention, but can also trigger the victim a suicide or amok run. (&quot;carrot and stick&quot;)</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"
        y="205"
        id="text7675"
@@ -523,7 +512,7 @@
          sodipodi:role="line"
          x="245"
          y="205"
-         style="text-align:end;text-anchor:end;fill:#000000;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         style="text-align:end;text-anchor:end;fill:#ff0000;font-weight:bold;-inkscape-font-specification:Sans Bold"
          id="tspan7677">~1950</tspan></text>
     <text
        sodipodi:linespacing="125%"

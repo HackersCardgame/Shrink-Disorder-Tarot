@@ -36,6 +36,8 @@ https://www.youtube.com/watch?v=K0uYfV4gpes
 ### Gameing Idea:
 **You've been owned** OR **You’ve been set free**
 
+### Alternative Use-Case:
+https://twitter.com/FailDef/status/809218950420713472
 
 #### Examples:
 Spinal Cord Implant that was enhanced with all nerves **beats** the Stimoceiver or the WO2005055579A1 Patent, since the Spinal Cord Implant would have more influence to the body than the oder Technologies.

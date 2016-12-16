@@ -1,0 +1,38 @@
+FONTLOG
+Neocyr, by Viktar Palstsiuk
+==========================================================
+
+This file provides detailed information on the Neocyr font family.
+This information should be distributed along with the Neocyr fonts 
+and any derivative works.
+
+Basic Font Information
+----------------------
+
+Neocyr is a decorative typeface that includes Latin and Cyrillic characters.
+
+ChangeLog
+---------
+(This should list both major and minor changes, most recent first.)
+
+13 November 2010 (Viktar Palstsiuk) Neocyr version 1.0
+- First public release
+
+November 2002 (Viktar Palstsiuk) 
+- Initial development.
+
+Acknowledgements
+----------------
+(Here is where contributors can be acknowledged. If you make modifications 
+be sure to add your name (N), email (E), web-address (W) and description (D). 
+This list is sorted by last name in alphabetical order.)
+
+N: Viktar Palstsiuk
+E: vipals@gmail.com
+D: Original Designer
+
+Character Range Coverage
+------------------------
+
+Latin
+Cyrillic

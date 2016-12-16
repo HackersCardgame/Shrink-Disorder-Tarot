@@ -26,6 +26,7 @@ brauchbar.... und ein DOS SCRIPT... oder POWERshell, yay ich habe die power und 
 ☑ Methoden / Technologie / Archetype ... karten besser als solche kenntzeichnen
 brauchbar.... und ein DOS SCRIPT... oder POWERshell, yay ich habe die power und die macht...
 ☐ ev symbolik / ikone karten (rote rose/weiss rose/hakenkreuz/z.B. sophie scholl karte)
+ => ev. Bedeutung 1, Bedeuting 2, => wie im C++, überladen von operatoren, bzw. wärs ja ein überladen von symbolen, ev. mit der Access Based Enm karte spielen
 ☐ PECS Karte (ev Rekursion mit diesem Quartett)
 ☐ Abraxas
 ☑ Ev. Haustier, z.b. der Whichcraft Strater Kit... => liebevoll methode genannt...(bzw. wir könnten es auch antidepresiva nenne, das wäre fast noch besser)

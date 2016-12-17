@@ -202,6 +202,7 @@ der zwischen minimal und maximal pegel sinus-zeugs alterniert...
  mit einem algorithmus
 der zwischen minimal und maximal pegel sinus-zeugs alterniert...
 
+Mögliche Effekte auf das Befinden  Binaurale_Beats
 
 augmented reality karte
 

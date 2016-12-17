@@ -195,6 +195,13 @@ quartett allenfalls mit so etwas "craften" digitales Positit: https://www.heise.
 Quadrophonie-SkinnerBOX eher an n laborratten käfig angepasst und 
 ev. dargestellt mit 2x quadrophonie...
 
+die existenz von hysterese / remanenz würde allenfalls auch implizieren
+dass irgend ein depp ein nciht-löschbares (remanenz-save) zeugs programmieren
+würde, peitsche&&set ... zuckerbrot&&set ... peitsche&set mit einem algorithmus
+der zwischen minimal und maximal pegel sinus-zeugs alterniert...
+ mit einem algorithmus
+der zwischen minimal und maximal pegel sinus-zeugs alterniert...
+
 
 augmented reality karte
 

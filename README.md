@@ -1,8 +1,9 @@
 # Shrink Disorder Tarot
 The problem with normal Tarot is, that it lacks Technology, Method and Algorithm Cards, and also the card of the one who plays the Tarot, like C.G. Jung "invented" the Jungian Achretypes, but did not created e.g. a huntsman to keep his insane addiction secret.
 
-
 MKULTRA: ~1950 ⇔ DSM: explosion of the number of Mental Diseases ~1970 / Donald Ewen Cameron ⇔ Burghölzli Schweiz
+
+## it's not meant to be finished someday, but always be more up-to-date than satans Work
 
 ### QuickStart / HOWTO create a complete card deck:
 

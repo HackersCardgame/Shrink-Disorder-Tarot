@@ -227,6 +227,11 @@ warrier elite karte <=> Low self esteem karte
 "ignoriere diese karten"-karte
 ???: erziehungspsychologie jeopardy: was sind dämliche fussball karten und warum haben die überall auf schweizer kinder-spielpläetzen piraten-schiffe hingestellt: ah kenn ich schon, piraten-karten...
 
+"het do öpper sies müesli ned gha" karte
+"männergrippe"-karte
+
+todo aufräumen
+
 iPhone / Android / HTML5 App, vorerst nur um karten darzustellen, ev mit 
 karten kombinationen
 

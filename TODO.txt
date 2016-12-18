@@ -225,3 +225,7 @@ augmented reality karte
 warrier elite karte <=> Low self esteem karte
 
 "ignoriere diese karten"-karte
+
+iPhone / Android / HTML5 App, vorerst nur um karten darzustellen, ev mit 
+karten kombinationen
+

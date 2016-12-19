@@ -44,7 +44,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7524527"
-     inkscape:cx="124.59302"
+     inkscape:cx="48.414074"
      inkscape:cy="163.19984"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -76,7 +76,7 @@
      inkscape:groupmode="layer"
      id="framework"
      transform="translate(0,0.00278321)"
-     style="display:inline">
+     style="display:none">
     <rect
        style="fill:#afdde9;fill-opacity:1"
        id="backLeft"
@@ -91,7 +91,7 @@
        inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/t15.png" />
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      transform="translate(0,0.00278321)"
      id="g11024"
      inkscape:groupmode="layer"

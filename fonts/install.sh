@@ -21,6 +21,7 @@ fc-cache -f -v
 
 rm -rfv ./unzipped/*
 rm -rfv ./ttf/*
+rm -rfv ./ttf/.*
 
 echo installed
 

@@ -9,11 +9,12 @@ echo -e "
 
 
 echo -e "
-  * script wil install the needed Creative Commons fonts (./fonts/install.sh),
-  * script will uninstall the clipit package (sudo apt-get remove clipit) permanetly
+  * script will install the needed Creative Commons fonts (./fonts/install.sh),
+  * script will uninstall the clipit package (sudo apt-get remove clipit)
   * for the moment it runs on gnome only
   * script needs sudo (apt-get install sudo) 
-    ...and an entry in /etc/sudoers file, you can copy the line \"root	ALL=(ALL:ALL) ALL\"
+    ...and an entry in \e[33m/etc/sudoers\e[0m file, you can copy the line 
+\e[33m    \"root	ALL=(ALL:ALL) ALL\"\e[0m
 
 "
 echo -n "install/remove required/unrequired debian jessie packages (y/n)? "

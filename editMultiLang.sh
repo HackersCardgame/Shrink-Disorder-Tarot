@@ -15,7 +15,8 @@ find ./cards -name "*.svg" >./print.txt
 
    echo cards.EN/$(basename $(dirname $i))/$(basename $i)
    /usr/bin/inkscape cards.EN/$(basename $(dirname $i))/$(basename $i) &
-  
+
+   echo press [ENTER] for the next card
    read
   done
 

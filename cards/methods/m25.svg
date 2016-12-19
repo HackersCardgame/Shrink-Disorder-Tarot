@@ -51,15 +51,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.4783424"
-     inkscape:cx="151.13581"
-     inkscape:cy="164.11429"
+     inkscape:zoom="1.7524527"
+     inkscape:cx="140"
+     inkscape:cy="186.02499"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -75,7 +75,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -302,14 +302,14 @@
      inkscape:groupmode="layer">
     <text
        x="34"
-       y="308"
+       y="300"
        id="text7821"
        xml:space="default">
       <tspan
          sodipodi:role="line"
          id="tspan7823"
          x="34"
-         y="308"
+         y="300"
          style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold">Anwendungsfälle</tspan>
     </text>
     <text
@@ -623,19 +623,20 @@
        style="font-size:7px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7659"
        xml:space="preserve"
-       transform="translate(0,2)"><flowRegion
+       transform="translate(0,-6)"><flowRegion
          id="flowRegion7661"><rect
            y="309"
            x="38"
-           height="33.614613"
-           width="206.70395"
+           height="43.885944"
+           width="204.99207"
            id="rect7663"
            style="font-size:7px" /></flowRegion><flowPara
          id="flowPara7665"
-         style="font-size:6.5px;text-align:justify;text-anchor:start">Viele reiche Menschen können es sich leisten sich selbst für Mord und Vergewaltigungen freizukaufen z.B. beim einem Richter oder Staatsanwalt der statt Moral ein Preisschild trägt</flowPara></flowRoot>    <flowRoot
+         style="font-size:7.5px;text-align:justify;text-anchor:start">Viele reiche Menschen können es sich leisten sich selbst für Mord und Vergewaltigungen freizukaufen z.B. beim einem Richter oder Staatsanwalt der  sich statt mit Integrität mit einem Preisschild kleidet</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
-       xml:space="preserve"><flowRegion
+       xml:space="preserve"
+       transform="translate(0,-2)"><flowRegion
          id="flowRegion7669"><rect
            ry="0"
            style="text-align:justify;text-anchor:start"
@@ -644,10 +645,10 @@
            height="130.6109"
            width="204.85315"
            id="rect7671" /></flowRegion><flowPara
-         style="font-size:9px"
+         style="font-size:8.5px"
          id="flowPara116879">Der übliche Rethorische Automatismus wäre <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Sans Bold;font-size:9px"
-   id="flowSpan116999">&quot;Jeder hat seinen Preis&quot;</flowSpan> also alle seien käuflich, dies halten wir aber für ein Gerücht, viele junge Menschen merken aber nicht, dass sie ihr Lohn eigentlich von Satan (z.B. von der Armee) kommt und sie eigentlich helfen z.B. Opfer, Verdingkinder abzuschlachten und unten zu halten</flowPara></flowRoot>    <text
+   style="font-size:8.5px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan116999">&quot;Jeder hat seinen Preis&quot;</flowSpan> also &quot;alle Bürger der Welt wären käuflich&quot;. Dies halten wir aber für ein Gerücht, viele junge Menschen merken aber nicht, dass sie ihr Lohn eigentlich von Satan (z.B. von der Armee) bekommen und sie eigentlich Satan helfen zB Opfer, Verdingkinder und unten und wehrlos zu halten</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"

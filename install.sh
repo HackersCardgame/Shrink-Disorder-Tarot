@@ -23,7 +23,10 @@ if echo "$answer" | grep -iq "^y" ;then
 sudo apt-get install inkscape
 sudo apt-get install xdotool figlet
 sudo apt-get remove clipit
-./fonts/install.sh
+
+cd ./fonts
+./install.sh
+cd ..
 
 echo -e "\e[34m"
 figlet packages / fonts installed

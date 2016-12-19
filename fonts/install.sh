@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo $0
+
 find . -name '*.zip' -exec unzip -n '{}'  -d ./unzipped/ \;
 
 cd ./unzipped
@@ -15,3 +17,11 @@ cp ./ttf/*.ttf ~/.fonts
 cp ./ttf/*.TTF ~/.fonts
 
 fc-cache -f -v
+
+
+rm -rfv ./unzipped/*
+rm -rfv ./ttf/*
+
+echo installed
+
+echo $0

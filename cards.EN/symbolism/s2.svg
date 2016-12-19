@@ -44,7 +44,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7524527"
-     inkscape:cx="201.91323"
+     inkscape:cx="124.59302"
      inkscape:cy="163.19984"
      inkscape:document-units="px"
      inkscape:current-layer="g7653"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -229,15 +229,15 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="static-text English"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="default"
        id="text7285"
-       y="308"
+       y="304"
        x="34">
       <tspan
          style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         y="308"
+         y="304"
          x="34"
          id="tspan7287"
          sodipodi:role="line">Use Cases</tspan>
@@ -268,7 +268,7 @@
     </text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="static-text German"
      id="g7819"
      inkscape:groupmode="layer">
@@ -504,20 +504,20 @@
          x="150.33174"
          y="49.7878"
          style="font-size:17px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans Bold"
-         dy="-2">Hof-(Narrenkappe)</tspan></text>
+         dy="-3">fool's cap</tspan></text>
     <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7659"
        xml:space="preserve"
-       transform="translate(0,2)"><flowRegion
+       transform="translate(0,-2)"><flowRegion
          id="flowRegion7661"><rect
            y="309"
            x="38"
-           height="43.107624"
-           width="202.97458"
+           height="40.25449"
+           width="204.68646"
            id="rect7663" /></flowRegion><flowPara
          id="flowPara7665"
-         style="text-align:justify;text-anchor:start">Dem König (Krone) den Spiegel vorheben und versuchen Einsicht zu erreichen ohne hingerichtet zu werden.</flowPara></flowRoot>    <flowRoot
+         style="font-size:7.6px;text-align:justify;text-anchor:start">Kings (crown) often do not want to look in the mirror =&gt; mistakes, so the fool try to show the king his own stupidity without being killed (jester's licence)</flowPara></flowRoot>    <flowRoot
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        id="flowRoot7667"
        xml:space="preserve"><flowRegion
@@ -529,7 +529,7 @@
            height="130.6109"
            width="204.85315"
            id="rect7671" /></flowRegion><flowPara
-         id="flowPara7673">Als Narr oder als Tor (töricht) wurde im Mittelalter jene Person genannt, die als Spaßmacher für Unterhaltung &amp; Belustigung sorgen sollte &amp; dabei meist auffällig gekleidet war. Als Tor / Narr werden auch Personen bezeichnet, die sich sehr unreif, dumm, tollpatschig, voreingenommen, vorurteilsbehaftet &amp; ignorant verhalten &amp; die sich auf Basis ihrer Unwissenheit als Gelehrte aufplustern.</flowPara></flowRoot>    <text
+         id="flowPara7673">In the Middle Ages a fool or a Tor (german: töricht = foolish) was the person, who entertained the  royal household and was dressed mostly strange. The term &quot;fool&quot; also refers to persons who are very immature, stupid, clumsy, biased, prejudiced, ignorant, and who are based on their ignorance as scholars, theoretically.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="245"

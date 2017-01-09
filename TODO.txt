@@ -60,7 +60,7 @@ https://www.heise.de/newsticker/meldung/Digitales-Post-it-laeuft-ohne-Stromzufuh
  2. Karten-Kombinationen
  3. Online-Spiel
 
-
+☐ z.B. bei Druck Suhr anfragen, was es kosten würde, solche Karten produzieren zu lassen => können die nicht
 
 Ideen für neue Karten
 ---------------------
@@ -140,7 +140,7 @@ Ideen für neue Karten
 
 ☐ Röhre / Tunneldiode Karte => ev. eher etwas für das Hackers-Cardgame
 
-☐ ev. Sternzeichen Karten / Zodiac Sign Karten? um den link zu Esotherike heften zu machen, wo ich immer gedacht habe die spinnen ja, aber esotherik ist afaik auch ein koheräntes Mental Operating System und z.B. für Soziologie gar nicht so blöd wie ich als Kind angenommen habe
+☐ ev. Sternzeichen Karten / Zodiac Sign Karten? um den link zu Esotherik-Heftchen zu machen, wo ich immer gedacht habe, die spinnen ja, aber esotherik ist afaik auch ein koheräntes Mental Operating System, Archetypen z.B. für Sozio-Psychologie gar nicht so blöd wie ich als Kind angenommen habe
 
 ☐ Blooms Taxonomy Of Educational Objectives Karte, bzw. zu gross also für jeden Sub-Tree (z.B. Psychoaffektive Dimension) eine Karte
 
@@ -157,20 +157,25 @@ Ideen für neue Karten
  ☐ Oxytocin => Link langfirstige Päärchenbildung bei Ratten
  ☐ Vasopressin
  ☐ ...
+
 ☐ ev. Waffen-Karte zum Krieger Archetypen? / stichwaffenkarte das man mit einem stimoceiver oder einem spinalcord implantat craften kann als schlechtes beispiel?
+
 ☐ Ambivalenz Karte (Die Laborratte bist DU VS der TV sagt mir ich bin Super wenn ich ein cooles Auto habe)
-☐ Vergewaltiger-Terrorist-Karte hinweis dass 93% echte vergewaltigungen sind aber die 7% die fehlanschuldigungen sind explizit vom cia explizit mit den 93% insturmentalisiert werden, Schlammschlacht bis lynchmord induzieren und dann als us cia agent die hände in unschuld waschen
-☑ Psychiatrie karte, grafik: "sie mit plüsch-hasen in der psychiatrie und er mit: sie hatten recht mit dem nsa/cia"
-☑ Ketten-Rasseln Funktion (Methode im Java) Karte (Motoren gehäul, kettensäge, "zauber"rasenmäher von J
-☑ Sheldon <=> Scapegoat Karte
-☑ Sklaven Karte
-☑ Herrenrasse Karte
+
+☐ "Dolchstoss Lüge"-Karte
+
+☐ Prädestinations-Karte
+
+☐ Vergewaltiger-Terrorist-Karte
+Hinweis dass 93% echte Vergewaltigungen sind und die 7% die Fehlanschuldigungen explizit vom cia insturmentalisiert 
+ => Schlammschlacht bis Lynchmord induzieren und dann den neuen Agenten erpressen und benutzen
+
 ☑ Trauma Based Mindcontrol Karte
  => ev. mit unechtem blutigen bild craften, oder mit fleischwunden foto von mir...
-☐ What the hell effect Karte
+
+☐ "What the hell effect"-Karte
+
 ☐ Pädo Zombi Karte
-
-
 
 ☐ QAM64 / Komplexe Ebene Karte (Kanal: Akkustisch, AluHüte...)
 
@@ -190,9 +195,11 @@ Ideen für neue Karten
 ☐ clarc hull formula karte
 
 ☐ crack-tro karte?
- ☐ Ritzen Karte / Active Denial System Krate / Kopfschmerzen Impalntat / Kopf auf den Boden Knallein Implantat => Eraser der Täter damit sie das Opfer davon abhalten können die Täterschaft zu nennen
-☐ z.B. bei Druck Suhr anfragen was es kostet solche karten zu produzieren
- => ev. mit Hinweis dass gewisse Menschen diese Karten nicht mögen.. 
+
+☐ Ritzen Karte 
+
+☐  Kopfschmerzen Impalntat / Kopf auf den Boden knallen Implantat => Opfer davon abhalten können die Täterschaft zu nennen
+
 ☐ heikel, maximaler psychologischer kollateral damage durch die vergewaltigung
   von kinder und ermordung von kindern in shculen, das bild dsa faceook zensieren will mit den soldaten die kinder in vietnam vergewaltigen, aber allenfalls einen zensurbalken über die kinder machen oder nachzeichnen, sonst pietätlos, und auch die karte wäre pietätlos wenn sie die pietätlosigkeit, die echten täter nciht anprangern würde und diese würde man dann mit der Amygdala-Implantat karte spielne und verschleiert die ganze comint des cia terrornetzwerks => allenfalls nicht im standard - deck das man auch den kindern geben kann sondern in einem FSK grösser 18 oder grösser 30 deck
 
@@ -209,9 +216,12 @@ Ideen für neue Karten
   aus eeg daten generiert werden? also dass z.B. der CAD Arbeitsplatz für den lehrling, nicht zwingend (nur) grundfiguren wie kreise, striche, links, rechts 
   das lehrlings hacken möchte sondern dass es für jede kärperhaltung ein spezifisches eeg pattern gibt RX ev sogar TX, oder dass das TX solange abgespielt
   wird, dass das unterbewusstsein das lernt
+
 ☐ Brain-Modem als formulierung nehmen, modem impliziert eine gegenstelle, und oder einen Provider, den Provider den diensteleister in die Pflicht nehmen, und das brain modem hätte von haus aus irgend eine TR-069 Funktionalität
+
 ☐ Kerberos / Kerberos lern-karten
-☐ Penner/Alufolien "Spinner" Archetyp
+
+☐ Penner/Alufolien "Spinner"/Aluburka Archetyp
 
 ☐ http://www.5bn.de/ => Konzept Spuren-Systen in diesem Video, also so zu sagen ein StarterKIT an Suggestionenen mit dem dann mehr "Achievements" ungelockt werden aber defacto ists ein übles Marketing Ausbeutungs Konzept, Ablasshandel Satans
 
@@ -226,8 +236,6 @@ Ideen für neue Karten
 ☐ Stokholm-/Helsinki-Syndrom Karte
 
 ☐  HUMINT-Choosen-Plaintext-Attack card
-
-☐  what the hell effect card
 
 ☐  introjektion card
 
@@ -254,7 +262,6 @@ Ideen für neue Karten
 ☐ MikrowellenSpektroskopie
 
 ☐ Archetyp: das orakel aus matrix teil 1: mystify me VS (gleichaltiger) Engelarchteyp der Opfern hilft Satan zu entkommen wie im Buch Krabatt
-  
 
 die existenz von Hysterese / Remanenz würde allenfalls auch implizieren, dass irgend ein Depp ein nicht-löschbares (remanenz-save) Stimuli programmieren würde
 
@@ -265,26 +272,27 @@ x=100; loop
  x*Zuckerbrot && Stimuli;
 }
 
-Mögliche Effekte auf das Befinden etc. von Binaurale_Beats 
+☐ Binaurale_Beats und mögliche Effekte auf z.B. das Befinden 
 
-Little Albert Karte
+☐ "Little Albert Experiment"-Karte
 
-Worrier Elite Karte <=> Low self esteem karte
+☐ Worrier Elite Karte / Master of Hardcore Karte <=> Low self esteem karte
 
+☐ Spielestrategie (https://de.wikipedia.org/wiki/Kategorie:Spieltheorie)
+ ☐ kooperativ 
+ ☐ antagnoierend 
+ ☐ gemsicht... 
+ ☐ ego... (der de facto satan dient, dopamin gesteuert)
 
-algorithmen karten spielestrategie
-https://de.wikipedia.org/wiki/Kategorie:Spieltheorie
-kooperativ / antagnoierend / gemsicht... / ego... (der defacto satan dient, dopamin)
+☐ game engine 2. Karte, RUST game charakter mit stein...
 
- game engine 2. Karte, RUST game charakter mit stein...
+☐ "ignoriere diese karten"-karte (Simpsons: Truck-Truck-Truck, oder Brotmaschinen-Brotmaschinen-Maschine)
+ => bzw. generisch: Rekursion / Autopoiese
+ => Erziehungspsychologie-Jeopardy: was sind dämliche Fussball Karten und warum haben die überall auf schweizer Kinder-spielpläetzen Piraten-schiffe hingestellt,effekt: "ah kenn ich schon, piraten-karten..., ignorieren" / btw. frühkindlich aversion erzeugen mit dem einen Globalen Assessination Grid gegen diese komische Einthemen-Partei...
 
+☐ "het do öpper sies müesli ned gha" karte
 
-"ignoriere diese karten"-karte
-???: erziehungspsychologie jeopardy: was sind dämliche fussball karten und warum haben die überall auf schweizer kinder-spielpläetzen piraten-schiffe hingestellt: ah kenn ich schon, piraten-karten...
-
-"het do öpper sies müesli ned gha" karte
-
-"männergrippe"-karte
-
+☐ "Männergrippe"-Karte
+ das S in Männergrippe steht für Tapfer
 
 

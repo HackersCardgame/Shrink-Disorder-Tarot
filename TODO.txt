@@ -62,6 +62,9 @@ https://www.heise.de/newsticker/meldung/Digitales-Post-it-laeuft-ohne-Stromzufuh
 
 ☐ z.B. bei Druck Suhr anfragen, was es kosten würde, solche Karten produzieren zu lassen => können die nicht
 
+☐ für die Online Variante könnte man auch animierte gifs nehmen, z.B. für
+  die hackaday bewegungsfelder-karte
+
 Ideen für neue Karten
 ---------------------
 

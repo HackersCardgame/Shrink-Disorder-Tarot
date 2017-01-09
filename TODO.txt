@@ -34,6 +34,18 @@ Probleme zum ganzen Spiel
  => ev als deb mit einem Grundstock von Karten / Vorlagen / Beispielen
 
 
+Offene Geschichtliche Fragen
+----------------------------
+
+Weshalb fehlen bei...
+ * Tarot
+ * Panini Bildern/Karten
+ * Magic the Gathering
+ * Pokemon Karten
+...etc. die Technologie Karten, z.B. bei Magic hat es nur diese ollen "Elemente-Karten"
+
+
+
 
 Ideen zum ganzen Spiel
 ----------------------
@@ -51,26 +63,23 @@ Ideen für neue Karten
 
 ☐ ev. QR-Code für jede Karte mit ganzem (z.B. Wikipedia) Artikel, wie klein kann man die machen?
 
-
-Offene Geschichtliche Fragen
-----------------------------
-
-Weshalb fehlen bei Tarot, Panini Bildern/Karten, Magic the Gathering etc. die Technologie Karten, da hat es bei Magic nur diese ollen "Elemente-Karten"
-
-
-
-☐ ev symbolik / ikone karten (rote rose/weiss rose/hakenkreuz)
+☐ ev. Symbolik- / Ikonen-Karten (rote rose / weiss rose / hakenkreuz / Krone / Stock / Ball / ...)
  => ev. Bedeutung 1, Bedeuting 2, => wie im C++, überladen von Operatoren, bzw. wärs ja ein überladen von symbolen, ev. mit der Access Based Enm karte spielen
-☐ PECS Karte (ev Rekursion mit diesem Quartett)
+
+☐ PECS-Karte (ev. Rekursion mit diesem Quartett)
+
 ☐ Abraxas
-☐ Anger Therapy, das amygdala implantat ins lächerliche ziehen, rage quit, sekretärinnenn karte
+
+☐ Anger Therapy <=> Amygdala Implantat, das Targeted Individual ins Lächerliche ziehen => RageQuit++ => Amok/Suizid
+
 ☐ die skinnerBOX besteht aus mehreren Elemente:
  1: Abrichtungs-Raum
  2: implantat
  3: mobile Transmitter fürs "Feld" um die konditionierten Verhaltensmuster Unterwegs abzurufen
 
 ☐ z.B. Kühlschrank mit Bluetooth und Active Denial System 230V*10A
-☐ auto karte VS Fahrrad :: reichweite
+
+☐ Auto VS Fahrrad :: Reichweite
 
 ☐ Plüschtier-Nachfolger-Karte, Yay, Objektfixierung auf z.B. eine coolen Computer, Computer-Spiel oder Auto
   (Vermeidungsverhalten => Coping Strategie um von Unsicherheit abzulenken da man im Kapitalismus ja immer lügen muss ähm "perfekt" sein muss)
@@ -79,50 +88,57 @@ Weshalb fehlen bei Tarot, Panini Bildern/Karten, Magic the Gathering etc. die Te
   => z.b. aufstellungen,in Mitte eine Objektfixierung, einen ersten ring beeinflusser zB 1980er, und einen definitv "geheimen" zweiten Ring aus 1950er Pädos
 
 ☐ uni karte / schule karte / jurPerson karte / angeber karte / mastertitel umsichwerfer karte / militär architektur beim schulhaus gebäude => Low self-esteem
+
 ☐ DSM <=> MKULTRA Karte 1970 "Drogenexperimente" = Objektfixierung, stelle mit loop recorder...
  ☐ RFID Karte ("only" Tracking) / RFID Powder / bzw, 1x rfid karte / 1x rfid gebäude infrastruktur karte
-☑ loop-recorder
+
 ☐ donkey kong als vater-archetyp 2?
-☑ "You ARE INSANE/crazy" - card
+
 ☐ römer aus astrix und obelix würden sich als weiterer kriegerarchetyp eignen, z.B. da wo alle betrunken nach dem fass mit zaubertrank suchen
+
 ☐ Movie Archetyp logo schrottig, weniger zeugs, eindeutigeres logo
-☑ karte mit erklärung der logos
-☑  pornographie / limbic system vulnerability hack karte im kontext zum überwachungsalbraum, der fall des ricthers der den kinderprono-artikel dazu missbraucht ein kleines mädchen zu verknacken, und dem hinweis wie   einfach es wäre einem 8 jähringen mädchen oder jungen strafbares  material unterzuschieben als 1950er pädokrimineller um danach nach belieben "legitim" in der sexuellen integrität des mädchens rumzuwühlen... und das "lustige" ist, dass man den presse-artikel von dem richter wo die sexuelle integrität des mädchens medienweit breitgetreten wurde findet man nicth mehr...  a) zum schutz des mädchens b) zensur durch den richter => wikipedia: zensur schweiz?
+
 ☑ limbic system vulnerability hack nach der porno karte spielen
+
 ☐ dazwischen ev noch die NSA - Survaillance und die I know what you did last summer karte
  ☐ MOD: dann die sekretärinnen karte wäre institutionelle diskriminierung bzw. erhält man vom HR nur den jobe wenn man so "funktioniert", also um den Job zu kriegen muss man eine "Totsch" sein
-☑  Kind-Archetyp Karte: junge kinder beissen TOE Psychoaffektiv::Nachmachen der eltern das auch noch pädosadistisch ähm "sau komisch" fanden.
-☑ Hypophyse karte
-☑ Amygdala karte =>ev Medizin oder Gehirn karte, z.B. das Vorlagenlogo 
- ☐ NEO aus Matrix Karte
- ☐ Matrix Algebra Karte und part2 die 100k auf dieser karte☐ 100'000 professionelle NSA/CIA hacker
+
+
+☐ NEO aus Matrix Karte
+ 
+☐ Matrix Algebra Karte und part2 die 100k auf dieser karte☐ 100'000 professionelle NSA/CIA hacker
+
 ☐ medienwirksame medien / hollywood karte
+
 ☑ Algoritmen karte: Remanenz und Hysterese, wie man ein stimuli / konditionierung allenfalls löschen kann
  ☐ braucht unbedingt die behavioral sciences und die clark hull formel karte
-☑ Symbol für algorithmenkarte
-☑ the recruit karte in skinnerBOX
-☑ Methoden / Technologie / Archetype ... karten besser als solche kenntzeichnen
+
 ☐ Furby Karte, oder Furbies mit Server Karte
-☑ Studenten / Karte
+
 ☐ Studenten-schnitte karte
  ☐ Low-self esteem karte
 ☐ pony karte ☐ mlp karte ☐ fondue chinoise mit pferdefleisch karte aber nur im deck für jungs und nciht-vegetarier (nicht dass ich so argumentierne würde aber es gibt da irgendwelche 1950er Pädos di so etwas tun)
 ☐ computer/playstation karte als nachfolgerkarte für grosse jungs statt dem plüsch tier
  ☐ auto karte  vs velo reichweite
  ☑ IoT Karte / oder z.B. iBeacon Karte 
- ☑ extended Warfare PolizeiWagen
+☐ Bewegungsfelder Karte => Probelm das ist viel verständlicher mit der Animation
+ 
 ☐ uni karte / schule karte / jurPerson karte / angeber karte / mastertitel umsichwerfer karte / => Low self-esteem
+
 ☐ DSM <=> MKULTRA Karte 1970 "Drogenexperimente" = Objektfixierung, stelle mit loop recorder...
+
 ☐ echo chamber
-☑ us4877027 / 1930 / 1960
- ☐ active denial system (2010???) und kleinst active denial system (mit berechnungen wie klein man das bauen könnte ev mit tunneldioden)
+
+☐ Röhre / Tunneldiode Karte => ev. eher etwas für das Hackers-Cardgame
+
 ☐ ev. Sternzeichen Karten / Zodiac Sign Karten? um den link zu Esotherike heften zu machen, wo ich immer gedacht habe die spinnen ja, aber esotherik ist afaik auch ein koheräntes Mental Operating System und z.B. für Soziologie gar nicht so blöd wie ich als Kind angenommen habe
-☑ Piagetian Operations Grafik Karte
+
 ☐ Blooms Taxonomy Of Educational Objectives Karte, bzw. zu gross also für jeden Sub-Tree (z.B. Psychoaffektive Dimension) eine Karte
+
 ☐ Geons / Grafische Grundfiguren Karte
 
 ☐ Einzelblid Einblendung am TV karte
-☑ Drogen / Joint Objektfixierungskarte (mit dem Hinweis: NEIN, chemische Substanzen können nicht Zauber, das sind Lizenzgebühren für Rechenpower auf nem Mainframe/Cloud)
+
 ☐ Endokrinologie Karte
  ☐ Dopamin
  ☐ Serotonin
@@ -144,13 +160,9 @@ Weshalb fehlen bei Tarot, Panini Bildern/Karten, Magic the Gathering etc. die Te
  => ev. mit unechtem blutigen bild craften, oder mit fleischwunden foto von mir...
 ☐ What the hell effect Karte
 ☐ Pädo Zombi Karte
-☑ Jesus am Kreuz Karte (a: gehäuchelt b: ernst gemeint c: spambot auf 2 beinen)
-☑ $ Karte / Geld Karte die man immer dann spielen würde, wenn man eigentlich verloren hat aber (ein) "kaufkräftig(es)" (Arsch) ist
-☑ Moral / Vorbild Karte
+
 ☐ QAM64 / Komplexe Ebene Karte (Kanal: Akkustisch, AluHüte...)
-☑ Incentives Karte / Zuckerbrot
-☑ Punishment / Peitschen Karte
-☑ Leiche im Keller Karte / Zigeunerfriedhof unter dem Stadtratsgebäude Karte
+
 ☐ Häufigkeits Analyse Karte
 ☐ Vektor/Matrix Mathe ähm Häckserei Karte
 ☐ Basis Emotionen Karte

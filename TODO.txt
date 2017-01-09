@@ -55,6 +55,10 @@ Ideen zum ganzen Spiel
 ☐ quartett allenfalls mit so etwas wie digitales Positit "craften":
 https://www.heise.de/newsticker/meldung/Digitales-Post-it-laeuft-ohne-Stromzufuhr-3357347.html
 
+☐ iPhone / Android / HTML5 App
+ 1. um Karten darzustellen
+ 2. Karten-Kombinationen
+ 3. Online-Spiel
 
 
 
@@ -62,7 +66,6 @@ Ideen für neue Karten
 ---------------------
 
 ☐ schamanisches Interface / Augmented Reality Karte
-
 
 ☐ ev. QR-Code für jede Karte mit ganzem (z.B. Wikipedia) Artikel, wie klein kann man die machen?
 
@@ -86,6 +89,7 @@ Ideen für neue Karten
 
 ☐ Plüschtier-Nachfolger-Karte, Yay, Objektfixierung auf z.B. eine coolen Computer, Computer-Spiel oder Auto
   (Vermeidungsverhalten => Coping Strategie um von Unsicherheit abzulenken da man im Kapitalismus ja immer lügen muss ähm "perfekt" sein muss)
+  PC: "yay schau ich hab word SELBER installiert" (diskrete mathematik, schublade für kind?) und chrome upgedated => da meine ich 40 jährige und älter für den zynismus bei jüngeren bitte keinen zynismus !
 
 ☐ Objekt-Fixierungskarte
   => z.b. aufstellungen,in Mitte eine Objektfixierung, einen ersten ring beeinflusser zB 1980er, und einen definitv "geheimen" zweiten Ring aus 1950er Pädos
@@ -95,16 +99,14 @@ Ideen für neue Karten
 ☐ DSM <=> MKULTRA Karte 1970 "Drogenexperimente" = Objektfixierung, stelle mit loop recorder...
  ☐ RFID Karte ("only" Tracking) / RFID Powder / bzw, 1x rfid karte / 1x rfid gebäude infrastruktur karte
 
-☐ donkey kong als vater-archetyp 2?
+☐ Donkey Kong als vater-archetyp 2?
 
-☐ römer aus astrix und obelix würden sich als weiterer kriegerarchetyp eignen, z.B. da wo alle betrunken nach dem fass mit zaubertrank suchen
+☐ Römer aus Astrix und Obelix würden sich als weiterer Kriegerarchetyp Eignen, z.B. da wo alle Römer betrunken nach dem Fass mit Zaubertrank suchen
 
 ☐ Movie Archetyp logo schrottig, weniger zeugs, eindeutigeres logo
 
-
-☐ dazwischen ev noch die NSA - Survaillance und die I know what you did last summer karte
- ☐ MOD: dann die sekretärinnen karte wäre institutionelle diskriminierung bzw. erhält man vom HR nur den jobe wenn man so "funktioniert", also um den Job zu kriegen muss man eine "Totsch" sein
-
+☐ dazwischen ev noch die NSA - Survaillance und die "I know what you did last summer"-Karte
+ ☐ MOD: dann die Sekretärinnen Karte wäre institutionelle diskriminierung bzw. erhält man vom HR nur den Jobe wenn man so "funktioniert", also um den Job zu kriegen muss man eine "Totsch" sein
 
 ☐ NEO aus Matrix Karte
  
@@ -168,6 +170,8 @@ Ideen für neue Karten
 ☐ What the hell effect Karte
 ☐ Pädo Zombi Karte
 
+
+
 ☐ QAM64 / Komplexe Ebene Karte (Kanal: Akkustisch, AluHüte...)
 
 ☐ Häufigkeits Analyse Karte
@@ -209,7 +213,7 @@ Ideen für neue Karten
 ☐ Kerberos / Kerberos lern-karten
 ☐ Penner/Alufolien "Spinner" Archetyp
 
-☐ http://www.5bn.de/ => konzept der Spuren in diesem video, also so zu sagen ein starterkit an suggestionenen mit dem dann mehr "achievements" ungelockt werden aber defacto ists ein übles marketing konzept
+☐ http://www.5bn.de/ => Konzept Spuren-Systen in diesem Video, also so zu sagen ein StarterKIT an Suggestionenen mit dem dann mehr "Achievements" ungelockt werden aber defacto ists ein übles Marketing Ausbeutungs Konzept, Ablasshandel Satans
 
 (☑) Sozio-Psychologie Deesign-Pattern => separate karte? => nö für einen support-sklaven ist es eigentlich cool dienstleistung erbringen zu dürfen
 
@@ -222,7 +226,9 @@ Ideen für neue Karten
 ☐ Stokholm-/Helsinki-Syndrom Karte
 
 ☐  HUMINT-Choosen-Plaintext-Attack card
+
 ☐  what the hell effect card
+
 ☐  introjektion card
 
 ☐ Action Recognition Karte
@@ -250,23 +256,20 @@ Ideen für neue Karten
 ☐ Archetyp: das orakel aus matrix teil 1: mystify me VS (gleichaltiger) Engelarchteyp der Opfern hilft Satan zu entkommen wie im Buch Krabatt
   
 
-Quadrophonie-SkinnerBOX eher an n laborratten käfig angepasst und 
-ev. dargestellt mit 2x quadrophonie...
+die existenz von Hysterese / Remanenz würde allenfalls auch implizieren, dass irgend ein Depp ein nicht-löschbares (remanenz-save) Stimuli programmieren würde
 
-die existenz von hysterese / remanenz würde allenfalls auch implizieren
-dass irgend ein depp ein nciht-löschbares (remanenz-save) zeugs programmieren
-würde, peitsche&&set ... zuckerbrot&&set ... peitsche&set mit einem algorithmus
-der zwischen minimal und maximal pegel sinus-zeugs alterniert...
- mit einem algorithmus
-der zwischen minimal und maximal pegel sinus-zeugs alterniert...
+x=100; loop
+{
+ x*=0.95;
+ x*Peitsche && Stimuli;
+ x*Zuckerbrot && Stimuli;
+}
 
-Mögliche Effekte auf das Befinden  Binaurale_Beats
+Mögliche Effekte auf das Befinden etc. von Binaurale_Beats 
 
-augmented reality karte
+Little Albert Karte
 
-warrier elite karte <=> Low self esteem karte
-
-pc als plüschtier für die grösseren kinder, yay ich klammere mich an "schau ich hab word SELBER installeirt" und chrome upgedated => da meine ich 40 jährige und älter für den zynismus bei jüngeren bitte keinen zynismus !
+Worrier Elite Karte <=> Low self esteem karte
 
 
 algorithmen karten spielestrategie
@@ -276,18 +279,12 @@ kooperativ / antagnoierend / gemsicht... / ego... (der defacto satan dient, dopa
  game engine 2. Karte, RUST game charakter mit stein...
 
 
-
-
-warrier elite karte <=> Low self esteem karte
-
 "ignoriere diese karten"-karte
 ???: erziehungspsychologie jeopardy: was sind dämliche fussball karten und warum haben die überall auf schweizer kinder-spielpläetzen piraten-schiffe hingestellt: ah kenn ich schon, piraten-karten...
 
 "het do öpper sies müesli ned gha" karte
+
 "männergrippe"-karte
 
-todo aufräumen
 
-iPhone / Android / HTML5 App, vorerst nur um karten darzustellen, ev mit 
-karten kombinationen
 

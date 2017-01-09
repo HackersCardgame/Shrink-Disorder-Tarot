@@ -1,5 +1,4 @@
 
-
 Spiele Anleitung
 ----------------
 
@@ -18,13 +17,21 @@ Forderung eines gleichaltrigen Weibleins:
 * Die doofen doofen Jungs müssen das runterladen, drucken, beim ausschneiden helfen wir Mädchen allenfalls
 
 
-
 Probleme zum ganzen Spiel
 -------------------------
 
 * das schamanische Interface der 1950er / das hexerei API verhindert die aufnahme des Datenpunktes über stimoceiver / wo2005055579a1 Ausserdem hat da glaub schon jemand ein "du bist uncool bis verflucht, wenn du mit diesen Karten spielst" drauf gemacht (aumented reality mit ccd und pattern-recod?) oder ein "ich lese Deine intimsten Gedanken mit dem Deck"-Spell
 
 * Problem Mainframe: Overlay Satans (mit ähnlichen Dingen die verhindern dass der Spieler den Aha-Effekt erlebt, "kennt ICH schon") entfernen
+
+
+* allenfalls für die ganz schlimmen Karten (z.B. die SCC BDSM Karte) irgend ein FSK, was dann ev Kinder psychotisch machen würde
+
+* allenfalls über ein gif/jpg/png/pdf zum drucken, dann wärs auch für windows brauchbar dann wäre die hürde für die jüngeren ungeborenen Pinguine kleiner oder ein DOS SCRIPT oder POWERshell
+
+☐ 50% Card Generator Software 
+ => ev svg Library oder die Library von inkskape etc...
+ => ev als deb mit einem Grundstock von Karten / Vorlagen / Beispielen
 
 
 
@@ -51,27 +58,22 @@ Offene Geschichtliche Fragen
 Weshalb fehlen bei Tarot, Panini Bildern/Karten, Magic the Gathering etc. die Technologie Karten, da hat es bei Magic nur diese ollen "Elemente-Karten"
 
 
-☐ allenfalls für die ganz schlimmen karten wo man die kinder nicht angst machen möchte damit irgend ein FSK system, wo satan dann wieder genau die FSK>18 dafür "benutzen" wird kinder psychotisch zu machen
 
-☐ allenfalls über ein gif/jpg/png zum drucken dann wärs auch für windows
-brauchbar.... und ein DOS SCRIPT... oder POWERshell, yay ich habe die power und die macht...
-
-☐ PRIO: Card Generator Software   => EV SVG Library oder die Library von inkskape etc...
- =>ev als dpkg mit einem Grundstock von Karten / Vorlagen / Beispielen
-
-☑ Methoden / Technologie / Archetype ... karten besser als solche kenntzeichnen
-brauchbar.... und ein DOS SCRIPT... oder POWERshell, yay ich habe die power und die macht...
-☐ ev symbolik / ikone karten (rote rose/weiss rose/hakenkreuz/z.B. sophie scholl karte)
- => ev. Bedeutung 1, Bedeuting 2, => wie im C++, überladen von operatoren, bzw. wärs ja ein überladen von symbolen, ev. mit der Access Based Enm karte spielen
+☐ ev symbolik / ikone karten (rote rose/weiss rose/hakenkreuz)
+ => ev. Bedeutung 1, Bedeuting 2, => wie im C++, überladen von Operatoren, bzw. wärs ja ein überladen von symbolen, ev. mit der Access Based Enm karte spielen
 ☐ PECS Karte (ev Rekursion mit diesem Quartett)
 ☐ Abraxas
-☑ Ev. Haustier, z.b. der Whichcraft Strater Kit... => liebevoll methode genannt...(bzw. wir könnten es auch antidepresiva nenne, das wäre fast noch besser)
-☑ Pawlovsccher Hund
 ☐ Anger Therapy, das amygdala implantat ins lächerliche ziehen, rage quit, sekretärinnenn karte
-☐ skinnerBOX: sb1: Room; sb2; implantat sb3; (mobile Transmitter) fürs "Feld": konditionierten verhaltensmuster unterwegs abrufen (M-Com-Station / Active Denial System)
- ☐ z.B. Kühlschrank mit Bluetooth und Active Denial System 230V*10A
- ☐ auto karte  vs velo reichweite
- ☐ Plüschtier nachfolger karte, Objektfixierung auf z.B. eine Coolen Computer oder Auto (Vermeidungsverhalten)
+☐ die skinnerBOX besteht aus mehreren Elemente:
+ 1: Abrichtungs-Raum
+ 2: implantat
+ 3: mobile Transmitter fürs "Feld" um die konditionierten Verhaltensmuster Unterwegs abzurufen
+
+☐ z.B. Kühlschrank mit Bluetooth und Active Denial System 230V*10A
+☐ auto karte VS Fahrrad :: reichweite
+
+☐ Plüschtier-Nachfolger-Karte, Yay, Objektfixierung auf z.B. eine coolen Computer, Computer-Spiel oder Auto
+  (Vermeidungsverhalten => Coping Strategie um von Unsicherheit abzulenken da man im Kapitalismus ja immer lügen muss ähm "perfekt" sein muss)
 
 ☐ Objekt-Fixierungskarte
   => z.b. aufstellungen,in Mitte eine Objektfixierung, einen ersten ring beeinflusser zB 1980er, und einen definitv "geheimen" zweiten Ring aus 1950er Pädos

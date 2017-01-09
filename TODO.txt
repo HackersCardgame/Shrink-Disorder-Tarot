@@ -52,6 +52,8 @@ Ideen zum ganzen Spiel
 
 ☐ denkbar Methoden und Technologie-Karten zu nem standard hajo banzhaf Deck zu Drucken (anderes Format)
 
+☐ quartett allenfalls mit so etwas wie digitales Positit "craften":
+https://www.heise.de/newsticker/meldung/Digitales-Post-it-laeuft-ohne-Stromzufuhr-3357347.html
 
 
 
@@ -59,7 +61,8 @@ Ideen zum ganzen Spiel
 Ideen für neue Karten
 ---------------------
 
-☐ schamanisches Interface
+☐ schamanisches Interface / Augmented Reality Karte
+
 
 ☐ ev. QR-Code für jede Karte mit ganzem (z.B. Wikipedia) Artikel, wie klein kann man die machen?
 
@@ -98,7 +101,6 @@ Ideen für neue Karten
 
 ☐ Movie Archetyp logo schrottig, weniger zeugs, eindeutigeres logo
 
-☑ limbic system vulnerability hack nach der porno karte spielen
 
 ☐ dazwischen ev noch die NSA - Survaillance und die I know what you did last summer karte
  ☐ MOD: dann die sekretärinnen karte wäre institutionelle diskriminierung bzw. erhält man vom HR nur den jobe wenn man so "funktioniert", also um den Job zu kriegen muss man eine "Totsch" sein
@@ -110,17 +112,22 @@ Ideen für neue Karten
 
 ☐ medienwirksame medien / hollywood karte
 
-☑ Algoritmen karte: Remanenz und Hysterese, wie man ein stimuli / konditionierung allenfalls löschen kann
- ☐ braucht unbedingt die behavioral sciences und die clark hull formel karte
+☐ behavioral sciences 
+
+☐ "Clark Hull"-Formel Karte
 
 ☐ Furby Karte, oder Furbies mit Server Karte
 
-☐ Studenten-schnitte karte
- ☐ Low-self esteem karte
-☐ pony karte ☐ mlp karte ☐ fondue chinoise mit pferdefleisch karte aber nur im deck für jungs und nciht-vegetarier (nicht dass ich so argumentierne würde aber es gibt da irgendwelche 1950er Pädos di so etwas tun)
+☐ Low-self esteem karte
+
+☐ pony karte
+
+☐ mlp karte
+
+☐ fondue chinoise mit pferdefleisch karte aber nur im deck für jungs und nicht-vegetarier bzw. mit der Reisschüssel Karte aus dem Film "The Goden Child" spielen (nicht dass ich so argumentierne würde aber es gibt da irgendwelche 1950er Pädos die so etwas tun)
+
 ☐ computer/playstation karte als nachfolgerkarte für grosse jungs statt dem plüsch tier
- ☐ auto karte  vs velo reichweite
- ☑ IoT Karte / oder z.B. iBeacon Karte 
+
 ☐ Bewegungsfelder Karte => Probelm das ist viel verständlicher mit der Animation
  
 ☐ uni karte / schule karte / jurPerson karte / angeber karte / mastertitel umsichwerfer karte / => Low self-esteem
@@ -164,15 +171,20 @@ Ideen für neue Karten
 ☐ QAM64 / Komplexe Ebene Karte (Kanal: Akkustisch, AluHüte...)
 
 ☐ Häufigkeits Analyse Karte
+
 ☐ Vektor/Matrix Mathe ähm Häckserei Karte
+
 ☐ Basis Emotionen Karte
  ☐ Scham
  ☐ Angst
  ☐ Genuss
  ☐ Narzistischer Machtmissbrauch Karte
+
 ☐ Enneagramm - karte?
  ☐ religions / religionen karte / coexist karte
+
 ☐ clarc hull formula karte
+
 ☐ crack-tro karte?
  ☐ Ritzen Karte / Active Denial System Krate / Kopfschmerzen Impalntat / Kopf auf den Boden Knallein Implantat => Eraser der Täter damit sie das Opfer davon abhalten können die Täterschaft zu nennen
 ☐ z.B. bei Druck Suhr anfragen was es kostet solche karten zu produzieren
@@ -180,9 +192,14 @@ Ideen für neue Karten
 ☐ heikel, maximaler psychologischer kollateral damage durch die vergewaltigung
   von kinder und ermordung von kindern in shculen, das bild dsa faceook zensieren will mit den soldaten die kinder in vietnam vergewaltigen, aber allenfalls einen zensurbalken über die kinder machen oder nachzeichnen, sonst pietätlos, und auch die karte wäre pietätlos wenn sie die pietätlosigkeit, die echten täter nciht anprangern würde und diese würde man dann mit der Amygdala-Implantat karte spielne und verschleiert die ganze comint des cia terrornetzwerks => allenfalls nicht im standard - deck das man auch den kindern geben kann sondern in einem FSK grösser 18 oder grösser 30 deck
 
-☐ OOP Karte / z.B. BlueJ
-☐ Milgram Experiment Methoden karte
-☐ Cyber-Waterboarding technologie / behavioural "sciences"
+☐ OOP Karte 
+
+☐ BlueJ => ev. eher für's Hackers-Cardgame
+
+☐ Milgram Experiment Karte
+
+☐ Cyber-Waterboarding technologie / behavioural "sciences" (Medulla Oblangata)
+
 ☐ Generationen-Konflikt Karte? früher waren es die grünen männchen, ehute sind sie blau z.B. im film Avatar auf pandora / also stanford prison experiment schon mal opt in für den fall dass man main-stream medien verwendet... 
   brainslug mit dazu gehörender algoritmen karte oder ki karte, wie erkennt es, was erkennt er, kann z.B. z.B. dogar die ganze roboter-achs-matrix
   aus eeg daten generiert werden? also dass z.B. der CAD Arbeitsplatz für den lehrling, nicht zwingend (nur) grundfiguren wie kreise, striche, links, rechts 
@@ -190,19 +207,19 @@ Ideen für neue Karten
   wird, dass das unterbewusstsein das lernt
 ☐ Brain-Modem als formulierung nehmen, modem impliziert eine gegenstelle, und oder einen Provider, den Provider den diensteleister in die Pflicht nehmen, und das brain modem hätte von haus aus irgend eine TR-069 Funktionalität
 ☐ Kerberos / Kerberos lern-karten
-☑ Feld-Herr Archetyp 
 ☐ Penner/Alufolien "Spinner" Archetyp
-☑  richter.archetyp / scharfrichter archetyp & $ Karte (Bestechung)
-☑ Sophie-Scholl-Archetypen Karte
+
 ☐ http://www.5bn.de/ => konzept der Spuren in diesem video, also so zu sagen ein starterkit an suggestionenen mit dem dann mehr "achievements" ungelockt werden aber defacto ists ein übles marketing konzept
-☑ Design-Pattern
-☑ Sozio-Psychologie Deesign-Pattern
+
+(☑) Sozio-Psychologie Deesign-Pattern => separate karte? => nö für einen support-sklaven ist es eigentlich cool dienstleistung erbringen zu dürfen
 
 ☐ (Denk)modelle Karten
  ☐ Freud
   ☐ über ich (z.B. Mainframe bild)
   ☐ ich (z.B. Töggel Bild
   ☐ es-ich (Kind-ich: z.B. kinder kätzchen oder kind)
+
+☐ Stokholm-/Helsinki-Syndrom Karte
 
 ☐  HUMINT-Choosen-Plaintext-Attack card
 ☐  what the hell effect card
@@ -230,17 +247,8 @@ Ideen für neue Karten
 
 ☐ MikrowellenSpektroskopie
 
-das orakel aus matrix teil 1: mystify me, und logischerweise ist es die zauberkraft der kekse... mann seid ihr vielleicht blöd...
-
- My Laptop
- ⇩    Me with wo2005055579A1 WLAN0 & ( WLAN1 ? )
-      ⇩
- |    D                o  ⇦ My Neighbour with his cell phone
- |__ \|/               |    that connects to WLAN1 of my wo2005055579A1
-      |               / \
-     / \
+☐ Archetyp: das orakel aus matrix teil 1: mystify me VS (gleichaltiger) Engelarchteyp der Opfern hilft Satan zu entkommen wie im Buch Krabatt
   
-quartett allenfalls mit so etwas "craften" digitales Positit: https://www.heise.de/newsticker/meldung/Digitales-Post-it-laeuft-ohne-Stromzufuhr-3357347.html
 
 Quadrophonie-SkinnerBOX eher an n laborratten käfig angepasst und 
 ev. dargestellt mit 2x quadrophonie...
@@ -267,10 +275,8 @@ kooperativ / antagnoierend / gemsicht... / ego... (der defacto satan dient, dopa
 
  game engine 2. Karte, RUST game charakter mit stein...
 
-Fri Dec 16 11:43:17 CET 2016
-=>
 
-augmented reality karte
+
 
 warrier elite karte <=> Low self esteem karte
 

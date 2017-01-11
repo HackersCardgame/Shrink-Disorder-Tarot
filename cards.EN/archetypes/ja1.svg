@@ -43,15 +43,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0000002"
-     inkscape:cx="103.60619"
-     inkscape:cy="180.58251"
+     inkscape:zoom="1.7524527"
+     inkscape:cx="62.679795"
+     inkscape:cy="186.02499"
      inkscape:document-units="px"
      inkscape:current-layer="g7683"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -306,7 +306,7 @@
     </text>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="static-text-shrink English"
      id="g12086"
      inkscape:groupmode="layer">
@@ -364,7 +364,7 @@
      inkscape:groupmode="layer"
      id="g7801"
      inkscape:label="static-text-shrink German"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="default"
        id="text7803"
@@ -714,12 +714,11 @@
        x="150.33174"
        style="font-size:8px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:MineCrafter 3;-inkscape-font-specification:MineCrafter 3 Bold Italic"
        xml:space="preserve"><tspan
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:GNUTypewriter;-inkscape-font-specification:GNUTypewriter Bold"
+         style="font-size:15px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:GNUTypewriter;-inkscape-font-specification:GNUTypewriter Bold"
          y="47.25"
          x="150.33174"
          id="tspan7687"
-         sodipodi:role="line"
-         dy="-1">Krieger-Archetyp 1</tspan></text>
+         sodipodi:role="line">Worrier-Archetype 1</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot7689"

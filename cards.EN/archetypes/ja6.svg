@@ -44,14 +44,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7524527"
-     inkscape:cx="140"
+     inkscape:cx="63.821054"
      inkscape:cy="186.02499"
      inkscape:document-units="px"
      inkscape:current-layer="g7683"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -306,7 +306,7 @@
     </text>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="static-text-shrink English"
      id="g12086"
      inkscape:groupmode="layer">
@@ -364,7 +364,7 @@
      inkscape:groupmode="layer"
      id="g7801"
      inkscape:label="static-text-shrink German"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="default"
        id="text7803"
@@ -718,7 +718,7 @@
          y="47.25"
          x="150.33174"
          id="tspan7687"
-         sodipodi:role="line">Mutter-Archetypus</tspan></text>
+         sodipodi:role="line">Mother-Archetype</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot7689"

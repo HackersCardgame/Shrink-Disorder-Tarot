@@ -44,10 +44,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.92331"
-     inkscape:cx="100.48479"
+     inkscape:cx="31.073203"
      inkscape:cy="143.78814"
      inkscape:document-units="px"
-     inkscape:current-layer="g7683"
+     inkscape:current-layer="g11024"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
@@ -420,34 +420,10 @@
     </text>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="static-text-other English"
      id="g12590"
      inkscape:groupmode="layer">
-    <text
-       x="32"
-       y="264"
-       id="text12592"
-       xml:space="default">
-      <tspan
-         sodipodi:role="line"
-         id="tspan12594"
-         x="32"
-         y="264"
-         style="font-size:8px;font-weight:bold;-inkscape-font-specification:Sans Bold">Wichtigste Errungenschaft(en):</tspan>
-    </text>
-    <text
-       xml:space="default"
-       id="text12596"
-       y="284"
-       x="32">
-      <tspan
-         style="font-size:8px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         y="284"
-         x="32"
-         id="tspan12598"
-         sodipodi:role="line">Kurzprofil:</tspan>
-    </text>
     <text
        x="32"
        y="205"
@@ -471,14 +447,14 @@
          id="tspan12606"
          sodipodi:role="line"
          x="220"
-         style="font-size:10px;font-weight:bold;text-align:end;text-anchor:end;-inkscape-font-specification:Sans Bold">BauJahr:</tspan>
+         style="font-size:10px;font-weight:bold;text-align:end;text-anchor:end;-inkscape-font-specification:Sans Bold">Year</tspan>
     </text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="g12608"
      inkscape:label="static-text-other German"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="default"
        id="text12618"

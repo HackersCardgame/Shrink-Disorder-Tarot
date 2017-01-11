@@ -44,14 +44,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7524527"
-     inkscape:cx="140"
+     inkscape:cx="63.821054"
      inkscape:cy="186.02499"
      inkscape:document-units="px"
      inkscape:current-layer="g7683"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -309,7 +309,7 @@
     </text>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="static-text-shrink English"
      id="g12086"
      inkscape:groupmode="layer">
@@ -367,7 +367,7 @@
      inkscape:groupmode="layer"
      id="g7801"
      inkscape:label="static-text-shrink German"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="default"
        id="text7803"
@@ -721,7 +721,7 @@
          y="47.25"
          x="150.33174"
          id="tspan7687"
-         sodipodi:role="line">Kind-Archetypus</tspan></text>
+         sodipodi:role="line">Child-Archetype</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot7689"
@@ -747,7 +747,7 @@
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
    id="flowSpan17512">O</flowSpan> Offenheit:          offen bis zur ersten Gewalt<flowSpan
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
-   id="flowSpan17514"></flowSpan></flowPara><flowPara
+   id="flowSpan17514" /></flowPara><flowPara
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="flowPara160182"><flowSpan
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
@@ -781,8 +781,8 @@
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace" /><flowPara
          id="flowPara7733"
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
-   id="flowSpan12607">Putzen, Kochen, </flowSpan>insgeheim pos/neg Einfluss nehmen</flowPara><flowPara
+           style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
+           id="flowSpan12607">beeing cute and honest</flowSpan></flowPara><flowPara
          id="flowPara7735"
          style="font-size:7.30000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace" /><flowPara
          id="flowPara7737"

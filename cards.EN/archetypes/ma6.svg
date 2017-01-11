@@ -44,10 +44,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.92331"
-     inkscape:cx="225.26966"
+     inkscape:cx="155.85807"
      inkscape:cy="185.3831"
      inkscape:document-units="px"
-     inkscape:current-layer="g12608"
+     inkscape:current-layer="g12590"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
@@ -410,7 +410,7 @@
     </text>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="static-text-other English"
      id="g12590"
      inkscape:groupmode="layer">
@@ -424,19 +424,7 @@
          id="tspan12594"
          x="32"
          y="264"
-         style="font-size:8px;font-weight:bold;-inkscape-font-specification:Sans Bold">Wichtigste Errungenschaft(en):</tspan>
-    </text>
-    <text
-       xml:space="default"
-       id="text12596"
-       y="284"
-       x="32">
-      <tspan
-         style="font-size:8px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         y="284"
-         x="32"
-         id="tspan12598"
-         sodipodi:role="line">Kurzprofil:</tspan>
+         style="font-size:8px;font-weight:bold;-inkscape-font-specification:Sans Bold" />
     </text>
     <text
        x="32"
@@ -461,14 +449,14 @@
          id="tspan12606"
          sodipodi:role="line"
          x="220"
-         style="font-size:10px;font-weight:bold;text-align:end;text-anchor:end;-inkscape-font-specification:Sans Bold">BauJahr:</tspan>
+         style="font-size:10px;font-weight:bold;text-align:end;text-anchor:end;-inkscape-font-specification:Sans Bold">Year</tspan>
     </text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="g12608"
      inkscape:label="static-text-other German"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="default"
        id="text12618"
@@ -798,9 +786,10 @@
          y="47.25"
          x="150.33174"
          id="tspan7687"
-         sodipodi:role="line">Sophie Scholl <tspan
-   style="font-size:12px"
-   id="tspan7721">Archetype</tspan></tspan></text>
+         sodipodi:role="line"><tspan
+           style="font-size:12px"
+           id="tspan93637"
+           dy="-2">Sophie Scholl Archetype</tspan></tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot7689"
@@ -820,7 +809,7 @@
          style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="flowPara7750">May white roses materialize on her tomb</flowPara><flowPara
          style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara7730"></flowPara><flowPara
+         id="flowPara7730" /><flowPara
          style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="flowPara7732">Opinion: Germany be proud on people</flowPara><flowPara
          style="font-size:7px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
@@ -23854,8 +23843,8 @@
        id="rect12533"
        width="249.9743"
        height="338.48795"
-       x="15.01285"
-       y="17.422916"
+       x="18.652409"
+       y="17.942854"
        rx="14"
        ry="14" />
   </g>

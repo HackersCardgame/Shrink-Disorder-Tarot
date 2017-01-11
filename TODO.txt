@@ -57,6 +57,12 @@ Weshalb fehlen bei...
 Ideen zum ganzen Spiel
 ----------------------
 
+☐ Phylogenetischer Stammbaum - Karte
+
+☐ Spracherkennung / Sprachlicher Fingerabdruck - Karte
+ ☐ FFT
+ ☐ im Sinne von Worthäufigkeit, Satzbau und gramatikalischen Merkmalen
+
 ☐ denkbar Methoden und Technologie-Karten zu nem standard hajo banzhaf Deck zu Drucken (anderes Format)
 
 ☐ Hinweis auf die printAll.sh je nach Format im Verzeichnis

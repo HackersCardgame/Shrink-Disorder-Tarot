@@ -1,5 +1,9 @@
 #!/bin/sh
 
 
-German/convert2jpg.sh
-English/convert2jpg.sh
+cd German
+./convert2jpg.sh
+
+cd ..
+cd English
+./convert2jpg.sh

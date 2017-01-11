@@ -44,10 +44,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7524527"
-     inkscape:cx="140"
+     inkscape:cx="63.821054"
      inkscape:cy="186.02499"
      inkscape:document-units="px"
-     inkscape:current-layer="g7653"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="834"
@@ -228,7 +228,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="static-text English"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="default"
        id="text7285"
@@ -253,21 +253,9 @@
          x="34"
          y="205">Inventor</tspan>
     </text>
-    <text
-       x="192"
-       id="text7281"
-       xml:space="default"
-       y="205">
-      <tspan
-         style="font-size:10px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         x="192"
-         sodipodi:role="line"
-         id="tspan7283"
-         y="205">Year</tspan>
-    </text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="static-text German"
      id="g7819"
      inkscape:groupmode="layer">

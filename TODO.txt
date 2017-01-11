@@ -36,6 +36,10 @@ Probleme zum ganzen Spiel
  => ev svg Library oder die Library von inkskape etc...
  => ev als deb mit einem Grundstock von Karten / Vorlagen / Beispielen
 
+☐ Sicherstellen, dass wenn jemand mit mehr Rechenpower ein Overlay zu
+  diesem "Spiel" macht, dass das "Spiel" das abfängt und der Jung-Hacker/-Häckse
+  erkennt dass ein weiterer Overlay drauf ist
+
 
 Offene Geschichtliche Fragen
 ----------------------------

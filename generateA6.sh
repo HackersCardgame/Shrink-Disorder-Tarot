@@ -33,31 +33,31 @@ counter=0
    then 
      inkscape ./assembled/A6/templateA6.svg &
      file=$(basename $i .svg)
-     sleep 3
+     sleep 0.6
    fi
  
    /usr/bin/inkscape $i &
-   sleep 3
+   sleep 8
    xdotool key Ctrl+Alt+a
-   sleep 2
+   sleep 0.7
    xdotool key Ctrl+c
    sleep 0.2
    xdotool key Alt+Escape
-   sleep 2
+   sleep 0.5
    xdotool key Ctrl+v
    sleep 1
    xdotool key Ctrl+g
    sleep 1
    xdotool key Alt+Escape
-   sleep 0.2
+   sleep 0.5
    xdotool key Alt+F4
 
    if (( $counter % 2 == 0 ))
    then 
      file=$file-$(basename $i .svg)
-     sleep 2
+     sleep 0.6
      xdotool key Ctrl+Alt+a
-     sleep 1
+     sleep 0.5
      xdotool key Shift+Ctrl+a
      sleep 0.2
      xdotool key Tab Tab Tab Tab Tab

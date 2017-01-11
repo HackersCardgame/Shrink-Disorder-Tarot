@@ -22,7 +22,7 @@ else
 fi
 
 
-find ./cards -name "*.svg" >./A6.txt
+find ./cards.EN -name "*.svg" >./A6.txt
 
 counter=0
 
@@ -31,33 +31,33 @@ counter=0
    let counter=counter+1
    if (( $counter % 2 == 1 ))
    then 
-     inkscape ./assembled/A6/templateA6.svg &
+     inkscape ./assembled.EN/A6/templateA6.svg &
      file=$(basename $i .svg)
-     sleep 3
+     sleep 0.6
    fi
  
    /usr/bin/inkscape $i &
-   sleep 6
+   sleep 8
    xdotool key Ctrl+Alt+a
-   sleep 2
+   sleep 0.7
    xdotool key Ctrl+c
    sleep 0.2
    xdotool key Alt+Escape
-   sleep 2
+   sleep 0.5
    xdotool key Ctrl+v
    sleep 1
    xdotool key Ctrl+g
    sleep 1
    xdotool key Alt+Escape
-   sleep 0.2
+   sleep 0.5
    xdotool key Alt+F4
 
    if (( $counter % 2 == 0 ))
    then 
      file=$file-$(basename $i .svg)
-     sleep 4
+     sleep 0.6
      xdotool key Ctrl+Alt+a
-     sleep 1
+     sleep 0.5
      xdotool key Shift+Ctrl+a
      sleep 0.2
      xdotool key Tab Tab Tab Tab Tab

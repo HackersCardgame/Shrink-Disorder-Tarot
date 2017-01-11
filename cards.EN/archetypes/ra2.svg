@@ -473,8 +473,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7524527"
-     inkscape:cx="31.221126"
-     inkscape:cy="137.03855"
+     inkscape:cx="140"
+     inkscape:cy="186.02499"
      inkscape:document-units="px"
      inkscape:current-layer="g7411"
      showgrid="false"
@@ -496,7 +496,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -787,7 +787,10 @@
        x="32"
        y="264"
        id="text8156"
-       xml:space="default">
+       xml:space="default"
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2017/januar/Shrink-Disorder-Tarot/png/English/ra2.png"
+       inkscape:export-xdpi="375.67999"
+       inkscape:export-ydpi="375.67999">
       <tspan
          sodipodi:role="line"
          id="tspan12090"
@@ -799,7 +802,10 @@
        xml:space="default"
        id="Parameter"
        y="284"
-       x="32">
+       x="32"
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2017/januar/Shrink-Disorder-Tarot/png/English/ra2.png"
+       inkscape:export-xdpi="375.67999"
+       inkscape:export-ydpi="375.67999">
       <tspan
          style="font-size:8px;font-weight:bold;-inkscape-font-specification:Sans Bold"
          y="284"
@@ -811,7 +817,10 @@
        x="32"
        y="205"
        id="StaticTextShrink"
-       xml:space="default">
+       xml:space="default"
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2017/januar/Shrink-Disorder-Tarot/png/English/ra2.png"
+       inkscape:export-xdpi="375.67999"
+       inkscape:export-ydpi="375.67999">
       <tspan
          y="205"
          x="32"
@@ -824,7 +833,10 @@
        xml:space="default"
        id="ShrinkJahr"
        x="220"
-       style="text-align:end;text-anchor:end">
+       style="text-align:end;text-anchor:end"
+       inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2017/januar/Shrink-Disorder-Tarot/png/English/ra2.png"
+       inkscape:export-xdpi="375.67999"
+       inkscape:export-ydpi="375.67999">
       <tspan
          y="205"
          id="tspan12098"

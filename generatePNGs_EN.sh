@@ -22,7 +22,7 @@ else
 fi
 
 
-find ./cards -name "*.svg" >./PNGs.txt
+find ./cards.EN -name "*.svg" >./PNGs.txt
 
 counter=0
 
@@ -46,7 +46,7 @@ counter=0
 #   xdotool key Tab  Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab
 #   sleep 2
 
-   xdotool type '/home/claude/Daten.2015/myLife/Tagebuch/2017/januar/Shrink-Disorder-Tarot/png/German/'
+   xdotool type '/home/claude/Daten.2015/myLife/Tagebuch/2017/januar/Shrink-Disorder-Tarot/png/English/'
    xdotool type $(basename $i .svg)
    echo $i
    sleep 0.3

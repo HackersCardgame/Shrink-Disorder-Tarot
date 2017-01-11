@@ -44,7 +44,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7524527"
-     inkscape:cx="64.962314"
+     inkscape:cx="-11.216632"
      inkscape:cy="186.02499"
      inkscape:document-units="px"
      inkscape:current-layer="g7683"
@@ -313,7 +313,7 @@
     </text>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="static-text-shrink English"
      id="g12086"
      inkscape:groupmode="layer">
@@ -371,7 +371,7 @@
      inkscape:groupmode="layer"
      id="g7801"
      inkscape:label="static-text-shrink German"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="default"
        id="text7803"

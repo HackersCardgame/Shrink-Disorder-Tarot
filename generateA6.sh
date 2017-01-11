@@ -37,7 +37,7 @@ counter=0
    fi
  
    /usr/bin/inkscape $i &
-   sleep 6
+   sleep 3
    xdotool key Ctrl+Alt+a
    sleep 2
    xdotool key Ctrl+c
@@ -55,7 +55,7 @@ counter=0
    if (( $counter % 2 == 0 ))
    then 
      file=$file-$(basename $i .svg)
-     sleep 4
+     sleep 2
      xdotool key Ctrl+Alt+a
      sleep 1
      xdotool key Shift+Ctrl+a

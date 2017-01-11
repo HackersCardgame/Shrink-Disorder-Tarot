@@ -25,6 +25,7 @@
 ./cards/methods/m8.svg
 ./cards/methods/m15.svg
 ./cards/methods/m9.svg
+./cards/methods/m15-mod.svg
 ./cards/methods/m16.svg
 ./cards/methods/m28.svg
 ./cards/chemicals/c1.svg
@@ -66,6 +67,10 @@
 ./cards/archetypes/ra4.svg
 ./cards/brain/b1.svg
 ./cards/brain/b2.svg
+./cards/symbolism/s1.svg
+./cards/symbolism/s3.svg
+./cards/symbolism/s4.svg
+./cards/symbolism/s2.svg
 ./cards/technologies/t2.svg
 ./cards/technologies/t8.svg
 ./cards/technologies/t6.svg

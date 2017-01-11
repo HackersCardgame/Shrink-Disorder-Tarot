@@ -55,6 +55,8 @@ Ideen zum ganzen Spiel
 
 ☐ denkbar Methoden und Technologie-Karten zu nem standard hajo banzhaf Deck zu Drucken (anderes Format)
 
+☐ Rust™-BOT karte mit stein und allenfalls in weiss wie die SkinnerBOX
+
 ☐ quartett allenfalls mit so etwas wie digitales Positit "craften":
 https://www.heise.de/newsticker/meldung/Digitales-Post-it-laeuft-ohne-Stromzufuhr-3357347.html
 

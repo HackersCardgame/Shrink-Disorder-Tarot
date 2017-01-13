@@ -9,7 +9,7 @@
 
 <?php
 
-   echo "../".$_GET["dir"]."/*.*";
+   echo "../".$_GET["dir"]."/*.*<br>";
 
    $files = glob("../".$_GET["dir"]."/*.*");
 

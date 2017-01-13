@@ -19,7 +19,7 @@ echo "
 
 "
 
-find ./cards -name "*.svg" >./print.txt
+find ../cards -name "*.svg" >./print.txt
 
 
 echo put $(cat ./print.txt |wc -l) A6 Cards into your printer

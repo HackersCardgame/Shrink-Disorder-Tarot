@@ -1,18 +1,20 @@
-25c25
-< find ./cards -name "*.svg" >./A4.txt
----
-> find ./cards.EN -name "*.svg" >./A4.EN.txt
-29c29
-<  for i in $(cat ./A4.txt)
----
->  for i in $(cat ./A4.EN.txt)
-34c34
-<      inkscape ./assembled/A4/templateA4.svg &
----
->      inkscape ./assembled.EN/A4/templateA4.svg &
 #!/bin/bash
 
 clear
+
+if  [ "$1" = "" ]
+then
+echo -e "
+\e[39m
+Usage:
+------
+To generate the Enlgish A4 sheets: \e[36m./generateA4.sh EN\e[39m
+To generate the German  A4 sheets: \e[36m./generateA4.sh DE\e[39m
+
+
+"
+exit 0
+fi
 
 echo -e "\e[31m * You need to install the fonts (./fonts/install.sh),
  * to close all instances of inkscape
@@ -34,16 +36,16 @@ else
 fi
 
 
-find ./cards -name "*.svg" >./A4.txt
+find ../cards/$1 -name "*.svg" >./A4_$1.txt
 
 counter=0
 
- for i in $(cat ./A4.txt)
+ for i in $(cat ./A4_$1.txt)
   do
    let counter=counter+1
    if (( $counter % 8 == 1 ))
    then 
-     inkscape ./assembled/A4/templateA4.svg &
+     inkscape ../assembled/$1/templateA4.svg &
      file=$(basename $i .svg)
      sleep 3
    else

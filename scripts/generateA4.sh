@@ -22,12 +22,12 @@ echo -e "\e[31m * You need to install the fonts (./fonts/install.sh),
  * for the moment it runs on gnome only
 "
 echo -n "Press [ENTER] if you changed the settings."
-read answer
+#read answer
 
 echo
 
 echo -n "install/remove required/unrequired debian jessie packages (y/n)? "
-read answer
+#read answer
 if echo "$answer" | grep -iq "^y" ;then
 sudo apt-get install xdotool figlet
 sudo apt-get remove clipit

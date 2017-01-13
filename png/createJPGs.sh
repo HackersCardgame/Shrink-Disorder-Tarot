@@ -7,8 +7,18 @@ do
   mkdir --parents ../jpg/$l
 
 
-  find ./$l/ -name '*.png' -exec convert -format jpg -quality 50 '{}' ../jpg/'{}'.jpg \;
+  find ./$l/ -name '*.png' >temp.txt
+
+  for f in $(cat ./temp.txt)
+  do
+    echo $f
+    echo convert -format jpg -quality 50 $(dirname $f)/$(basename $f .png).png ../jpg/$(dirname $f)/$(basename $f .png).jpg
+    convert -format jpg -quality 50 $(dirname $f)/$(basename $f .png).png ../jpg/$(dirname $f)/$(basename $f .png).jpg
+  done
+
 
 done
 
-#convert image.png image.jpg
+rm temp.txt
+rm languages.txt
+

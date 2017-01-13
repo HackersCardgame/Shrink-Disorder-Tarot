@@ -1,15 +1,3 @@
-25c25
-< find ./cards -name "*.svg" >./A4.txt
----
-> find ./cards.EN -name "*.svg" >./A4.EN.txt
-29c29
-<  for i in $(cat ./A4.txt)
----
->  for i in $(cat ./A4.EN.txt)
-34c34
-<      inkscape ./assembled/A4/templateA4.svg &
----
->      inkscape ./assembled.EN/A4/templateA4.svg &
 #!/bin/bash
 
 clear

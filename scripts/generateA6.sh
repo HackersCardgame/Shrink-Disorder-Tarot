@@ -1,3 +1,11 @@
+25c25
+< find ./cards -name "*.svg" >./A6.txt
+---
+> find ./cards.EN -name "*.svg" >./A6.txt
+34c34
+<      inkscape ./assembled/A6/templateA6.svg &
+---
+>      inkscape ./assembled.EN/A6/templateA6.svg &
 #!/bin/bash
 
 clear

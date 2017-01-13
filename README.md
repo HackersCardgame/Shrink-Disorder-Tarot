@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=K0uYfV4gpes
 
 (how to get the complete repository you can see in the Video "QuickStart")
 * "git clone https://github.com/braindef/Shrink-Disorder-Tarot/"
-* 
+* run the required script, normally you will just need the printAll.sh in the assemblies directory 
 
 ##### Game Idea:
 **You've been owned** OR **You’ve been set free**

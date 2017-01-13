@@ -25,8 +25,8 @@ sudo apt-get install inkscape
 sudo apt-get install xdotool figlet
 sudo apt-get remove clipit
 
-cd ./fonts
-./install.sh
+cd ../fonts
+./fonts.sh
 cd ..
 
 echo -e "\e[34m"
@@ -39,11 +39,11 @@ echo -e "\e[0m"
 
 echo you can now edit cards on your debian system by hand or fix my language speaksing mistakes by running ./editMultiLang.sh
 echo
-echo -e "or you can generate all cards with \e[33m./generateA4.sh\e[0m for A4 sheets"
-echo -e "or you can generate all cards with \e[33m./generateA6.sh\e[0m for A6 sheets"
+echo -e "or you can generate all German cards with \e[33m./generateA4.sh DE\e[0m for A4 sheets"
+echo -e "or you can generate all English cards with \e[33m./generateA6.sh EN\e[0m for A6 sheets"
 echo
-echo -e "or you can print all A4 cards with \e[33m./assembled/A4/printAll.sh\e[0m"
-echo -e "or you can print all A6 cards with \e[33m./assembled/A6/printAll.sh\e[0m"
+echo -e "or you can print all English A4 cards with \e[33m./assembled/A4/EN/printAll.sh\e[0m"
+echo -e "or you can print German all A6 cards with \e[33m./assembled/A6/DE/printAll.sh\e[0m"
 echo
 echo
 

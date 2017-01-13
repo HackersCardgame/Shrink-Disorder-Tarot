@@ -1,11 +1,12 @@
 #!/bin/bash
-./scripts/install.sh
-./scripts/generatePNGs.sh DE
-./scripts/generateA4.sh DE
-./scripts/generateA6.sh DE
-./scripts/generatePNGs.sh EN
-./scripts/generateA4.sh EN
-./scripts/generateA6.sh EN
+cd ./scripts
+./install.sh
+./generatePNGs.sh DE
+./generateA4.sh DE
+./generateA6.sh DE
+./generatePNGs.sh EN
+./generateA4.sh EN
+./generateA6.sh EN
 #./scripts/printPDF.sh
-./scripts/printAll.sh DE
-./scripts/printAll.sh EN
+./printAll.sh DE
+./printAll.sh EN

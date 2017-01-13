@@ -9,7 +9,9 @@
 
 <?php
 
-   $files = glob("../jpg/DE/*.*");
+   echo "../".$_GET["dir"]."/*.*";
+
+   $files = glob("../".$_GET["dir"]."/*.*");
 
   for ($i=0; $i<count($files); $i++)
 

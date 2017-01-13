@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="./website/small-style.css" target="_blank">
+    <h1> Psychiater Quartett / Psychiatrie Quartett / Shrink Disorder Game / Shrink Disorder Tarot</h1><br>
+  </head>
+  <body>
+  <a href="./index_EN.html"><img src="./EN.png" height=50></a> <a href="./index.html"><img src="./DE.png" height=50></a> <a href="./index.html"><img src="./by-nc-sa.png" height=50></a>
+<h2>Disclamer: wie das tor OONIPROBE, <font class=blink>THIS PROJECT <a href="http://marclandolt.ch/ml_buzzernet/2015/10/11/ooniprobe-the-onion-router-auf-debian-jessie-installieren#someRisk"><font color=tomato>involves "some" Risk</font></font></a> <br>
+<font color=tomato>Use eg. <a href="https://www.torproject.org/">The Onion Router</a> or <a href="https://tails.boum.org/index.de.html" target="_blank"><font color=yellow>TAILS</font></a> </font> (will NOT help, if your Endpoint is already under Survaillance)</h2>
+<small>seit ein paar Tagen haben die jetzt damit begonnen, immer wenn ich die Karten ausschneide über das Spinal Cord Implantat Muskel-Tremor zu verursachen, das Amygdala Implantat (Fight or Flight) und das Medulla Oblangata Implantat (afaik Herz, Lungenfunktion, Atemnot, "Cyber"-Waterboarden) zu aktivieren, nerv... ähm Aversion... und ausserem soll verschleidert werden, dass beim ausschneiden der Muskulatur Apparat dazu gesteuert wird unschön zu schneiden, bei den Ecken fällt mir auf, dass es dafür Skills in der Anatomie der Muskulatur braucht, und darauf fängt das System automatisiert an eine ArrayList<Fotos von 1980er Kinder> mit diesem Wissen über Medizin als Sündenblöcke einzublenden</small>
+
+
+<pre>
+ * [ klassische | vernünftige | geisteskranke ] Psychiater
+ * Film Psychiater
+ * Archetypen
+ * sonstige häufige Archetypen in Filmen
+ * Technologie Karten
+ * Methoden Karten
+ * Algorithmen Karten
+</pre>
+
+<h3><a href="https://github.com/braindef/Shrink-Disorder-Game"><font color=lightgreen>NEW GIT Repository</font></a></h3>>
+<h2><a href="https://github.com/braindef/Shrink-Disorder-Tarot"><font color=lightgreen>NEW GIT Repository</font></a></h2>
+
+
+<h2>Für Windows und OSX gibt es zur Zeit noch keine Editor-Funktion: <a href="./PDFs/display.php"> PDF - Variante für</a> <font class=blink color=pink>Windows und Apple OSX</font></h2>
+
+verwendete Software:
+<a href="https://inkscape.org/de/herunterladen/"><font color=yellow>Inkscape</font></a> on <a href="https://www.gnu.org/software/software.html"><font color=tomato>GNU</font></a> <a href="https://www.debian.org/distrib/"><font color=lightblue>debian jessie/stretch</font></a> <a href="https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#Supercomputers">Linux</a> <br><br>z.B. <a href="https://www.youtube.com/watch?v=Fl2Y8IHC3aQ">auf nen USB >> 3.0 << Stick installieren</a> <font color=tomato>am besten zuvor seine Windows Hard-Disk physikalisch ausziehen, dann macht man sein Windwos nicht aus Versehen kaputt</font><br>
+
+Ausdrucken geht am besten auf A6 Halbkarton Karten <a href="https://produkte.migros.ch/papeteria-a6-schreib-und-bastelkarten">oder (250.0 g/m²) </a>in einem Laser Drucker, in meinem Fall ein Brother MFC-9460cdn Papier unter 250.0 g/m² wird nicht so toll.
+<br>
+<p>Letztere gibt die besseren Karten, aber allenfalls muss man das dem Laser-Drucker sagen damit die Heizschlaufe im Drucker wärmer macht sonst hält der Toner schlecht, oder FotoPapier A6 wäre ev. noch besser</p>
+
+<p>Mit dem <a href="https://www.google.ch/search?q=canon+fotopapier+10x15+100+blatt&biw=1600&bih=807&source=lnms&tbm=isch&sa=X">GP-501 von Canon</a> geht es grundsätzlich, aber auf der Rückseite gibt es dann wieder das Problem, dass die Farbe schlecht hält, Packung a 100 Stück ca 12.-- also ist man für Fr 2.50 für 20 Karten dabei falls wenn man irgendwo Zugriff auf einen Laser Drucker und einen Debian Linux Computer hat...nehmen wir ein Solero Glace als <a href="https://de.wikipedia.org/wiki/Subjektivismus#Subjektivismus_in_der_Philosophiegeschichte">Mass aller Dinge</a>, sollte das im Budget jedes Kindes im Westen liegen<br>[UPDATE] für 10x teurer auf Canon SG-201 Foto-Papier wird noch ein bisschen toller, bis auf den Canon Aufdruck auf der Rückseite den man leider leicht sieht, aber wenn man z.B. die Rückseite mit ner anderen Farbe "customized" würds grundsätzlich gehen</p>
+<a href="./fotopapier.png"><img src="./fotopapier.png" height=200></a> <a href="./PrinterSettings.png"><img src="./PrinterSettings.png" height=200></a> <a href="./A4.png"><img src="./A4.png" height=200></a> <a href="./Laminator.png"><img src="./Laminator.png" height=200></a>
+
+<br><br>
+<font class=blink>Ganz wichtig, nach dem Drucken der Vorderseite muss man die Karten (zumindest in meinem Brother Drucker) wieder gerade biegen sonst verhäddern sich diese komplett, am besten zieht man dafür Latex oder dünne Stoff-Handschuhe sonst gibts Fingerabdrücke wo dann die Farbe nicht hält.</font>
+
+<br><br><br>
+<h2><font id=mitmachen color=lightgreen>Beispiele: (Mitmachen erwünscht)</font></h2>
+
+
+ <iframe text-align=center width=1400 height=2600 src="./png/German/small/display.php"></iframe> 
+
+<br>
+Rückseite ist im Ordner: <a href="https://github.com/braindef/Shrink-Disorder-Game/tree/master/back">back</a>
+
+<br><br><br><br>
+<h1 id="combinations">Karten Kombinationen:</h1>
+<a href="CardCombinations.png"><img width=1300 src="./CardCombinations.png"></a>
+<br>Wissenschftlich würde man hier von einem <a href="https://www.google.ch/search?q=Morphologischen+Kasten&safe=off&tbm=isch&tbo=u&source=univ&sa=X#imgrc=w5qQjPnMheMuOM%3A" target="_blank">Morphologischen Kasten</a> <font color=tomato>(achtung Google)</font> sprechen.<br> 
+
+<h2>Motivation dieses Projektes</h2>
+Konzept entwickeln um Jugendlichen spielierisch zu zeigen, wie der Missbrauch in vielen Jobs oder auch wissenschaftlichen Disziplinen funktioniert. allenfalls für einige Karten noch ein FSK machen.
+Den einstieg habe ich mit dem Buch <a href="http://www.buchtippse.de/314-missbrauch-von-hypnose.html">http://www.buchtippse.de/314-missbrauch-von-hypnose.html</a> gefunden.
+
+<h2>Autismus</h2>
+Grundsätzlich wäre es wohl möglich, einem Autisten mit <a href="https://en.wikipedia.org/wiki/Picture_Exchange_Communication_System">PECS</a> kompletten Schwachsinn aufzuspielen und irgendwelche pädo-sadistischen Eltern fänden das allenfalls sogar "ulkig", mit den Karten würde man dem missbrauchen Autisten allenfalls(?) auch beibringen können wie er "fernbedinet" wird, also so zu sagen das <a href="https://docs.oracle.com/javase/tutorial/reflect/">Refelction API</a>
+
+<h2>Artverwandte Themen</h2>
+<a href="http://psychiatrie-leaks.ch/"><font size=4em color=lightblue>http://psychiatrie-leaks.ch/</font></a> <a href="http://suizid-app.ch/"><font size=4em color=tomato>http://suizid-app.ch/</font></a>
+
+
+<h2><font color=yellow>Rechtliches</font></h2>
+<font color=yellow>Möge dieses Repo unter Creative Commons by-nc-sa stehen + mögen die Lizenzbedingungen für den Fall dass damit Kinder oder Jüngere geschützt werden können auch umgangen werden...</font>
+
+<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">https://creativecommons.org/licenses/by-nc-sa/4.0/</a>
+
+
+    </pre><br><br>
+<font color=orange>[ Marc Landolt jun. | Rombacht&auml;li 13 | 5022 Rombach | Switzerland | <strike>+41 79 291 07 87</strike> | www.marclandolt.ch ]</font><br><br>
+  </body>
+</html>

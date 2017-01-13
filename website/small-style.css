@@ -1,11 +1,9 @@
 html {
 padding: 8px 25px;
 list-style: none;
-background: #fff;
+background: #282828;
 color: #ffffff; 
-font-family: monospace; 
-margin: 5px;
-}
+font-family: monospace; }
 
 /* unvisited link */
 a:link {

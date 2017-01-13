@@ -20,7 +20,7 @@
       height: 200px;
       position: relative;
       margin: 0 auto 40px;
-      border: 1px solid #CCC;
+      border: 1px solid #FFF;
       -webkit-perspective: 800px;
          -moz-perspective: 800px;
            -o-perspective: 800px;

@@ -1,11 +1,3 @@
-25c25
-< find ./cards -name "*.svg" >./PNGs.txt
----
-> find ./cards.EN -name "*.svg" >./PNGs.txt
-49c49
-<    xdotool type '/home/claude/Daten.2015/myLife/Tagebuch/2017/januar/Shrink-Disorder-Tarot/png/German/'
----
->    xdotool type '/home/claude/Daten.2015/myLife/Tagebuch/2017/januar/Shrink-Disorder-Tarot/png/English/'
 #!/bin/bash
 
 clear

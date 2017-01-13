@@ -1,13 +1,3 @@
-25c25
-< find ./cards -name "*.svg" >./PNGs.txt
----
-> find ./cards.EN -name "*.svg" >./PNGs.txt
-49c49
-<    xdotool type '/home/claude/Daten.2015/myLife/Tagebuch/2017/januar/Shrink-Disorder-Tarot/png/German/'
----
->    xdotool type '/home/claude/Daten.2015/myLife/Tagebuch/2017/januar/Shrink-Disorder-Tarot/png/English/'
-#!/bin/bash
-
 #!/bin/bash
 
 clear
@@ -49,7 +39,7 @@ else
 fi
 
 
-find ./cards/$1 -name "*.svg" >./PNGs.txt
+find ../cards/$1 -name "*.svg" >./PNGs.txt
 
 counter=0
 
@@ -90,5 +80,16 @@ counter=0
    echo close
   sleep 0.2 
   xdotool key Alt+w
-  done
+done
+
+
+echo -n "generate also the JPGs (y/n)? "
+
+read answer
+if echo "$answer" | grep -iq "^y" ;then
+    echo not yet implementet...
+else
+    echo not installing packages
+fi
+echo -e "\e[0m"
 

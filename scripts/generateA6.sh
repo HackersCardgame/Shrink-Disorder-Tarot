@@ -1,3 +1,21 @@
+#!/bin/bash
+
+clear
+
+if  [ "$1" = "" ]
+then
+echo -e "
+\e[39m
+Usage:
+------
+To generate the Enlgish A6 sheets: \e[36m./generateA6.sh EN\e[39m
+To generate the German  A6 sheets: \e[36m./generateA6.sh DE\e[39m
+
+
+"
+exit 0
+fi
+
 25c25
 < find ./cards -name "*.svg" >./A6.txt
 ---
@@ -30,16 +48,16 @@ else
 fi
 
 
-find ./cards -name "*.svg" >./A6.txt
+find ../cards/$1 -name "*.svg" >./A6_$1.txt
 
 counter=0
 
- for i in $(cat ./A6.txt)
+ for i in $(cat ./A6_$1.txt)
   do
    let counter=counter+1
    if (( $counter % 2 == 1 ))
    then 
-     inkscape ./assembled/A6/templateA6.svg &
+     inkscape ../assembled/$1/A6/templateA6.svg &
      file=$(basename $i .svg)
      sleep 0.6
    fi

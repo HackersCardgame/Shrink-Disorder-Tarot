@@ -8,6 +8,25 @@
 >    xdotool type '/home/claude/Daten.2015/myLife/Tagebuch/2017/januar/Shrink-Disorder-Tarot/png/English/'
 #!/bin/bash
 
+#!/bin/bash
+
+clear
+
+if  [ "$1" = "" ]
+then
+echo -e "
+\e[39m
+Usage:
+------
+To generate the Enlgish PNGs sheets: \e[36m./generatePNGs.sh EN\e[39m
+To generate the German  PNGs sheets: \e[36m./generatePNGs.sh DE\e[39m
+
+
+"
+exit 0
+fi
+
+
 clear
 
 echo -e "\e[31m * You need to install the fonts (./fonts/install.sh),
@@ -30,7 +49,7 @@ else
 fi
 
 
-find ./cards -name "*.svg" >./PNGs.txt
+find ./cards/$1 -name "*.svg" >./PNGs.txt
 
 counter=0
 
@@ -54,7 +73,7 @@ counter=0
 #   xdotool key Tab  Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab Tab
 #   sleep 2
 
-   xdotool type '/home/claude/Daten.2015/myLife/Tagebuch/2017/januar/Shrink-Disorder-Tarot/png/German/'
+   xdotool type "/home/claude/Daten.2017/myLife/Tagebuch/2017/januar/Shrink-Disorder-Tarot/png/$1/"
    xdotool type $(basename $i .svg)
    echo $i
    sleep 0.3

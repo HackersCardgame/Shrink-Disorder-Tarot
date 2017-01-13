@@ -45,7 +45,7 @@ counter=0
    let counter=counter+1
    if (( $counter % 8 == 1 ))
    then 
-     inkscape ../assembled/$1/templateA4.svg &
+     inkscape ../assembled/$1/A4/templateA4.svg &
      file=$(basename $i .svg)
      sleep 3
    else

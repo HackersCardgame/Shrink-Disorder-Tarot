@@ -51,7 +51,8 @@ Weshalb fehlen bei...
  * Pokemon Karten
 ...etc. die Technologie Karten, z.B. bei Magic hat es nur diese ollen "Elemente-Karten"
 
-
+ * bzw. als Addon / Hack an Tarot, Magic, Pokemon (da müsste man aber z.B.
+   das Format und das Design ändern
 
 
 Ideen zum ganzen Spiel

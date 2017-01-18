@@ -1,5 +1,10 @@
-# Shrink Disorder Tarot / Card Game
+### Shrink Disorder Tarot / Card Game
 ###### The problem with normal Tarot or other Card Games is, that it (intentionally) lacks Technology, Method and Algorithm Cards.
+
+# Outdated
+## NEW REPO: https://github.com/braindef/Shrink-Disorder-Tarot-0.2.0
+## NEW GAME: https://github.com/braindef/Hackers-Cardgame
+(not yet populated with cards)
 
  - [ movie- | game- | jungian-] - archetypes (normal tarot)
  - [ movie- | classical- ] - psychiatrists
